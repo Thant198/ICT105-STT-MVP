@@ -39,3 +39,49 @@ The team selected the Campus Life domain and decided to develop a Student Projec
 3. Identify user pain points and existing alternatives.
 4. Analyze opportunity areas.
 5. Prepare Lab 2 documentation.
+
+## Lab 02: IT Opportunity Scanning
+### What We Completed
+1.Conducted brainstorming sessions to generate multiple IT opportunity ideas.
+2.Applied NUF (New, Useful, Feasible) scoring to evaluate each idea.
+3.Narrowed down to one selected opportunity based on team consensus.
+### Selected Opportunity
+Student Project Management System
+### Why We Selected It
+We applied the NUF scoring framework:
+
+New: The idea introduces a novel approach compared to existing solutions.
+
+Useful: It directly addresses a real user need identified during Lab 02.
+
+Feasible: The team has the technical skills and resources to implement it.
+
+The selected opportunity scored highest overall, making it the most balanced choice.
+### What We Rejected
+
+We considered [Meeting Scheduler System], but it was rejected because:
+It scored lower in feasibility due to resource constraints.
+The usefulness was limited compared to the selected opportunity.
+
+### What We Learned
+1.Structured evaluation (NUF scoring) helps avoid bias in decision-making.
+2.Some ideas may sound exciting but fail when tested against feasibility.
+3.Clear documentation ensures the whole team understands the decision rationale.
+
+### Evidence of Work
+- Opportunity scan file:https://github.com/Thant198/ICT105-STT-MVP/blob/15ddb402bc7b55e54a0b5a73a2b562e27b340040/docs/opportunity-scan.md
+- NUF scoring file:https://docs.google.com/spreadsheets/d/1ASDiVA3A2QnaPEqoUgM9k2qQT_FC5xgV-DXnze-p5OA/edit?usp=sharing
+- Selected opportunity file:https://github.com/Thant198/ICT105-STT-MVP/blob/15ddb402bc7b55e54a0b5a73a2b562e27b340040/docs/selected.opportunity.md
+- GitHub issue screenshot:<img width="1920" height="1080" alt="{21F8061C-F318-40DF-B1DE-C720422688A1}" src="https://github.com/user-attachments/assets/1b141cb0-d837-4a99-a52b-a7a587b74694" />
+- Commit link:https://github.com/Thant198/ICT105-STT-MVP/commit/15ddb402bc7b55e54a0b5a73a2b562e27b340040
+
+### Plan for Lab 03
+The team will conduct customer problem discovery by:
+
+Preparing interview and survey questions.
+
+Identifying target respondents.
+
+Collecting feedback to validate the selected opportunity.
+
+Documenting insights in GitHub for transparency and iteration.
