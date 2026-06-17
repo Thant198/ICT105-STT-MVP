@@ -97,3 +97,24 @@ The team has successfully created the GitHub repository and organized the requir
 4. Analyze existing alternatives.
 5. Prepare opportunity scanning documentation.
 6. Begin MVP planning and prototype design.
+## Initial Problem Area
+
+University students often struggle to manage project tasks, assignment deadlines, project files, and team communication. Important information is usually scattered across chat groups, documents, and personal notes, making it difficult to stay organized and complete projects efficiently.
+
+## Target Users
+
+- University students
+- Student project teams
+- Students working on assignments and semester projects
+
+## Selected IT Venture Direction
+
+Our team selected the Student Project Management System. The target users are university students who need a better way to organize project tasks, deadlines, files, and team communication. We selected this idea because it is useful, feasible, and can be developed as a web-based MVP using HTML, CSS, and JavaScript without requiring IoT devices or advanced cybersecurity implementation.
+
+## Current Status
+
+In Lab 02, the team reviewed six possible IT opportunities, evaluated them using the NUF (New, Useful, Feasible) scoring method, and selected one semester project idea. The Student Project Management System received the highest score and was chosen as the official MVP project.
+
+## Next Step
+
+In Lab 03, the team will prepare customer discovery questions, interview university students, collect user evidence, validate pain points, and identify detailed user requirements for the MVP.
