@@ -1,4 +1,44 @@
-Total score if scores are in columns B, C, and D:
+# NUF Scoring Matrix
+
+## NUF Criteria
+
+| Criterion | Question |
+|-----------|----------|
+| New | Is the idea different or improved compared with current alternatives? |
+| Useful | Does it solve a meaningful problem for a clear user? |
+| Feasible | Can the team prototype it within the semester using available skills and tools? |
+
+## Scoring Scale
+
+| Score | Meaning |
+|---------|----------|
+| 1 | Very Weak |
+| 2 | Weak |
+| 3 | Moderate |
+| 4 | Strong |
+| 5 | Very Strong |
+
+## Opportunity Scoring
+
+| Idea | New | Useful | Feasible | Total | Rank | Notes |
+|------|-----|--------|----------|-------|------|-------|
+| Student Project Management System | 5 | 5 | 5 | 15 | 1 | Selected MVP |
+| Student Attendance Reminder System | 4 | 4 | 5 | 13 | 2 | Good Alternative |
+| Campus Service Information System | 3 | 4 | 5 | 12 | 3 | Feasible |
+| Event Management Platform | 3 | 3 | 4 | 10 | 4 | Moderate |
+| Team Progress Dashboard | 4 | 3 | 4 | 11 | 5 | Moderate |
+| Meeting Scheduler System | 3 | 3 | 4 | 10 | 6 | Optional |
+
+## Formula
+
+Total Score:
+
 =SUM(B2:D2)
-Ranking if total score is in column E:
+
+Ranking Formula:
+
 =RANK(E2,$E$2:$E$7,0)
+
+## Final Selection
+
+The Student Project Management System received the highest NUF score (15/15) and was selected as the semester MVP project because it is new, useful, and highly feasible for development within the available semester timeline.
