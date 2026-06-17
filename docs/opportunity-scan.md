@@ -29,3 +29,8 @@
 | Event Management Platform | Landing Page | HTML, CSS | Event Data | Low | Yes |
 | Team Progress Dashboard | Dashboard | Google Sheets | Team Progress Data | Low | Yes |
 | Meeting Scheduler System | Web App | HTML, CSS, JS | Meeting Schedule Data | Medium | Yes |
+
+## Opportunity Scoring Spreadsheet
+
+Google Sheet:
+https://docs.google.com/spreadsheets/d/1ASDiVA3A2QnaPEqoUgM9k2qQT_FC5xgV-DXnze-p5OA/edit?usp=sharing
