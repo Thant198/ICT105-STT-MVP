@@ -1,0 +1,4 @@
+Total score if scores are in columns B, C, and D:
+=SUM(B2:D2)
+Ranking if total score is in column E:
+=RANK(E2,$E$2:$E$7,0)
