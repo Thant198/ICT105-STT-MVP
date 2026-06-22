@@ -85,3 +85,26 @@ Identifying target respondents.
 Collecting feedback to validate the selected opportunity.
 
 Documenting insights in GitHub for transparency and iteration.
+
+# Weekly Logbook - Lab 03
+
+## Week
+
+Lab 03 - Customer Problem Discovery
+
+## Tasks Completed
+
+- Defined target users
+- Prepared customer discovery questions
+- Conducted interviews and surveys
+- Identified common pain points
+- Created assumption-evidence table
+- Updated GitHub documentation
+
+## What We Learned
+
+Students face challenges managing projects, announcements, and campus activities.
+
+## Next Week Plan
+
+Design MVP features based on customer discovery findings.
