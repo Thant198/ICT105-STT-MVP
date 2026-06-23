@@ -118,3 +118,23 @@ In Lab 02, the team reviewed six possible IT opportunities, evaluated them using
 ## Next Step
 
 In Lab 03, the team will prepare customer discovery questions, interview university students, collect user evidence, validate pain points, and identify detailed user requirements for the MVP.
+
+## Customer Problem Discovery Summary
+
+In Lab 03, our team collected early problem evidence from university students to validate the selected problem from Lab 02. The goal was to understand how students currently manage project deadlines, announcements, and team communication, and to identify the difficulties they experience.
+
+## Target Respondents
+
+The team interviewed and surveyed university students who regularly participate in academic projects, group assignments, and campus activities. These students are the primary users who experience the identified problems.
+
+## Main Evidence Found
+
+Several students reported missing important announcements because information was shared across multiple platforms such as LINE, Facebook Groups, Messenger, and Email. Students also mentioned difficulties tracking project deadlines and coordinating with team members. Common workarounds included checking multiple communication channels, setting personal reminders, and relying on friends for updates.
+
+## Updated Problem Statement
+
+University students experience difficulties managing project-related information because announcements, deadlines, and team communication are spread across multiple platforms. This often results in missed announcements, forgotten deadlines, and inefficient team coordination.
+
+## Decision for Next Step
+
+The team will continue with the same problem direction because customer discovery findings confirmed that the problem is real, recurring, and important to the target users. The next step is to design an MVP that focuses on centralized announcements, deadline tracking, and team
