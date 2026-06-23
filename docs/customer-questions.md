@@ -1,31 +1,28 @@
 # Customer Discovery Questions
 
-Project: Campus Life - Student Project Management System
+## Project Title
 
-Target Respondents:
-- Students
-- Club Members
-- Event Organizers
-- Lecturers
+## Target Respondent
 
-Questions:
+## Consent and Context
+1. May we ask you a few questions for our ICT105 course project?
+2. Your participation is voluntary. We will not collect unnecessary personal data. Is it okay if we take notes?
 
-1. Tell me about the last time you participated in a campus project or event.
+## Recent Experience
+3. Tell us about the last time you missed an important project update, announcement, or deadline.
+4. What were you trying to do at that time?
+5. What happened from start to finish?
 
-2. How do you usually receive information about campus activities?
+## Current Workaround
+6. How do you currently keep track of project tasks, deadlines, and announcements?
+7. What tools, apps, people, or methods do you currently use?
+8. What is difficult, slow, confusing, risky, or frustrating about the current method?
 
-3. Have you ever missed an important campus announcement? What happened?
+## Pain Severity and Consequence
+9. How often do you miss important project information or deadlines?
+10. How serious is this problem on a scale of 1–5? Why?
+11. What happens if this problem is not solved?
 
-4. What difficulties do you face when managing student projects?
-
-5. How do you currently communicate with project team members?
-
-6. What tools or platforms do you use to track project progress?
-
-7. Have you ever forgotten a project deadline? What was the consequence?
-
-8. How do you register for campus events?
-
-9. What challenges do you experience during event registration?
-
-10. If these problems are not solved, how do they affect your academic or campus life?
+## Closing
+12. Is there anything else we should understand about how students manage projects and deadlines?
+13. May we use your anonymized response as part of our course project evidence?
