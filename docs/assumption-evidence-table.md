@@ -10,3 +10,6 @@
 - Weak: team opinion or friend feedback only
 - Moderate: repeated interview pattern from target users
 - Strong: users show behavior, complete a task, sign up, or provide specific evidence
+
+Raw responses google sheet:
+https://docs.google.com/spreadsheets/d/1MIBUSLEpEmFdttjFn0KsZnYbTUAzsuPj/edit?gid=822030104#gid=822030104
