@@ -1,8 +1,10 @@
 # Customer Discovery Questions
 
 ## Project Title
+Campus Life - Student Project Management System
 
 ## Target Respondent
+University Students
 
 ## Consent and Context
 1. May we ask you a few questions for our ICT105 course project?
