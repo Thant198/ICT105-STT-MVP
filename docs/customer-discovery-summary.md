@@ -1,34 +1,27 @@
 # Customer Discovery Summary
 
-## Overview
+## Project Title
 
-The team conducted customer discovery activities to understand challenges faced by students in managing campus projects, events, and announcements.
+## Target Users Studied
 
-## Key Findings
+## Number of Responses / Interviews
 
-1. Students frequently miss important announcements.
-2. Project deadlines are often forgotten.
-3. Event information is scattered across multiple platforms.
-4. Communication between project members is inconsistent.
-5. Students prefer a centralized system.
+## Main Repeated Problem
 
-## Current Workarounds
+## Main Current Workarounds
 
-- Messenger Groups
-- Facebook Pages
-- LINE Groups
-- Email Notifications
+## Strongest Evidence Found
 
-## Validation Signals
+## Weak Evidence or Unclear Findings
 
-Most respondents experienced at least one of the identified problems.
+## What We Must Revise
 
-## Weak Evidence
+## Decision for Next Lab
+Choose one:
+- Continue with same problem direction
+- Narrow the target user segment
+- Revise the problem statement
+- Change the project direction
 
-More responses are needed from lecturers and event organizers.
-
-## Next Steps
-
-- Continue collecting responses.
-- Design MVP features based on validated problems.
-- Create prototype screens.
+## Updated Problem Statement
+Write a specific, evidence-based problem statement.
