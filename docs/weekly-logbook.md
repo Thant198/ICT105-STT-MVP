@@ -174,7 +174,6 @@ The Student Management System is organized into several modules. Each module is 
 
 ## Diagram
 
-> Upload your diagram to the `docs` folder in your repository.
 
 ![Student Management System Diagram](docs/student-management-system-diagram.png)
 
