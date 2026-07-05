@@ -2,31 +2,30 @@
 
 ## 1. Persona Name
 
-**Nara, Year 2 ICT Student**
+**Nara, First-year ICT Student**
 
 ---
 
 ## 2. User Type
 
-University student who participates in group projects and campus activities.
+First-year university student who participates in group assignments and campus activities.
 
 ---
 
 ## 3. Background and Context
 
-- Experiences the problem while working on university group projects and campus events.
-- The problem usually happens during assignment periods and event registration.
-- Commonly uses LINE, Messenger, Facebook Groups, Google Classroom, Google Drive, and Email.
+- Studies at the university and works on multiple group assignments each semester.
+- Frequently experiences problems when announcements, project links, or deadline updates are shared across different platforms.
+- Uses Google Classroom (LMS), LINE, Messenger, Facebook, Google Drive, Email, and Google Docs daily.
 
 ---
 
 ## 4. Goals
 
-- Receive important announcements on time.
-- Track project deadlines without missing them.
-- Communicate easily with team members.
-- Find campus events in one place.
-- Complete projects more efficiently.
+- Never miss important announcements or assignment deadlines.
+- Easily access project files and shared links.
+- Stay updated with project tasks and team communication.
+- Find campus information quickly from one platform.
 
 ---
 
@@ -34,10 +33,10 @@ University student who participates in group projects and campus activities.
 
 | Pain Point | Evidence ID / Respondent | Explanation |
 |---|---|---|
-| Missed important announcements | R01, R03, R06 | Students receive information from many different platforms and often miss updates. |
-| Difficulty tracking deadlines | R02, R05, R08 | Deadlines are scattered across different apps, making them easy to forget. |
-| Poor communication among team members | R04, R07 | Team members sometimes miss messages or reply late. |
-| Event information is difficult to find | R03, R09 | Campus event details are posted on different platforms without a central location. |
+| Missed important announcements | R001, R010, R015 | Important notices were seen too late because they were shared on different platforms. |
+| Difficulty managing project links | R002, R011 | Students lost Google Doc or repository links needed for assignments. |
+| Poor project communication | R005, R007 | Students missed schedule changes or lost track of assigned tasks. |
+| Information scattered across multiple platforms | R003, R013 | Students had to search emails, chats, and documents to find information. |
 
 ---
 
@@ -45,18 +44,18 @@ University student who participates in group projects and campus activities.
 
 | Current Alternative | Weakness / Limitation | Evidence |
 |---|---|---|
-| LINE Groups | Important messages are buried among chat conversations. | R01, R04 |
-| Messenger Groups | Notifications are often ignored or missed. | R03, R07 |
-| Facebook Groups | Information is scattered and difficult to search later. | R05 |
-| Google Classroom | Mainly used for coursework, not campus activities. | R02 |
-| Email | Students do not check emails frequently. | R06 |
+| Google Classroom (LMS) | Students must manually check for updates. | R001 |
+| LINE / Messenger Groups | Important messages are buried in long conversations. | R002, R005 |
+| Email | Students often read emails too late. | R003, R010 |
+| Facebook Page | Event information is difficult to find quickly. | R009 |
+| Asking classmates or staff | Depends on other people and is time-consuming. | R004, R011, R013 |
 
 ---
 
 ## 7. Design Implications
 
-- The system should provide one platform for announcements, project management, and campus events.
-- The system should send clear deadline reminders and notifications.
-- The platform should support simple team communication and task tracking.
-- The team should avoid requiring users to switch between multiple applications.
-- **Most important MVP need:** A centralized platform that helps students receive announcements and manage project deadlines efficiently.
+- Provide one centralized platform for announcements, deadlines, project files, and campus events.
+- Support deadline reminders and notification alerts.
+- Make project documents and shared links easy to access.
+- Reduce the need to switch between multiple communication platforms.
+- **Most important MVP need:** A centralized student platform that helps users manage announcements, project tasks, deadlines, and important resources in one place.
