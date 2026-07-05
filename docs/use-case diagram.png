@@ -1,12 +1,12 @@
-## Student Management System Diagram
+# Week 14 – Student Management System Diagram
 
-### Objective
-Design a simple Student Management System module diagram.
+## Objective
+Design a simple Student Management System module diagram to identify the main functions and their relationship with the database.
 
-### Description
-The diagram illustrates the major modules of the Student Management System and their relationship with the central database.
+## Description
+The Student Management System is divided into several modules that manage students, courses, enrollment, attendance, grades, reports, and users. All modules are connected to a central database for storing and retrieving information.
 
-### Modules
+## Main Modules
 - Student Management
 - Course Management
 - Enrollment Management
@@ -16,14 +16,59 @@ The diagram illustrates the major modules of the Student Management System and t
 - User Management
 - Database
 
-### Diagram
+## Functions
 
-![Student Management System](docs/student-management-system-diagram.png)
+### Student Management
+- Add Student
+- View Student
+- Update Student
+- Delete Student
 
-### Explanation
-The Student Management System consists of seven main modules. Each module performs specific tasks such as managing students, courses, enrollment, attendance, grades, reports, and users. All modules are connected to a central database where the system stores and retrieves information.
+### Course Management
+- Add Course
+- View Course
+- Update Course
+- Delete Course
 
-### Learning Outcome
-- Learned how to organize system modules.
-- Understood the relationship between system components.
+### Enrollment Management
+- Enroll Student
+- View Enrollment
+- Update Enrollment
+- Delete Enrollment
+
+### Attendance Management
+- Mark Attendance
+- View Attendance
+- Attendance Report
+
+### Grade Management
+- Add Grade
+- View Grade
+- Update Grade
+- Grade Report
+
+### Report Management
+- Student Report
+- Attendance Report
+- Grade Report
+- Export Report
+
+### User Management
+- Add User
+- View User
+- Update User
+- Delete User
+
+## Diagram
+
+![Student Management System Diagram](docs/student-management-system-diagram.png)
+
+## Design Document
+
+[Student Management System Design Document](https://docs.google.com/document/d/1-I10U35gjm_2RiJ7Gf9ezc3KqYmpqlHRdYBiz0mV71k/edit?usp=drivesdk)
+
+## Learning Outcome
+- Learned how to design a Student Management System.
+- Identified the main modules and their functions.
+- Understood how each module interacts with the central database.
 - Improved system analysis and documentation skills.
