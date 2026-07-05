@@ -1,0 +1,29 @@
+## Student Management System Diagram
+
+### Objective
+Design a simple Student Management System module diagram.
+
+### Description
+The diagram illustrates the major modules of the Student Management System and their relationship with the central database.
+
+### Modules
+- Student Management
+- Course Management
+- Enrollment Management
+- Attendance Management
+- Grade Management
+- Report Management
+- User Management
+- Database
+
+### Diagram
+
+![Student Management System](docs/student-management-system-diagram.png)
+
+### Explanation
+The Student Management System consists of seven main modules. Each module performs specific tasks such as managing students, courses, enrollment, attendance, grades, reports, and users. All modules are connected to a central database where the system stores and retrieves information.
+
+### Learning Outcome
+- Learned how to organize system modules.
+- Understood the relationship between system components.
+- Improved system analysis and documentation skills.
