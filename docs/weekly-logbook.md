@@ -170,12 +170,6 @@ The Student Management System is organized into several modules. Each module is 
 - Update User
 - Delete User
 
----
-
-## Diagram
-
-
-![Student Management System Diagram](docs/student-management-system-diagram.png)
 
 ---
 
