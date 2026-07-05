@@ -108,3 +108,94 @@ Students face challenges managing projects, announcements, and campus activities
 ## Next Week Plan
 
 Design MVP features based on customer discovery findings.
+# Week 14 – Student Management System Diagram
+
+## Objective
+To design a simple Student Management System diagram and understand the relationship between the main system modules and the database.
+
+---
+
+## Student Management System Diagram
+
+The Student Management System is organized into several modules. Each module is responsible for a specific function, and all modules are connected to a central database for storing and retrieving information.
+
+### Main Modules
+- Student Management
+- Course Management
+- Enrollment Management
+- Attendance Management
+- Grade Management
+- Report Management
+- User Management
+- Database
+
+### Student Management
+- Add Student
+- View Student
+- Update Student
+- Delete Student
+
+### Course Management
+- Add Course
+- View Course
+- Update Course
+- Delete Course
+
+### Enrollment Management
+- Enroll Student
+- View Enrollment
+- Update Enrollment
+- Delete Enrollment
+
+### Attendance Management
+- Mark Attendance
+- View Attendance
+- Attendance Report
+
+### Grade Management
+- Add Grade
+- View Grade
+- Update Grade
+- Grade Report
+
+### Report Management
+- Student Report
+- Attendance Report
+- Grade Report
+- Export Report
+
+### User Management
+- Add User
+- View User
+- Update User
+- Delete User
+
+---
+
+## Diagram
+
+> Upload your diagram to the `docs` folder in your repository.
+
+![Student Management System Diagram](docs/student-management-system-diagram.png)
+
+---
+
+## Design Document
+
+Google Docs:
+https://docs.google.com/document/d/1-I10U35gjm_2RiJ7Gf9ezc3KqYmpqlHRdYBiz0mV71k/edit?usp=drivesdk
+
+---
+
+## Learning Outcome
+
+- Designed a simple Student Management System diagram.
+- Identified the main system modules.
+- Understood how each module communicates with the central database.
+- Improved system analysis and documentation skills.
+- Prepared the system design for future implementation.
+
+---
+
+**Status:** ✅ Completed
+
