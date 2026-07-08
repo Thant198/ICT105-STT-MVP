@@ -191,4 +191,62 @@ https://docs.google.com/document/d/1-I10U35gjm_2RiJ7Gf9ezc3KqYmpqlHRdYBiz0mV71k/
 ---
 
 **Status:** ✅ Completed
+# 📝 Update Weekly Logbook
 
+## Objective
+Document all Lab 05 activities, decisions, and GitHub contributions.
+
+---
+
+## Description
+
+Update the weekly logbook to record individual member contributions, completed tasks, project decisions, GitHub evidence, and progress for Lab 05.
+
+---
+
+## Tasks
+
+- [ ] Record meeting date
+- [ ] Record meeting objectives
+- [ ] Document completed tasks
+- [ ] Record project decisions
+- [ ] List member contributions
+- [ ] Add GitHub Issue links
+- [ ] Add Commit links
+- [ ] Add Pull Request links (if available)
+- [ ] Add screenshots
+- [ ] Update progress status
+- [ ] Review documentation
+
+---
+
+## Deliverables
+
+- weekly_logbook.md
+
+---
+
+## Acceptance Criteria
+
+- [ ] Lab 05 activities documented
+- [ ] Member contributions recorded
+- [ ] GitHub evidence included
+- [ ] README references updated
+- [ ] Weekly logbook uploaded to GitHub
+
+---
+
+## Priority
+High
+
+## Labels
+documentation
+logbook
+github
+lab05
+
+## Milestone
+Lab 05
+
+## Assignee
+Project Team
