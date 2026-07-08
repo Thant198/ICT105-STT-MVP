@@ -61,37 +61,58 @@ Lab 05
 
 ## Assignee
 Project Team
-# Business Model Canvas
+# Create Wireframe Usability Checklist
 
-## Project Title
-Write your group project title.
+## Objective
+Create a usability checklist to evaluate all wireframes before the final prototype development.
 
-## 1. Customer Segments
-Who are the main users or customers?
+## Description
+The checklist will ensure that every wireframe follows UI/UX best practices and meets the Lab 06 usability requirements.
 
-## 2. Value Proposition
-What problem does the product solve and what value does it provide?
+## Tasks
 
-## 3. Channels
-How will users find, access, or use the product?
+- [ ] Verify navigation consistency
+- [ ] Check screen layout consistency
+- [ ] Review typography and readability
+- [ ] Verify button placement
+- [ ] Check form usability
+- [ ] Review icon consistency
+- [ ] Verify spacing and alignment
+- [ ] Check color consistency
+- [ ] Validate accessibility
+- [ ] Verify user flow
+- [ ] Confirm MVP features are represented
+- [ ] Review error prevention
+- [ ] Complete final usability review
 
-## 4. Customer Relationships
-How will the product maintain interaction with users?
+## Deliverables
 
-## 5. Revenue Streams / Sustainability Logic
-How can the product capture value or be sustained? If it is not a paid product, explain operational value, institutional value, or efficiency value.
+- wireframe-usability-checklist.md
 
-## 6. Key Resources
-What resources are required to build and run the prototype?
+## Acceptance Criteria
 
-## 7. Key Activities
-What main activities must the team or system perform?
+- [ ] All wireframes reviewed
+- [ ] Navigation is consistent
+- [ ] Screens are easy to understand
+- [ ] Accessibility considered
+- [ ] Checklist uploaded to GitHub
 
-## 8. Key Partners
-Who may support, provide data, approve use, or help adoption?
+## Priority
 
-## 9. Cost Structure
-What costs, time, tools, hosting, or maintenance may be needed?
+High
 
-## Final Note
-Explain how this business model connects to your MVP features and final prototype.
+## Labels
+
+documentation
+ui
+ux
+wireframe
+usability
+
+## Milestone
+
+Lab 06
+
+## Assignee
+
+Project Team
