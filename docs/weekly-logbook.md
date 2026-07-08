@@ -250,31 +250,58 @@ Lab 05
 
 ## Assignee
 Project Team
-# Weekly Logbook - Lab 06
+# Create Wireframe Usability Checklist
 
-## Group Name
+## Objective
+Create a usability checklist to evaluate all wireframes before the final prototype development.
 
-## Project Title
+## Description
+The checklist will ensure that every wireframe follows UI/UX best practices and meets the Lab 06 usability requirements.
 
-## Date
+## Tasks
 
-## Members Present
+- [ ] Verify navigation consistency
+- [ ] Check screen layout consistency
+- [ ] Review typography and readability
+- [ ] Verify button placement
+- [ ] Check form usability
+- [ ] Review icon consistency
+- [ ] Verify spacing and alignment
+- [ ] Check color consistency
+- [ ] Validate accessibility
+- [ ] Verify user flow
+- [ ] Confirm MVP features are represented
+- [ ] Review error prevention
+- [ ] Complete final usability review
 
-| Member Name | Contribution Today | GitHub Evidence / Commit / File Updated |
-|---|---|---|
-| | | |
-| | | |
-| | | |
+## Deliverables
 
-## Decisions Made Today
+- wireframe-usability-checklist.md
 
-1. Business model decision:
-2. Technical architecture decision:
-3. Data structure decision:
-4. Diagram decision:
+## Acceptance Criteria
 
-## Problems or Risks Found
+- [ ] All wireframes reviewed
+- [ ] Navigation is consistent
+- [ ] Screens are easy to understand
+- [ ] Accessibility considered
+- [ ] Checklist uploaded to GitHub
 
-## Next Actions Before Lab 07
+## Priority
 
-## Lecturer / TA Notes
+High
+
+## Labels
+
+documentation
+ui
+ux
+wireframe
+usability
+
+## Milestone
+
+Lab 06
+
+## Assignee
+
+Project Team
