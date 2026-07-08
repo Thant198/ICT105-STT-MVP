@@ -165,3 +165,31 @@ The MVP should include the smallest set of features that can demonstrate the cor
 
 ## Not in MVP
 We are intentionally excluding F05 (AI-Powered Smart Syllabus Chatbot) from our MVP. While it is an attractive feature for handling repetitive student inquiries, building a reliable AI chatbot has high technical complexity (5/5) and requires significant development time. Furthermore, our customer discovery evidence shows that the core pain point is *information fragmentation*, which can be solved more effectively by organizing data on a dashboard rather than building a conversational AI for this initial prototype.
+
+# Lab 05: Product Concept and UI/UX Wireframe
+
+## Product Concept
+
+The Campus Life Management System is a web-based platform designed to help university students manage announcements, projects, events, and academic information in one place. The system reduces the problem of scattered information across multiple communication channels by providing a centralized platform where users can quickly access important updates, submit information, and track project activities.
+
+## Requirement-Driven Screens
+
+| Screen | Related Requirement IDs | Wireframe File |
+|---|---|---|
+| Homepage / Landing | FR-01, FR-02 | /wireframes/homepage.png |
+| Input / Submission Form | FR-03, FR-10, FR-11 | /wireframes/input-form.png |
+| Records / Information List | FR-05, FR-06, FR-08 | /wireframes/record-list.png |
+| Record Detail View | FR-07, FR-08 | /wireframes/detail-view.png |
+| Dashboard / Summary | FR-12 | /wireframes/dashboard.png |
+| Admin / Manager View | FR-09, FR-08 | /wireframes/admin-view.png |
+
+## User Flow
+
+The user flow illustrates how students and administrators interact with the system. Students can log in, browse announcements, projects, and events, search for information, view detailed records, and submit new information through the input form. Administrators can manage records by approving, editing, updating, or deleting information. The complete user flow is available in:
+
+- `/diagrams/user-flow.png`
+- `/diagrams/user-flow.mmd`
+
+## Team Contribution
+
+All team members contributed to the same GitHub repository throughout Lab 05. Responsibilities were divided according to each member's role, including Product Lead, Tech Lead, and UI/UX & Documentation Lead. Team members collaborated on product planning, system requirements, wireframe design, documentation, and repository updates.
