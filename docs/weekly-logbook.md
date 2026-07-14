@@ -193,7 +193,7 @@ https://docs.google.com/document/d/1-I10U35gjm_2RiJ7Gf9ezc3KqYmpqlHRdYBiz0mV71k/
 # Weekly Logbook - Lab 05
 
 ## Group Name
-Team Yakuza
+STT
 
 ## Project Title
 Campus Life Management System
@@ -214,8 +214,8 @@ Product Concept and UI/UX Wireframe
 
 | Member Name | Contribution | Evidence / Commit Link |
 |---|---|---|
-| Product Lead | Defined the product concept, reviewed user stories, and mapped features to system requirements. | GitHub Commit |
-| Tech Lead | Created the user flow diagram, reviewed technical requirements, and organized repository structure. | GitHub Commit |
+| Thant Sithu Soe | Defined the product concept, reviewed user stories, and mapped features to system requirements. | https://github.com/Thant198/ICT105-STT-MVP/blob/b603767d08ed1cf8c4689e4d17656a81f8165a2e/docs/feature-value-mapping.md |
+| Tay Za Aung | Created the user flow diagram, reviewed technical requirements, and organized repository structure. | GitHub Commit |
 | UI/UX & Documentation Lead | Designed six wireframes, updated README, prepared documentation, and maintained the weekly logbook. | GitHub Commit |
 
 ## Decisions Made
