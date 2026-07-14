@@ -214,7 +214,7 @@ Product Concept and UI/UX Wireframe
 
 | Member Name | Contribution | Evidence / Commit Link |
 |---|---|---|
-| Thant Sithu Soe | Defined the product concept, reviewed user stories, and mapped features to system requirements. | https://github.com/Thant198/ICT105-STT-MVP/blob/b603767d08ed1cf8c4689e4d17656a81f8165a2e/docs/feature-value-mapping.md , https://github.com/Thant198/ICT105-STT-MVP/blob/16cd2318f68ae000a2822a8dcdb9f6116153d1b8/docs/user-stories.md , https://github.com/Thant198/ICT105-STT-MVP/blob/16cd2318f68ae000a2822a8dcdb9f6116153d1b8/docs/product-concept.md |
+| Thant Sithu Soe | Defined the product concept, reviewed user stories, and mapped features to system requirements. | https://github.com/Thant198/ICT105-STT-MVP/blob/16cd2318f68ae000a2822a8dcdb9f6116153d1b8/docs/user-stories.md , https://github.com/Thant198/ICT105-STT-MVP/blob/16cd2318f68ae000a2822a8dcdb9f6116153d1b8/docs/product-concept.md |
 | Tay Za Aung | Created the user flow diagram, reviewed technical requirements, and organized repository structure. | https://github.com/Thant198/ICT105-STT-MVP/blob/16cd2318f68ae000a2822a8dcdb9f6116153d1b8/diagrams/user-flow.JPEG , https://github.com/Thant198/ICT105-STT-MVP/blob/caafdd29bb5545f28d1816f899f22c455720c8f8/docs/system-requriments.md|
 | Sut Lat Shawng | Designed six wireframes, updated README, prepared documentation, and maintained the weekly logbook. | https://github.com/Thant198/ICT105-STT-MVP/tree/caafdd29bb5545f28d1816f899f22c455720c8f8/wireframes , https://github.com/Thant198/ICT105-STT-MVP/blob/9ee660af57bf9a43702473f3ed9da61ab50d4123/README.md , https://github.com/Thant198/ICT105-STT-MVP/blob/9ee660af57bf9a43702473f3ed9da61ab50d4123/docs/weekly-logbook.md|
 
@@ -241,3 +241,54 @@ Product Concept and UI/UX Wireframe
 - Define the Data Structure.
 - Prepare the Feature-Value Mapping.
 - Update the README and Weekly Logbook for Lab 06.
+
+# Weekly Logbook - Lab 06
+
+## Group Name
+Team Yakuza
+
+## Project Title
+Campus Life Management System
+
+## Date
+11.7.2026
+
+## Members Present
+
+| Member Name | Contribution Today | GitHub Evidence / Commit / File Updated |
+|---|---|---|
+| Thant Sithu Soe | Created the Business Model Canvas, completed Feature-Value Mapping, and reviewed project requirements. | business-model-canvas.md, feature-value-mapping.md |
+| Tay Za Aung | Designed the System Architecture Diagram, Data Flow Diagram, and Technical Architecture documentation. | technical-architecture.md, system-architecture.png, data-flow-diagram.png |
+| Sut Lat Shawng | Updated the Data Structure document, README, Weekly Logbook, and organized all Lab 06 documentation. | data-structure.md, README.md, weekly-logbook.md |
+
+## Decisions Made Today
+
+1. **Business model decision:**
+   The system will focus on providing a centralized platform for announcements, projects, events, and academic information for university students.
+
+2. **Technical architecture decision:**
+   The prototype will follow a web-based client-server architecture where users access the system through a web browser connected to the application and database.
+
+3. **Data structure decision:**
+   The system will store user information, announcements, projects, events, and notifications in separate structured data records.
+
+4. **Diagram decision:**
+   The team created both the System Architecture Diagram and Data Flow Diagram using a simple black-and-white design for consistency with the project documentation.
+
+## Problems or Risks Found
+
+- Some functional requirements still require clarification before implementation.
+- The notification workflow may need additional validation during prototype testing.
+- Database relationships will need further refinement before the final prototype.
+
+## Next Actions Before Lab 07
+
+- Review all system requirements and user stories.
+- Begin implementing the HTML/CSS prototype.
+- Test navigation between wireframe screens.
+- Verify traceability between requirements, user stories, and prototype features.
+- Update GitHub repository with all Lab 06 deliverables.
+
+## Lecturer / TA Notes
+
+No additional comments.
