@@ -245,7 +245,7 @@ Product Concept and UI/UX Wireframe
 # Weekly Logbook - Lab 06
 
 ## Group Name
-Team Yakuza
+STT
 
 ## Project Title
 Campus Life Management System
