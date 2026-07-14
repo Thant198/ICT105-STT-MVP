@@ -187,9 +187,32 @@ The Campus Life Management System is a web-based platform designed to help unive
 
 The user flow illustrates how students and administrators interact with the system. Students can log in, browse announcements, projects, and events, search for information, view detailed records, and submit new information through the input form. Administrators can manage records by approving, editing, updating, or deleting information. The complete user flow is available in:
 
-- `/diagrams/user-flow.png`
-- `/diagrams/user-flow.mmd`
+- [user-flow.jpeg](https://github.com/Thant198/ICT105-STT-MVP/blob/0bc594b2dddb1dae63b180460b3904a1f2258482/diagrams/user-flow.JPEG)
 
 ## Team Contribution
 
 All team members contributed to the same GitHub repository throughout Lab 05. Responsibilities were divided according to each member's role, including Product Lead, Tech Lead, and UI/UX & Documentation Lead. Team members collaborated on product planning, system requirements, wireframe design, documentation, and repository updates.
+
+# Lab 06 Update - Business Model Canvas and Technical Architecture
+
+## Lab 06 Summary
+
+In Lab 06, our group transformed the project concept into a structured business and technical design. We developed the Business Model Canvas, mapped MVP features to user and operational value, designed the technical architecture, defined the system data structure, and created the System Architecture and Data Flow diagrams. These artifacts provide a clear foundation for implementing the final prototype.
+
+## Files Added or Updated
+
+- [Business Model Canvas](docs/business-model-canvas.md)
+- [Feature-Value Mapping](docs/feature-value-mapping.md)
+- [Technical Architecture](docs/technical-architecture.md)
+- [Data Structure](docs/data-structure.md)
+- [System Architecture Diagram](diagrams/system-architecture.png)
+- [Data Flow Diagram](diagrams/data-flow.png)
+- [Weekly Logbook](docs/weekly-logbook.md)
+
+## Technical Direction
+
+The prototype will use a **frontend-only architecture** built with **HTML, CSS, and JavaScript**. Static sample data (JSON) will be used to demonstrate announcements, projects, events, and notifications. This approach keeps the prototype simple while allowing the team to validate the user interface, navigation, and core functionality before developing a database-backed version in the future.
+
+## Final Prototype Connection
+
+The outputs from Lab 06 serve as the blueprint for the final prototype. The Business Model Canvas defines the product value and target users, the Feature-Value Mapping links requirements to user needs, the Technical Architecture specifies how the system will be organized, and the Data Structure identifies the information managed by the system. Together, these deliverables ensure that the final prototype aligns with the customer discovery evidence, user stories, and functional requirements developed in previous labs.
