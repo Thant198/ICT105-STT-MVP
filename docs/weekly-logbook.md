@@ -214,9 +214,9 @@ Product Concept and UI/UX Wireframe
 
 | Member Name | Contribution | Evidence / Commit Link |
 |---|---|---|
-| Thant Sithu Soe | Defined the product concept, reviewed user stories, and mapped features to system requirements. | https://github.com/Thant198/ICT105-STT-MVP/blob/b603767d08ed1cf8c4689e4d17656a81f8165a2e/docs/feature-value-mapping.md |
-| Tay Za Aung | Created the user flow diagram, reviewed technical requirements, and organized repository structure. | GitHub Commit |
-| UI/UX & Documentation Lead | Designed six wireframes, updated README, prepared documentation, and maintained the weekly logbook. | GitHub Commit |
+| Thant Sithu Soe | Defined the product concept, reviewed user stories, and mapped features to system requirements. | https://github.com/Thant198/ICT105-STT-MVP/blob/b603767d08ed1cf8c4689e4d17656a81f8165a2e/docs/feature-value-mapping.md , https://github.com/Thant198/ICT105-STT-MVP/blob/16cd2318f68ae000a2822a8dcdb9f6116153d1b8/docs/user-stories.md , https://github.com/Thant198/ICT105-STT-MVP/blob/16cd2318f68ae000a2822a8dcdb9f6116153d1b8/docs/product-concept.md |
+| Tay Za Aung | Created the user flow diagram, reviewed technical requirements, and organized repository structure. | https://github.com/Thant198/ICT105-STT-MVP/blob/16cd2318f68ae000a2822a8dcdb9f6116153d1b8/diagrams/user-flow.JPEG , https://github.com/Thant198/ICT105-STT-MVP/blob/caafdd29bb5545f28d1816f899f22c455720c8f8/docs/system-requriments.md|
+| Sut Lat Shawng | Designed six wireframes, updated README, prepared documentation, and maintained the weekly logbook. | https://github.com/Thant198/ICT105-STT-MVP/tree/caafdd29bb5545f28d1816f899f22c455720c8f8/wireframes , https://github.com/Thant198/ICT105-STT-MVP/blob/9ee660af57bf9a43702473f3ed9da61ab50d4123/README.md , https://github.com/Thant198/ICT105-STT-MVP/blob/9ee660af57bf9a43702473f3ed9da61ab50d4123/docs/weekly-logbook.md|
 
 ## Decisions Made
 
