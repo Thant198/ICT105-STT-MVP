@@ -300,7 +300,7 @@ No additional comments.
 - **Group name:** STT
 - **Project title:** Campus Life Management System
 - **Date:** 14.7.2026
-- **Repository link:** [https://github.com/your-group-repository](https://github.com/Thant198/ICT105-STT-MVP.git)
+- **Repository link:** (https://github.com/Thant198/ICT105-STT-MVP.git)
 
 ## What We Completed Today
 
