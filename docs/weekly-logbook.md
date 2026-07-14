@@ -108,7 +108,7 @@ Students face challenges managing projects, announcements, and campus activities
 ## Next Week Plan
 
 Design MVP features based on customer discovery findings.
-# Week 14 – Student Management System Diagram
+# Week 4 – Student Management System Diagram
 
 ## Objective
 To design a simple Student Management System diagram and understand the relationship between the main system modules and the database.
@@ -190,118 +190,54 @@ https://docs.google.com/document/d/1-I10U35gjm_2RiJ7Gf9ezc3KqYmpqlHRdYBiz0mV71k/
 
 ---
 
-**Status:** ✅ Completed
-# 📝 Update Weekly Logbook
+# Weekly Logbook - Lab 05
 
-## Objective
-Document all Lab 05 activities, decisions, and GitHub contributions.
+## Group Name
+Team Yakuza
 
----
+## Project Title
+Campus Life Management System
 
-## Description
+## Lab 05 Focus
+Product Concept and UI/UX Wireframe
 
-Update the weekly logbook to record individual member contributions, completed tasks, project decisions, GitHub evidence, and progress for Lab 05.
+## What We Completed Today
+- [x] Reviewed Lab 04 requirements
+- [x] Defined product concept
+- [x] Mapped features to requirements
+- [x] Created required wireframe screens
+- [x] Created user flow diagram
+- [x] Built clickable prototype draft or screen navigation plan
+- [x] Updated GitHub repository
 
----
+## Member Contributions
 
-## Tasks
+| Member Name | Contribution | Evidence / Commit Link |
+|---|---|---|
+| Product Lead | Defined the product concept, reviewed user stories, and mapped features to system requirements. | GitHub Commit |
+| Tech Lead | Created the user flow diagram, reviewed technical requirements, and organized repository structure. | GitHub Commit |
+| UI/UX & Documentation Lead | Designed six wireframes, updated README, prepared documentation, and maintained the weekly logbook. | GitHub Commit |
 
-- [ ] Record meeting date
-- [ ] Record meeting objectives
-- [ ] Document completed tasks
-- [ ] Record project decisions
-- [ ] List member contributions
-- [ ] Add GitHub Issue links
-- [ ] Add Commit links
-- [ ] Add Pull Request links (if available)
-- [ ] Add screenshots
-- [ ] Update progress status
-- [ ] Review documentation
+## Decisions Made
 
----
+| Decision | Reason | Related Requirement |
+|---|---|---|
+| Use a centralized platform for announcements, projects, and events. | Students reported that information is scattered across multiple platforms. | FR-01, FR-02 |
+| Keep the wireframes simple and consistent. | Improve usability and make the interface easy to understand. | FR-05, FR-06 |
+| Include search and filter functions. | Users need faster access to announcements and project information. | FR-05 |
+| Create an admin management page. | Administrators need to update, approve, and manage records. | FR-08, FR-09 |
 
-## Deliverables
+## Problems Found
 
-- weekly_logbook.md
+- It was difficult to organize all system requirements into only six wireframe screens.
+- Some feature details required further discussion before creating the prototype.
+- Team members needed additional time to review the wireframe consistency.
 
----
+## Next Steps Before Lab 06
 
-## Acceptance Criteria
-
-- [ ] Lab 05 activities documented
-- [ ] Member contributions recorded
-- [ ] GitHub evidence included
-- [ ] README references updated
-- [ ] Weekly logbook uploaded to GitHub
-
----
-
-## Priority
-High
-
-## Labels
-documentation
-logbook
-github
-lab05
-
-## Milestone
-Lab 05
-
-## Assignee
-Project Team
-# Create Wireframe Usability Checklist
-
-## Objective
-Create a usability checklist to evaluate all wireframes before the final prototype development.
-
-## Description
-The checklist will ensure that every wireframe follows UI/UX best practices and meets the Lab 06 usability requirements.
-
-## Tasks
-
-- [ ] Verify navigation consistency
-- [ ] Check screen layout consistency
-- [ ] Review typography and readability
-- [ ] Verify button placement
-- [ ] Check form usability
-- [ ] Review icon consistency
-- [ ] Verify spacing and alignment
-- [ ] Check color consistency
-- [ ] Validate accessibility
-- [ ] Verify user flow
-- [ ] Confirm MVP features are represented
-- [ ] Review error prevention
-- [ ] Complete final usability review
-
-## Deliverables
-
-- wireframe-usability-checklist.md
-
-## Acceptance Criteria
-
-- [ ] All wireframes reviewed
-- [ ] Navigation is consistent
-- [ ] Screens are easy to understand
-- [ ] Accessibility considered
-- [ ] Checklist uploaded to GitHub
-
-## Priority
-
-High
-
-## Labels
-
-documentation
-ui
-ux
-wireframe
-usability
-
-## Milestone
-
-Lab 06
-
-## Assignee
-
-Project Team
+- Complete the Business Model Canvas.
+- Create the System Architecture Diagram.
+- Create the Data Flow Diagram.
+- Define the Data Structure.
+- Prepare the Feature-Value Mapping.
+- Update the README and Weekly Logbook for Lab 06.
