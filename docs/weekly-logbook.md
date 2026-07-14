@@ -292,3 +292,46 @@ Campus Life Management System
 ## Lecturer / TA Notes
 
 No additional comments.
+
+# Weekly Logbook - Lab 07
+
+## Group Information
+
+- **Group name:** STT
+- **Project title:** Campus Life Management System
+- **Date:** 14.7.2026
+- **Repository link:** [https://github.com/your-group-repository](https://github.com/Thant198/ICT105-STT-MVP.git)
+
+## What We Completed Today
+
+- [x] Reviewed requirements, user stories, MVP features, architecture, and wireframes
+- [x] Identified critical assumptions
+- [x] Selected MVP experiment type
+- [x] Defined test users and success metrics
+- [x] Prepared experiment script and feedback form
+- [x] Updated GitHub repository and README
+
+## Member Contributions
+
+| Member Name | Contribution | Evidence/Commit/Issue Link |
+|---|---|---|
+| Thant Sithu Soe| Updated the repository README and Weekly Logbook for Lab 07, and identified and ranked critical assumptions for the Campus Life Hub project. | Issue #50, Issue #46 |
+| Sut Lat Shawng | Designed the neutral user feedback form for MVP testing and defined measurable success metrics and decision rules. | Issue #49, Issue #47 |
+| Tay Za Aung | Prepared the MVP experiment testing script, defined target test users, and reviewed the project baseline while defining MVP experiment objectives. | Issue #48, Issue #45 |
+
+## Key Decisions
+
+| Decision | Reason | Evidence/Requirement Link |
+|---|---|---|
+| Use a Simple Web Prototype as the MVP experiment. | The prototype is built using HTML, CSS, and JavaScript with interactive pages. | MVP Feature List, Wireframes |
+| Test the prototype with university students. | Students are the primary target users identified during customer discovery. | User Persona, Lab 03 Evidence |
+| Measure task completion, completion time, and user satisfaction. | These metrics clearly indicate whether the MVP is usable and effective. | Success Metrics |
+| Focus testing on announcements, project tracking, and event information. | These are the most important features identified from user interviews. | User Stories, System Requirements |
+
+## Problems and Next Action
+
+| Problem | Next Action | Responsible Member |
+|---|---|---|
+| Some prototype interactions are not fully implemented. | Complete the remaining HTML/CSS/JavaScript prototype pages. | Tay Za Aung |
+| Additional user feedback is required. | Conduct MVP testing with more students and collect responses. | Thant Sithu Soe |
+| Documentation needs final review before submission. | Verify all Markdown files, diagrams, and README links. | Sut Lat Shawng |
