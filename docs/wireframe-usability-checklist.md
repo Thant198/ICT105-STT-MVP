@@ -1,118 +1,37 @@
-# 📋 Create Wireframe Usability Checklist
+# Wireframe Usability Review Checklist
 
-## Objective
-Develop a usability checklist to evaluate all wireframe screens before moving to the prototype stage.
+**Project:** Campus Life – Student Project Management System
 
----
+Use this checklist before submitting Lab 05 to verify that all required wireframes and user interface components have been completed and reviewed.
 
-## Description
-The checklist will ensure every wireframe follows usability principles, provides a consistent user experience, and satisfies Lab 05 requirements.
+| Check Item | Yes/No | Evidence or Screenshot |
+|------------|--------|------------------------|
+| The homepage clearly states the problem and main action. | ☐ Yes ☐ No | |
+| The main user pathway can be followed from start to finish. | ☐ Yes ☐ No | |
+| The input form includes required fields and validation feedback. | ☐ Yes ☐ No | |
+| The record list includes search, filter, or category controls. | ☐ Yes ☐ No | |
+| The detail view shows complete information and current status. | ☐ Yes ☐ No | |
+| The admin view includes at least one management action. | ☐ Yes ☐ No | |
+| The dashboard displays meaningful summary information. | ☐ Yes ☐ No | |
+| Navigation is consistent across all screens. | ☐ Yes ☐ No | |
+| The design uses realistic sample data. | ☐ Yes ☐ No | |
+| Each screen maps to `system-requirements.md`. | ☐ Yes ☐ No | |
 
----
+## Reviewer Comments
 
-## Tasks
+**Strengths**
+- _____________________________________________
+- _____________________________________________
 
-- [ ] Check navigation consistency
-- [ ] Verify screen layout consistency
-- [ ] Check button visibility
-- [ ] Verify text readability
-- [ ] Ensure icons are understandable
-- [ ] Check color consistency
-- [ ] Verify spacing and alignment
-- [ ] Check form validation messages
-- [ ] Verify mobile responsiveness
-- [ ] Ensure accessibility requirements
-- [ ] Review user flow between screens
-- [ ] Verify all MVP features are represented
-- [ ] Fix usability issues
-- [ ] Final review
+**Areas for Improvement**
+- _____________________________________________
+- _____________________________________________
 
----
+## Overall Result
 
-## Deliverables
+- ☐ Pass
+- ☐ Needs Revision
 
-- docs/wireframe-usability-checklist.md
+**Reviewer:** ______________________
 
----
-
-## Acceptance Criteria
-
-- [ ] Navigation is consistent
-- [ ] UI components follow the same style
-- [ ] All screens are easy to understand
-- [ ] Accessibility is considered
-- [ ] No broken navigation
-- [ ] Checklist uploaded to GitHub
-
----
-
-## Priority
-High
-
-## Labels
-documentation
-ui
-ux
-wireframe
-usability
-
-## Milestone
-Lab 05
-
-## Assignee
-Project Team
-# Create Wireframe Usability Checklist
-
-## Objective
-Create a usability checklist to evaluate all wireframes before the final prototype development.
-
-## Description
-The checklist will ensure that every wireframe follows UI/UX best practices and meets the Lab 06 usability requirements.
-
-## Tasks
-
-- [ ] Verify navigation consistency
-- [ ] Check screen layout consistency
-- [ ] Review typography and readability
-- [ ] Verify button placement
-- [ ] Check form usability
-- [ ] Review icon consistency
-- [ ] Verify spacing and alignment
-- [ ] Check color consistency
-- [ ] Validate accessibility
-- [ ] Verify user flow
-- [ ] Confirm MVP features are represented
-- [ ] Review error prevention
-- [ ] Complete final usability review
-
-## Deliverables
-
-- wireframe-usability-checklist.md
-
-## Acceptance Criteria
-
-- [ ] All wireframes reviewed
-- [ ] Navigation is consistent
-- [ ] Screens are easy to understand
-- [ ] Accessibility considered
-- [ ] Checklist uploaded to GitHub
-
-## Priority
-
-High
-
-## Labels
-
-documentation
-ui
-ux
-wireframe
-usability
-
-## Milestone
-
-Lab 06
-
-## Assignee
-
-Project Team
+**Date:** __________________________
