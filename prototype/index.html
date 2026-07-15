@@ -3,235 +3,396 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Campus Life Management System</title>
+
+    <title>Campus Life Hub</title>
+
     <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 
 <body>
 
 <header>
+
     <div class="container">
+
         <div class="logo">
-            <h2>Campus Life</h2>
+
+            <h2>CampusLife Hub</h2>
+
+            <p>Smart Campus Information System</p>
+
         </div>
 
         <nav>
+
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#announcement">Announcements</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#events">Events</a></li>
-                <li><a href="#dashboard">Dashboard</a></li>
-                <li><a href="#admin">Admin</a></li>
+
+                <li><a href="index.html">Home</a></li>
+
+                <li><a href="announcements-page.html">Announcements</a></li>
+
+                <li><a href="events-page.html">Events</a></li>
+
+                <li><a href="projects-page.html">Projects</a></li>
+
+                <li><a href="dashboard-page.html">Dashboard</a></li>
+
+                <li><a href="search-page.html">Search</a></li>
+
+                <li><a href="admin-page.html">Admin</a></li>
+
             </ul>
+
         </nav>
+
     </div>
+
 </header>
 
-<section class="hero" id="home">
+<main>
 
-    <div class="hero-text">
+<section class="hero">
 
-        <h1>Campus Life Management System</h1>
+    <div class="hero-content">
+
+        <h1>Welcome to CampusLife Hub</h1>
 
         <p>
             Stay connected with campus announcements,
-            projects, academic activities, and university events
-            in one centralized platform.
+            upcoming events and student projects
+            in one convenient place.
         </p>
 
-        <button>Explore Now</button>
+        <div class="hero-buttons">
+
+            <a href="announcements-page.html" class="btn-primary">
+                Explore Campus
+            </a>
+
+            <a href="events-page.html" class="btn-secondary">
+                View Events
+            </a>
+
+        </div>
 
     </div>
 
 </section>
 
-<section class="announcement" id="announcement">
+<section class="latest-news">
 
-    <h2>Latest Announcements</h2>
+    <div class="section-title">
+
+        <h2>Latest Announcements</h2>
+
+        <p>
+            Stay updated with the latest campus information.
+        </p>
+
+    </div>
 
     <div class="card-container">
 
         <div class="card">
+
             <h3>Semester Registration</h3>
+
             <p>
-                Registration for Semester 1 will begin on
-                August 10, 2026.
+                Registration for Semester 2 will begin
+                on 15 August 2026.
             </p>
-            <a href="#">Read More</a>
+
+            <a href="announcement-detail.html">
+                Read More
+            </a>
+
         </div>
 
         <div class="card">
+
             <h3>ICT Workshop</h3>
+
             <p>
-                Join our free web development workshop
-                this Friday at ICT Building.
+                Join our practical web development
+                workshop next Friday.
             </p>
-            <a href="#">Read More</a>
+
+            <a href="announcement-detail.html">
+                Read More
+            </a>
+
         </div>
 
         <div class="card">
-            <h3>Library Notice</h3>
+
+            <h3>Club Recruitment</h3>
+
             <p>
-                The university library will remain open
-                until 9:00 PM during examination week.
+                Student clubs are now accepting
+                new members for this semester.
             </p>
-            <a href="#">Read More</a>
+
+            <a href="announcement-detail.html">
+                Read More
+            </a>
+
         </div>
 
     </div>
 
 </section>
 
-<section class="projects" id="projects">
+    <section class="events-section">
 
-    <h2>Student Projects</h2>
+    <div class="section-title">
 
-    <table>
+        <h2>Upcoming Events</h2>
 
-        <tr>
-            <th>Project</th>
-            <th>Course</th>
-            <th>Status</th>
-        </tr>
+        <p>
+            Don't miss the latest campus activities.
+        </p>
 
-        <tr>
-            <td>Campus Life Hub</td>
-            <td>ICT105</td>
-            <td>In Progress</td>
-        </tr>
+    </div>
 
-        <tr>
-            <td>Database System</td>
-            <td>ICT201</td>
-            <td>Completed</td>
-        </tr>
+    <div class="card-container">
 
-        <tr>
-            <td>Web Prototype</td>
-            <td>ICT105</td>
-            <td>Pending</td>
-        </tr>
+        <div class="card">
 
-    </table>
+            <h3>Innovation Fair 2026</h3>
+
+            <p>
+                Discover innovative student projects
+                and creative ideas.
+            </p>
+
+            <a href="events-page.html">
+                View Event
+            </a>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Football Tournament</h3>
+
+            <p>
+                Register your team before
+                the closing date.
+            </p>
+
+            <a href="events-page.html">
+                View Event
+            </a>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Orientation Day</h3>
+
+            <p>
+                Welcome new students and
+                explore university life.
+            </p>
+
+            <a href="events-page.html">
+                View Event
+            </a>
+
+        </div>
+
+    </div>
 
 </section>
 
-<section class="events" id="events">
+<section class="projects-section">
 
-    <h2>Upcoming Events</h2>
+    <div class="section-title">
 
-    <div class="event-box">
+        <h2>Featured Student Projects</h2>
 
-        <h3>Orientation Day</h3>
-        <p>Date : August 15, 2026</p>
-
-    </div>
-
-    <div class="event-box">
-
-        <h3>Football Tournament</h3>
-        <p>Date : August 20, 2026</p>
+        <p>
+            Explore projects created by ICT students.
+        </p>
 
     </div>
 
-    <div class="event-box">
+    <div class="card-container">
 
-        <h3>Innovation Fair</h3>
-        <p>Date : September 2, 2026</p>
+        <div class="card">
+
+            <h3>Campus Navigation App</h3>
+
+            <p>
+                Mobile application for helping
+                students navigate the campus.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Library Booking System</h3>
+
+            <p>
+                Online seat reservation system
+                for university library users.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Smart Attendance System</h3>
+
+            <p>
+                QR code based attendance
+                management prototype.
+            </p>
+
+        </div>
 
     </div>
 
 </section>
 
-  <section class="dashboard" id="dashboard">
+<section class="quick-access">
 
-    <h2>Dashboard Summary</h2>
+    <div class="section-title">
 
-    <div class="dashboard-container">
+        <h2>Quick Access</h2>
+
+        <p>
+            Access important campus services quickly.
+        </p>
+
+    </div>
+
+    <div class="card-container">
+
+        <div class="card">
+
+            <h3>Announcements</h3>
+
+            <p>
+                View the latest university announcements.
+            </p>
+
+            <a href="announcements-page.html">
+                Open
+            </a>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Search Campus</h3>
+
+            <p>
+                Search announcements, events,
+                and student projects.
+            </p>
+
+            <a href="search-page.html">
+                Search
+            </a>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Dashboard</h3>
+
+            <p>
+                View overall campus statistics
+                and activity summary.
+            </p>
+
+            <a href="dashboard-page.html">
+                View Dashboard
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+<section class="dashboard-preview">
+
+    <div class="section-title">
+
+        <h2>Campus Summary</h2>
+
+        <p>
+            A quick overview of current campus activities.
+        </p>
+
+    </div>
+
+    <div class="dashboard-grid">
 
         <div class="dashboard-card">
-            <h3>25</h3>
+
+            <h3>28</h3>
+
             <p>Announcements</p>
+
         </div>
 
         <div class="dashboard-card">
+
             <h3>12</h3>
-            <p>Projects</p>
+
+            <p>Upcoming Events</p>
+
         </div>
 
         <div class="dashboard-card">
+
+            <h3>15</h3>
+
+            <p>Student Projects</p>
+
+        </div>
+
+        <div class="dashboard-card">
+
             <h3>8</h3>
-            <p>Events</p>
-        </div>
 
-        <div class="dashboard-card">
-            <h3>150</h3>
-            <p>Active Students</p>
+            <p>Student Clubs</p>
+
         </div>
 
     </div>
 
 </section>
-
-
-<section class="admin" id="admin">
-
-    <h2>Admin Panel</h2>
-
-    <p>
-        Administrators can manage announcements,
-        projects, events and student information.
-    </p>
-
-    <table>
-
-        <tr>
-            <th>Category</th>
-            <th>Status</th>
-            <th>Action</th>
-        </tr>
-
-        <tr>
-            <td>Announcement</td>
-            <td>Published</td>
-            <td><button>Edit</button></td>
-        </tr>
-
-        <tr>
-            <td>Project</td>
-            <td>Pending</td>
-            <td><button>Update</button></td>
-        </tr>
-
-        <tr>
-            <td>Event</td>
-            <td>Scheduled</td>
-            <td><button>Manage</button></td>
-        </tr>
-
-    </table>
-
-</section>
-
 
 <footer>
 
     <div class="footer-content">
 
-        <h3>Campus Life Management System</h3>
+        <h3>CampusLife Hub</h3>
 
         <p>
-            ICT105 Final Project Prototype
+            Smart Campus Information System
         </p>
 
         <p>
-            © 2026 Team Yakuza. All Rights Reserved.
+            ICT105 MVP Prototype
+        </p>
+
+        <p>
+            © 2026 CampusLife Hub. All Rights Reserved.
         </p>
 
     </div>
 
 </footer>
 
+</main>
+
 </body>
+
 </html>
