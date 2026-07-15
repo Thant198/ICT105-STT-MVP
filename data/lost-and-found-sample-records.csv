@@ -1,0 +1,6 @@
+ItemID,ReportType,ItemCategory,ItemName,Location,DateReported,ReporterRole,Status,Description
+AS-001,Assignment,ICT-101,Java OOP Lab 08,GitHub Repo,2026-07-15,Student,In Review,Create Power BI dashboard and update README
+AS-002,Assignment,GEN-201,Thai Language Essay,Google Drive,2026-07-16,Student,Pending,Write 500 words essay about daily routine
+AS-003,Project,ICT-105,Database Design,Discord Group,2026-07-20,Student,Pending,Create ER Diagram and Schema with team members
+AS-004,Assignment,ICT-101,Java OOP Lab 07,GitHub Repo,2026-07-10,Student,Claimed,Lab 07 deliverables committed and completed
+AS-005,Quiz,GEN-102,Creative Thinking Quiz,Portal LMS,2026-07-22,Student,Available,Online MCQ test for mid-term evaluation
