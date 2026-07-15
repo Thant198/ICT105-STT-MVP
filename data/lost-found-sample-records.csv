@@ -1,0 +1,6 @@
+record_id,course_name,assignment_name,due_date,priority,assigned_role,status,notes
+AS001,ICT-101,Java OOP Lab 08,2026-07-20,High,Student,Pending,Need to complete Power BI dashboard
+AS002,GEN-201,Thai Language Essay,2026-07-22,Medium,Student,In Progress,Write about daily routine
+AS003,ICT-105,Database Design Project,2026-07-25,High,Student,Not Started,Group meeting on Friday
+AS004,ICT-101,Java OOP Lab 07,2026-07-15,High,Student,Completed,Committed to GitHub repository
+AS005,GEN-102,Creative Thinking Quiz,2026-07-28,Low,Student,Not Started,Online MCQ on portal
