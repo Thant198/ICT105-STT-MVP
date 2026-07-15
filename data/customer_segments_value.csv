@@ -1,0 +1,4 @@
+segment_id,segment_name,need,value_expected,possible_channel
+CS01,Student with many deadlines,Track and filter multiple course assignments quickly,Never miss a submission deadline,Website / Mobile Web
+CS02,Group Project Leader,Coordinate tasks and assign them to members,Clear responsibility tracking,Web dashboard
+CS03,Course Instructor / Admin,Post assignment details and view class submission status,Organized task distribution,Admin panel
