@@ -1,0 +1,6 @@
+tester_code,task_id,task_description,completed,time_seconds,help_needed,confusion_point,rating_clarity_1_5,notes
+T01,T1,Understand dashboard navigation,Yes,25,No,None,5,Dashboard layout is very intuitive
+T01,T2,Add new assignment report,Yes,85,No,Submit button size,4,Form is easy but submit button should be bigger
+T02,T3,Filter assignments by course,Yes,55,No,Filter tab visibility,4,Keyword search works well but tabs are hard to see
+T03,T4,View task deadline status,Yes,40,No,None,5,Color codes for urgent tasks are helpful
+T04,T5,Update profile settings,No,110,Yes,Privacy layout,3,Could not find where to hide student phone numbers
