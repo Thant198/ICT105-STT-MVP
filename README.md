@@ -273,7 +273,7 @@ The MVP experiment will provide user feedback on usability, navigation, search f
 
 ### Validation Objective
 
-The group tested the CampusLife Hub prototype with users to evaluate the usability of the interface, navigation, search functionality, and announcement management. The validation aimed to collect user feedback and identify areas for improvement before further development.
+The group tested the CampusLife Hub MVP prototype with target users to evaluate navigation, announcements, search, dashboard, and administration features. User feedback was collected to identify usability issues and improve the prototype before further implementation.
 
 ---
 
@@ -289,23 +289,22 @@ The group tested the CampusLife Hub prototype with users to evaluate the usabili
 
 | Metric | Result |
 |---|---:|
-| Total test users | 5 |
-| Task success rate | 100% |
-| Average feedback score | 4.6 / 5 |
-| Average interest level | 4.8 / 5 |
-| Main confusion point | Search box placement and announcement details |
+| Total test users | 12 |
+| Task completion rate | 83.3% |
+| Average feedback score (Ease of Use) | 3.83 / 5 |
+| Average interest level | 4.08 / 5 |
+| Main confusion point | Search labels, status tracking layout, and required form guidance |
 
 ---
 
 ### MVP Decision
 
-The group decided to **continue** the project with minor revisions. User feedback showed that the prototype was easy to use and met the main project objectives. Future improvements will focus on enhancing the user interface, search experience, and additional announcement details.
+The group decided to **revise** the prototype before the next implementation stage. Although the task completion rate and user interest met the target, usability feedback indicated that several interface improvements are needed. The next iteration will improve search labels, form guidance, and status tracking to provide a better user experience.
 
 ---
 
 ### Files Added
 
-- `/data/validation-results.xlsx`
 - `/data/validation-results.csv`
 - `/docs/customer-validation-summary.md`
 - `/docs/analytics-insights.md`
