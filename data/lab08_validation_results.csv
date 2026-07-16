@@ -1,0 +1,13 @@
+TestID,TestDate,TestUserID,UserRole,DeviceType,PrototypeVersion,TaskName,TaskCompleted,CompletionTimeSeconds,EaseOfUseScore,UsefulnessScore,ConfusionPoint,MostUsefulFeature,WouldUseAgain,InterestLevel,RequirementID,MVPDecisionSignal,Notes
+T001,2026-07-20,U001,Student,Mobile,v1,Submit assignment form,Yes,85,4,5,Submit button size,Add task form,Yes,5,FR-03,Validated,Could submit assignment easily.
+T002,2026-07-20,U002,Student,Laptop,v1,Search course assignment,Yes,80,4,4,Search label,Search/filter,Yes,4,FR-06,Validated,Search worked but filter tabs should be clearer.
+T003,2026-07-20,U003,Student,Mobile,v1,Check deadline status,No,150,2,4,Status tracking layout,Urgency color codes,Maybe,3,FR-08,Revise,Could not easily read status colors on dashboard.
+T004,2026-07-20,U004,Student,Mobile,v1,View task detail view,Yes,70,5,5,None,Detail view screen,Yes,5,FR-07,Validated,Task detail screen was extremely clear.
+T005,2026-07-21,U005,Student,Laptop,v1,Submit assignment form,Yes,110,3,4,Required fields,Add task form,Yes,4,FR-03,Partial,Form needs better guidance placeholders.
+T006,2026-07-21,U006,Admin/Staff,Laptop,v1,Manage course tasks,Yes,95,4,4,None,Admin control panel,Yes,4,FR-10,Validated,Good interface for class representative dashboard.
+T007,2026-07-21,U007,Student,Mobile,v1,Search course assignment,Yes,65,5,4,None,Search/filter,Yes,4,FR-06,Validated,Keyword filtering speed is very fast.
+T008,2026-07-21,U008,Student,Mobile,v1,Check deadline status,Yes,90,4,4,Status tracking layout,Urgency color codes,Yes,4,FR-08,Validated,Helps me prioritize group project tasks.
+T009,2026-07-22,U009,Student,Laptop,v1,View task detail view,Yes,50,5,5,None,Detail view screen,Yes,5,FR-07,Validated,Clean layout for assignment brief.
+T010,2026-07-22,U010,Admin/Staff,Laptop,v1,View performance logs,Yes,130,4,4,Analytics presentation,Moderator tools,Yes,4,FR-10,Validated,Class moderator tools worked well.
+T011,2026-07-22,U011,Student,Mobile,v1,Submit assignment form,Yes,88,4,4,Submit button size,Add task form,Yes,4,FR-03,Validated,Submission feedback prompt was helpful.
+T012,2026-07-22,U012,Student,Mobile,v1,Search course assignment,No,160,2,4,Filter option visibility,Search/filter,Maybe,3,FR-06,Revise,Expected visible course category tabs.
