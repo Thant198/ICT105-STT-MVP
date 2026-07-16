@@ -266,3 +266,49 @@ This experiment uses a clickable web prototype because it allows users to intera
 ### Connection to Final Prototype
 
 The MVP experiment will provide user feedback on usability, navigation, search functionality, and announcement management. The collected feedback will be used to improve the interface, simplify user interactions, and prioritize features for the final CampusLife Hub prototype.
+
+# README Update - Lab 08
+
+## Lab 08: Customer Validation and Analytics Sheet
+
+### Validation Objective
+
+The group tested the CampusLife Hub prototype with users to evaluate the usability of the interface, navigation, search functionality, and announcement management. The validation aimed to collect user feedback and identify areas for improvement before further development.
+
+---
+
+### Prototype Version Tested
+
+- **Version:** MVP Prototype v1.0
+- **Link:** https://thant198.github.io/ICT105-STT-MVP/prototype/
+- **Screenshots:** `/screenshots/validation-test-screens.png`
+
+---
+
+### Analytics Summary
+
+| Metric | Result |
+|---|---:|
+| Total test users | 5 |
+| Task success rate | 100% |
+| Average feedback score | 4.6 / 5 |
+| Average interest level | 4.8 / 5 |
+| Main confusion point | Search box placement and announcement details |
+
+---
+
+### MVP Decision
+
+The group decided to **continue** the project with minor revisions. User feedback showed that the prototype was easy to use and met the main project objectives. Future improvements will focus on enhancing the user interface, search experience, and additional announcement details.
+
+---
+
+### Files Added
+
+- `/data/validation-results.xlsx`
+- `/data/validation-results.csv`
+- `/docs/customer-validation-summary.md`
+- `/docs/analytics-insights.md`
+- `/docs/mvp-decision.md`
+- `/screenshots/validation-test-screens.png`
+- `/docs/weekly-logbook.md`
