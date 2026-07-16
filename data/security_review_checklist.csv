@@ -1,0 +1,7 @@
+Area,Check_Question,Yes_No_Partial,Risk_Level,Mitigation_Action
+Input form,Are required fields validated?,Partial,Medium,Implement JavaScript/HTML5 validation to prevent empty assignment submissions.
+Input form,Are sensitive fields avoided?,Yes,Low,Ensure no passwords or personal credentials are required to post a task.
+Admin function,Can normal users access admin actions?,Yes,High,Separate the Class Rep/Lecturer creation dashboard from the general student view.
+Data display,Is private information visible to everyone?,Yes,High,Mask Student IDs on the public assignment status dashboard.
+Status update,Can records be edited without control?,Yes,Medium,Restrict assignment status changes to the assigned student only.
+Public links,Does a public link expose data that should be private?,Yes,High,Prevent public project repository links from displaying personal user profile data.
