@@ -1,18 +1,17 @@
 # MVP Demo Link
 
-Paste your MVP experiment/prototype link here.
+## GitHub Pages
+https://thant198.github.io/ICT105-STT-MVP/prototype/
 
-Examples:
-- Figma clickable prototype link: 
-- Google Form / Google Sheet link:
-- GitHub Pages link:
-- HTML/CSS/JS prototype folder path:
-- Dashboard demo link:
-- AppSheet/Glide/Airtable link:
+## GitHub Repository
+https://github.com/Thant198/ICT105-STT-MVP
 
 ## Testing Notes
-Explain what testers should do when opening the link.
 
-1. Task 1 (Report/Add Assignment): Click the "+ Add Task" button on the dashboard, fill out the assignment name, course category, and deadline date, then click "Submit". Verify if the success confirmation appears.
-2. Task 2 (Filter & Search Tasks): Use the search bar at the top or click the "ICT Course" filter tabs to see if the assignment list updates correctly.
-3. Task 3 (View Deadlines): Navigate to the main list and check if the urgency status color codes (Red for urgent, Yellow for pending) are readable.
+1. Open the GitHub Pages link.
+2. Use the navigation bar to visit the Announcements, Events, Projects, Dashboard, Search, and Admin pages.
+3. Test the announcement search function.
+4. Open the Admin page and add a new announcement.
+5. Verify that the new announcement appears in the announcement list.
+6. Refresh the page and confirm that the saved data remains available.
+7. Check that all links and buttons work correctly.
