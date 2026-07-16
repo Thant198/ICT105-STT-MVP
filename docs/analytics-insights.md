@@ -178,3 +178,8 @@ ICT105-STT-MVP
 ---
 
 © 2026 ICT105-STT-MVP
+# Analytics Insights Report
+
+## Validation Dashboard
+
+![Validation Dashboard](Dashboard.png)
