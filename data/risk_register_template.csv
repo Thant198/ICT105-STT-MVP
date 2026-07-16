@@ -1,7 +1,7 @@
 Risk_ID,Category,Risk_Description,Affected_Feature_or_Requirement,Severity,Likelihood,Mitigation_Action,Owner,GitHub_Evidence,Status
-R-01,Privacy,Student ID exposed on public assignment dashboard,FR-15 Display details,High,High,Mask Student ID on public views,Member 2,#7,Open
-R-02,Security,Any student can edit or delete an assignment entry,FR-03 Assignment submission,High,Medium,Add role check; allow only assignment owners to edit,Member 3,#7,Open
+R-01,Privacy,Student ID exposed on public assignment dashboard,FR-15 Display details,High,High,Mask Student ID on public views,Thant Sithu Soe,#7,Open
+R-02,Security,Any student can edit or delete an assignment entry,FR-03 Assignment submission,High,Medium,Add role check; allow only assignment owners to edit,Sutt,#7,Open
 R-03,Legal,Using external icons without checking compliance,Core UI Assets,Low,Medium,Document all icon origins in IP Register file,Nico,#1,Closed
-R-04,Data quality,Empty or broken URLs submitted as assignment links,FR-03 Assignment submission,Medium,High,Add HTML5 link/URL format validation in input forms,Member 1,#7,Open
-R-05,Security,Unauthenticated users accessing the CR panel,Admin Panel View,High,Low,Implement simple route guarding or separate admin URLs,Member 3,#7,Open
+R-04,Data quality,Empty or broken URLs submitted as assignment links,FR-03 Assignment submission,Medium,High,Add HTML5 link/URL format validation in input forms,Thant Sithu Soe,#7,Open
+R-05,Security,Unauthenticated users accessing the CR panel,Admin Panel View,High,Low,Implement simple route guarding or separate admin URLs,Sutt,#7,Open
 R-06,Ethical,Late submissions marked arbitrarily without standard timezone,Notification System,Medium,Medium,Use universal system timestamp for all user deadlines,Nico,#1,Open
