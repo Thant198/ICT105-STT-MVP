@@ -332,3 +332,189 @@ The following metrics will be completed after usability testing.
 # Conclusion
 
 The analytics framework combines quantitative metrics and qualitative observations to evaluate the Campus Life MVP. Mapping confusion points to system requirements helps identify usability issues and supports evidence-based improvements. The report provides a structured approach for improving the user experience and guiding future development.
+# Core Metrics Analysis
+
+## Overview
+
+The usability testing dataset was analyzed to measure the performance of the Campus Life MVP. Three core metrics were calculated from the experimental results: Success Rate, Feedback Score, and Interest Level.
+
+---
+
+# Dataset Summary
+
+| Item | Value |
+|------|------:|
+| Total Participants | 12 |
+| Completed Tasks | 10 |
+| Incomplete Tasks | 2 |
+
+---
+
+# Core Metrics
+
+| Metric | Formula | Result | Target | Status |
+|---------|---------|--------|--------|--------|
+| Success Rate | (10 ÷ 12) × 100 | **83.3%** | ≥70% | ✅ Pass |
+| Feedback Score | 51 ÷ 12 | **4.25 / 5.00** | ≥4.0 | ✅ Pass |
+| Interest Level | 49 ÷ 12 | **4.08 / 5.00** | ≥4.0 | ✅ Pass |
+
+---
+
+# Calculations
+
+## Success Rate
+
+Completed Tasks = **10**
+
+Total Tasks = **12**
+
+```text
+Success Rate
+= (Completed Tasks ÷ Total Tasks) × 100
+
+= (10 ÷ 12) × 100
+
+= 83.3%
+```
+
+---
+
+## Feedback Score
+
+Usefulness Scores
+
+```text
+5 + 4 + 4 + 5 + 4 + 4 + 4 + 4 + 5 + 4 + 4 + 4
+= 51
+```
+
+```text
+Feedback Score
+
+= 51 ÷ 12
+
+= 4.25 / 5
+```
+
+---
+
+## Interest Level
+
+Interest Scores
+
+```text
+5 + 4 + 3 + 5 + 4 + 4 + 4 + 4 + 5 + 4 + 4 + 3
+= 49
+```
+
+```text
+Interest Level
+
+= 49 ÷ 12
+
+= 4.08 / 5
+```
+
+---
+
+# Performance Analysis
+
+## Success Rate
+
+The prototype achieved a success rate of **83.3%**, exceeding the target of **70%**.
+
+Most participants successfully completed the required tasks without assistance. Two participants were unable to complete all assigned tasks because of navigation and interface clarity issues.
+
+---
+
+## Feedback Score
+
+The average usefulness rating was **4.25/5.0**.
+
+Participants considered the Assignment Tracker, Search, Dashboard, and Task Detail features useful for managing coursework.
+
+Minor improvements were suggested for:
+
+- Submit button visibility
+- Search filter labels
+- Required field guidance
+- Status colour indicators
+
+---
+
+## Interest Level
+
+The average Interest Level was **4.08/5.0**.
+
+Most participants indicated that they would use the Campus Life MVP again after minor interface improvements.
+
+---
+
+# Confusion Points
+
+| Confusion Point | Frequency | Recommendation |
+|-----------------|-----------|----------------|
+| Submit button size | 2 | Increase button size |
+| Search filter visibility | 2 | Improve filter labels |
+| Status colour layout | 2 | Improve colour contrast |
+| Required fields | 1 | Add placeholder guidance |
+| Analytics presentation | 1 | Simplify dashboard |
+| Filter tabs | 1 | Improve navigation |
+
+---
+
+# Requirement Validation
+
+| Requirement | Result |
+|-------------|--------|
+| FR-03 Assignment Submission | ✅ Validated |
+| FR-06 Assignment Search | ✅ Validated (Minor Revision) |
+| FR-07 Task Detail View | ✅ Validated |
+| FR-08 Deadline Status | ⚠ Needs Revision |
+| FR-10 Admin Dashboard | ✅ Validated |
+
+---
+
+# Key Findings
+
+- High task completion rate.
+- High participant satisfaction.
+- Strong interest in future use.
+- Search and Assignment Tracker performed well.
+- Dashboard usability requires minor improvements.
+- Deadline status colours should be redesigned.
+- Navigation labels should be clearer.
+
+---
+
+# Improvement Priorities
+
+## High Priority
+
+- Improve deadline status visibility.
+- Improve search filter labels.
+- Increase submit button visibility.
+
+## Medium Priority
+
+- Improve form guidance.
+- Improve analytics dashboard.
+
+## Low Priority
+
+- Improve visual consistency.
+- Refine spacing and typography.
+
+---
+
+# Conclusion
+
+The Campus Life MVP performed well during usability testing.
+
+The prototype achieved:
+
+- **Success Rate:** **83.3%**
+- **Feedback Score:** **4.25 / 5**
+- **Interest Level:** **4.08 / 5**
+
+All three core metrics met or exceeded the project success targets. The usability evaluation shows that the MVP is functional, useful, and positively received by participants. Future development should focus on improving navigation, deadline visibility, search filters, and interface clarity to further enhance the user experience.
