@@ -216,3 +216,53 @@ The prototype will use a **frontend-only architecture** built with **HTML, CSS, 
 ## Final Prototype Connection
 
 The outputs from Lab 06 serve as the blueprint for the final prototype. The Business Model Canvas defines the product value and target users, the Feature-Value Mapping links requirements to user needs, the Technical Architecture specifies how the system will be organized, and the Data Structure identifies the information managed by the system. Together, these deliverables ensure that the final prototype aligns with the customer discovery evidence, user stories, and functional requirements developed in previous labs.
+
+# README Update - Lab 07
+
+## Lab 07: MVP Experiment Design
+
+### Experiment Objective
+
+The objective of this MVP experiment is to validate whether university students can easily access campus announcements, events, student projects, and campus information through a centralized web platform. The experiment also evaluates the usability of the navigation, search functionality, and announcement management features before full system development.
+
+---
+
+### Critical Assumptions
+
+1. Students prefer a centralized platform instead of checking multiple communication channels.
+2. Users can easily navigate the system and quickly find campus information.
+3. Administrators can efficiently publish announcements using the management interface.
+
+---
+
+### MVP Experiment Type
+
+**Interactive HTML/CSS/JavaScript Prototype**
+
+This experiment uses a clickable web prototype because it allows users to interact with the interface, test navigation, perform searches, and simulate announcement management before implementing a complete backend system.
+
+---
+
+### Success Metrics
+
+- At least 80% of users can navigate to all major pages without assistance.
+- At least 80% of users can successfully locate information using the search function.
+- At least 80% of participants report that the interface is easy to understand.
+- At least 80% of users can complete the announcement management task successfully.
+
+---
+
+### Files Added in Lab 07
+
+- `/docs/mvp-experiment-plan.md`
+- `/docs/critical-assumptions.md`
+- `/docs/experiment-script.md`
+- `/docs/success-metrics.md`
+- `/docs/feedback-form.md`
+- `/docs/weekly-logbook.md`
+
+---
+
+### Connection to Final Prototype
+
+The MVP experiment will provide user feedback on usability, navigation, search functionality, and announcement management. The collected feedback will be used to improve the interface, simplify user interactions, and prioritize features for the final CampusLife Hub prototype.
