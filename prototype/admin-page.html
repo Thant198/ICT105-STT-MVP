@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Admin Management</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet"
+    >
+</head>
+
+<body>
+
+<header>
+    <div class="container">
+
+        <div class="logo">
+            <h2>CampusLife Hub</h2>
+            <p>Smart Campus Information System</p>
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="announcements-page.html">Announcements</a></li>
+                <li><a href="events-page.html">Events</a></li>
+                <li><a href="projects-page.html">Projects</a></li>
+                <li><a href="dashboard-page.html">Dashboard</a></li>
+                <li><a href="search-page.html">Search</a></li>
+                <li><a href="admin-page.html">Admin</a></li>
+            </ul>
+        </nav>
+
+    </div>
+</header>
+
+<main>
+
+    <section class="hero">
+        <div class="hero-content">
+
+            <h1>Admin Management</h1>
+
+            <p>
+                Add and manage announcements for the
+                Campus Life Management System.
+            </p>
+
+        </div>
+    </section>
+
+    <section class="admin-section">
+
+        <div class="section-title">
+            <h2>Add New Announcement</h2>
+            <p>Complete the form to publish campus information.</p>
+        </div>
+
+        <div class="admin-form">
+
+            <label for="title">Announcement Title *</label>
+            <input
+                type="text"
+                id="title"
+                placeholder="Enter announcement title"
+                required
+            >
+
+            <label for="category">Category *</label>
+            <select id="category" required>
+                <option value="">Select a category</option>
+                <option value="Academic">Academic</option>
+                <option value="Workshop">Workshop</option>
+                <option value="Student Life">Student Life</option>
+                <option value="Event">Event</option>
+                <option value="Emergency">Emergency</option>
+            </select>
+
+            <label for="date">Date *</label>
+            <input
+                type="date"
+                id="date"
+                required
+            >
+
+            <label for="description">Description</label>
+            <textarea
+                id="description"
+                rows="5"
+                placeholder="Enter a short announcement description"
+            ></textarea>
+
+            <div class="form-buttons">
+
+                <button
+                    type="button"
+                    class="admin-button"
+                    onclick="addAnnouncement()"
+                >
+                    Add Announcement
+                </button>
+
+                <button
+                    type="button"
+                    class="clear-button"
+                    onclick="clearForm()"
+                >
+                    Clear Form
+                </button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="manage-section">
+
+        <div class="section-title">
+            <h2>Manage Announcements</h2>
+
+            <p>
+                Review or delete announcements currently stored
+                in the system.
+            </p>
+        </div>
+
+        <div class="container">
+
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search announcements..."
+                onkeyup="searchAnnouncement()"
+            >
+
+        </div>
+
+        <div
+            class="card-container"
+            id="announcementList"
+        ></div>
+
+    </section>
+
+</main>
+
+<footer>
+    <div class="footer-content">
+
+        <h3>CampusLife Hub</h3>
+
+        <p>Smart Campus Information System</p>
+
+        <p>ICT105 MVP Prototype</p>
+
+        <p>© 2026 CampusLife Hub. All Rights Reserved.</p>
+
+    </div>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
+```
