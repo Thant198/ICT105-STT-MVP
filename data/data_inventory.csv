@@ -1,0 +1,5 @@
+Data_Field,Example_Value,Purpose,Personal_Data,Sensitive_Data,Visibility,Keep_Remove_Replace,Responsible_Action
+Student Name,Nico,To identify the student assignment owner,Yes,No,Team members & Lecturer,Keep,Use nickname or first name only in public views.
+Student ID,66012345,Core system identifier for assignment tracking,Yes,No,Admin & Lecturer only,Replace,Mask the ID (e.g. 6601XXXX) on public submission lists.
+Student Email,nico@u.edu,To send automatic deadline notifications,Yes,No,Admin only,Keep,Encrypt or simulate in localStorage; do not display publicly.
+Assignment Link,github.com/..,Submitting the completed project work,No,No,Team & Lecturer,Keep,Ensure links do not contain embedded authentication tokens.
