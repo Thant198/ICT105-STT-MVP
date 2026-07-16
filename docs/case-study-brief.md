@@ -1,6 +1,6 @@
 # Lab 06 Case Brief
 
-## Case: Campus Life – Student Project Management System
+## Case: Campus Life Management System (CampusLife Hub Prototype)
 
 University students often miss important announcements, project deadlines, and campus activities because information is shared across multiple platforms such as LINE, Messenger, Facebook, Google Classroom, and Email. Students also find it difficult to track project tasks, access shared files, and communicate effectively with their team members.
 
