@@ -1,54 +1,103 @@
 # Lab 08 - Customer Validation Summary
 
 ## 1. Project Title
-Campus Life Hub
+
+CampusLife Hub
+
+---
 
 ## 2. Prototype Tested
-- Prototype version: v0.1
-- Prototype link or screenshot location: `/screenshots/project-dashboard.png`
-- Main task tested: Managing task deadlines, filtering course assignments, and utilizing the admin management screen.
-- Related requirements from `system-requirements.md`: FR-03, FR-06, FR-07, FR-08, FR-09, FR-10, FR-11, FR-12, FR-15
+
+The group tested the CampusLife Hub MVP prototype to evaluate the usability of the announcement, event, project, search, dashboard, and admin management features.
+
+- Prototype version: v1.0
+- Prototype link: https://thant198.github.io/ICT105-STT-MVP/prototype/
+- Main tasks tested:
+  - Browse announcements
+  - Search campus information
+  - View upcoming events
+  - View student projects
+  - Check dashboard information
+  - Submit announcements through the admin page
+- Related requirements from system-requirements.md:
+  FR-03, FR-06, FR-07, FR-08, FR-10, FR-15
+
+---
 
 ## 3. Test Users
-- TU-01 (Student): Manages multiple group project deadlines.
-- TU-02 (Student): Validates task sorting and filtering by course.
-- TU-03 (Student): Tests deadline tracking and task urgency status.
-- TU-04 (Student): Evaluates the input fields for adding new assignments.
-- TU-05 (Student): Validates navigation speed compared to chat groups.
-- TU-06 (Admin/Staff): Class representative evaluating admin task controls.
-- TU-07 (Student): Tests layout clarity on the task detail sub-page.
-- TU-08 (Student): Validates submission confirmation prompts.
-- TU-09 (Student): Tests course-specific keyword search mechanics.
-- TU-10 (Admin/Staff): Course moderator validating the performance analytics summary.
-- TU-11 (Student): Tests form validation warnings for empty fields.
-- TU-12 (Student): Validates data privacy and information display controls.
+
+| Test User ID | User Role | Why this user is relevant |
+|---|---|---|
+| U001 | Student | Tested announcement submission and navigation |
+| U002 | Student | Tested search functionality |
+| U003 | Student | Tested status and information tracking |
+| U004 | Student | Tested project detail page |
+| U005 | Student | Tested announcement submission |
+| U006 | Admin/Staff | Tested admin management features |
+| U007 | Student | Tested search and filtering |
+| U008 | Student | Tested information tracking |
+| U009 | Student | Tested project detail page |
+| U010 | Admin/Staff | Tested dashboard management |
+| U011 | Student | Tested announcement form |
+| U012 | Student | Tested search and filter visibility |
+
+---
 
 ## 4. Validation Method
-- Testing method: Structured UX testing using a clickable Figma prototype with a post-test questionnaire.
-- Date/time: 2026-07-15
-- Location or online platform: Conducted via Discord screen-sharing and on-campus face-to-face sessions.
-- Number of testers: 12 unique testers.
-- Data collected: Task completion status, completion time in seconds, subjective confusion points, core usability scores (1-5), and qualitative feedback comments.
+
+- Testing method: Structured usability testing using the HTML/CSS/JavaScript MVP prototype followed by a feedback questionnaire.
+- Date/time: 20–22 July 2026
+- Location or online platform: Face-to-face testing and online sessions.
+- Number of testers: 12
+- Data collected:
+  - Task completion
+  - Completion time
+  - Ease-of-use score
+  - Usefulness score
+  - Interest level
+  - Confusion points
+  - User comments
+  - Related requirement ID
+
+---
 
 ## 5. Summary of Results
-- Total test users: 12 (Standard validation sample size achieved)
-- Task success rate: 83.3% (Core user workflows are functional but need refinement)
-- Average feedback score: 4.17 / 5 (High perceived usability and customer satisfaction)
-- Average interest level: 4.25 / 5 (Strong validation of product demand among ICT students)
-- Most common confusion point: Search/filter (Category filtering layout needs a clearer, more visible UI)
+
+| Metric | Result | Interpretation |
+|---|---:|---|
+| Total test users | 12 | Validation sample completed successfully. |
+| Task success rate | 83.3% | Above the target of 70%; most users completed their tasks successfully. |
+| Average feedback score | 3.83 / 5 | Slightly below the target of 4/5, indicating minor usability improvements are needed. |
+| Average interest level | 4.08 / 5 | Users showed strong interest in using the system. |
+| Most common confusion point | Search/filter visibility and status tracking layout | Search controls and status indicators should be easier to understand. |
+
+---
 
 ## 6. Key User Comments
-- "The assignment input form is clear and quick to complete, but the submission button could be larger."
-- "Search and filtering work well, but course category labels should be more explicit."
-- "The status information needs to show progress indicators more clearly on the dashboard."
-- "Privacy note: The system should hide sensitive user details from public views."
+
+- The interface is simple and easy to navigate.
+- The search function works well, but filter labels should be clearer.
+- Status information should be displayed more clearly.
+- Form input guidance should be improved.
+- Personal information should be better protected in public views.
+
+---
 
 ## 7. Affected Requirements
-- FR-06: Users struggled with finding filter options during keyword searches. -> Required Improvement: Make the filter dropdown highly visible on the main page.
-- FR-08: Testers noted that task tracking updates weren't distinct enough. -> Required Improvement: Enhance color codes for active, pending, and completed statuses.
-- FR-03: Users requested better explanation text inside form input fields. -> Required Improvement: Add placeholder tooltips to guide form completion.
-- FR-15: User feedback flagged potential data exposure risks. -> Required Improvement: Implement stricter data visibility rules on public views.
+
+| Requirement ID | Evidence Found | Required Prototype Improvement |
+|---|---|---|
+| FR-03 | Some users needed clearer form guidance. | Add placeholders and validation messages. |
+| FR-06 | Users had difficulty locating filter options. | Improve search and filter visibility. |
+| FR-07 | Detail pages received positive feedback. | Keep the current design with minor visual improvements. |
+| FR-08 | Status tracking was not always clear. | Improve colors and status indicators. |
+| FR-10 | Admin features worked correctly. | Improve confirmation messages. |
+| FR-15 | Users requested better privacy protection. | Limit public visibility of sensitive information. |
+
+---
 
 ## 8. Conclusion
-The current MVP direction is Partially Validated with Revisions Required. While core target metrics exceed baseline expectations, UX improvements on filtering and layout configurations are necessary before proceeding to final code implementation.
 
+The MVP is partially validated and requires minor revisions.
+
+The validation results show that the CampusLife Hub concept is useful and meets most success metrics. However, improvements are needed in search visibility, form guidance, and status presentation before moving to the next implementation stage.
