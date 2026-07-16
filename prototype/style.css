@@ -451,3 +451,98 @@ nav ul{
 }
 
 }
+
+```css
+/* ===========================================
+   Admin Form
+=========================================== */
+
+.admin-form {
+    width: 90%;
+    max-width: 750px;
+    margin: 0 auto 70px;
+    padding: 30px;
+    background: #ffffff;
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.admin-form label {
+    display: block;
+    margin-top: 18px;
+    margin-bottom: 7px;
+    color: #1f4e79;
+    font-weight: 600;
+}
+
+.admin-form input,
+.admin-form select,
+.admin-form textarea,
+.manage-section input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.admin-form input:focus,
+.admin-form select:focus,
+.admin-form textarea:focus,
+.manage-section input:focus {
+    outline: none;
+    border-color: #1f4e79;
+    box-shadow: 0 0 0 3px rgba(31, 78, 121, 0.12);
+}
+
+.form-buttons {
+    display: flex;
+    gap: 12px;
+    margin-top: 24px;
+    flex-wrap: wrap;
+}
+
+.admin-button,
+.clear-button,
+.card button {
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.admin-button {
+    background: #1f4e79;
+}
+
+.admin-button:hover {
+    background: #173b5e;
+}
+
+.clear-button {
+    background: #64748b;
+}
+
+.clear-button:hover {
+    background: #475569;
+}
+
+.card button {
+    margin-top: 10px;
+    background: #dc2626;
+}
+
+.card button:hover {
+    background: #b91c1c;
+}
+
+.manage-section .container {
+    margin-bottom: 30px;
+}
+```
+
