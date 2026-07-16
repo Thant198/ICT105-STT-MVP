@@ -335,3 +335,52 @@ No additional comments.
 | Some prototype interactions are not fully implemented. | Complete the remaining HTML/CSS/JavaScript prototype pages. | Tay Za Aung |
 | Additional user feedback is required. | Conduct MVP testing with more students and collect responses. | Thant Sithu Soe |
 | Documentation needs final review before submission. | Verify all Markdown files, diagrams, and README links. | Sut Lat Shawng |
+
+# Weekly Logbook - Lab 08
+
+## Group Information
+
+- **Group name:** STT
+- **Project title:** CampusLife Management System
+- **Repository link:** https://github.com/Thant198/ICT105-STT-MVP
+- **Lab date:** 16 July 2026
+
+---
+
+## Work Completed Today
+
+- [x] Reviewed Lab 07 MVP experiment plan
+- [x] Prepared validation dataset structure
+- [x] Created or updated analytics sheet
+- [x] Wrote customer validation summary
+- [x] Wrote analytics insights
+- [x] Wrote MVP decision
+- [x] Updated README
+- [x] Created GitHub issues for prototype improvements
+
+---
+
+## Member Contributions
+
+| Member Name | Contribution | GitHub Evidence |
+|---|---|---|
+| Thant Sithu Soe | Collected and cleaned validation data, updated README and weekly logbook | Issue #51, #57 |
+| Tay Za Aung | Wrote customer validation summary and MVP decision | Issue #53, #55 |
+| Sut Lat Shawng | Completed validation dataset, wrote analytics insights, and suggested prototype improvements | Issue #52, #54, #56 |
+---
+
+## Problems Found
+
+- Some users needed more time to locate specific announcements.
+- The search box layout required better alignment for easier visibility.
+- The prototype does not include backend functionality, so some features are simulated using LocalStorage.
+- Minor UI improvements were identified during validation.
+
+---
+
+## Next Actions
+
+- Improve the user interface based on validation feedback.
+- Refine the search experience and navigation.
+- Add more detailed announcement pages.
+- Continue improving the prototype for the final project demonstration.
