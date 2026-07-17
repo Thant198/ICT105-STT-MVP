@@ -40,3 +40,56 @@ Students will prefer using one centralized campus information platform if it is 
 ## Example Experiment Type
 
 Simple web prototype with task-based usability testing.
+
+# Case Study Brief: Campus Life Management System
+
+## Problem Context
+
+University students often miss important announcements, project updates, event information, and academic deadlines because information is scattered across different platforms such as LINE groups, email, Google Classroom, LMS, and social media. As a result, students may miss important activities, deadlines, and project updates.
+
+## Practice Purpose
+
+This case is used to validate whether a centralized Campus Life Management System can help students access campus information more efficiently and complete common tasks with less confusion.
+
+## Example MVP Experiment Direction
+
+The team wants to test whether students can use a simple web prototype to:
+
+- View campus announcements
+- Search campus information
+- Browse upcoming events
+- View student project information
+- Check dashboard summaries
+- Use the admin management interface
+
+## Example Critical Assumption
+
+Students will prefer using one centralized campus information platform if it is faster, easier to navigate, and more organized than checking multiple communication channels.
+
+## Example Experiment Type
+
+Interactive HTML/CSS/JavaScript web prototype with task-based usability testing.
+
+# Case Study Brief - Campus Life Management System
+
+## Case Context
+University students often miss important announcements, project updates, campus events, and academic deadlines because information is scattered across multiple platforms such as LINE groups, Messenger, Facebook, Google Classroom, and Email. This makes it difficult for students to stay informed, manage project activities, and access important campus information efficiently.
+
+## MVP Experiment
+The MVP experiment tests whether users can:
+1. View campus announcements.
+2. Search campus information.
+3. Open announcement, event, or project details.
+4. Check dashboard summaries and project information.
+5. Understand basic admin content management functions.
+
+## Validation Goal
+The goal is to learn whether the proposed Campus Life Hub workflow is understandable, useful, and worth continuing before the final prototype implementation.
+
+## Practice Data
+Use the group's own validation dataset:
+- `/data/validation-results.csv`
+- `/data/validation-results-analytics.xlsx`
+
+## Student Group Task
+After completing the MVP usability testing, the group must analyze the collected validation data, summarize the findings, and produce the required validation documents based on the Campus Life Management System prototype.
