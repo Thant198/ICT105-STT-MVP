@@ -34,3 +34,24 @@ Establish measurable success criteria for evaluating the Campus Life MVP during 
 
 ## Priority
 High
+# Success Metrics and Decision Rules
+
+## 1. Success Metrics
+
+| Metric ID | Metric | Target | How to Measure | Related Requirement |
+|---|---|---:|---|---|
+| M-01 | Task completion rate | 70% or higher | Completed tasks / total tasks | FR-03 |
+| M-02 | Form completion accuracy | 80% or higher | Valid form submissions / total submissions | FR-03, FR-10 |
+| M-03 | Search success rate | 70% or higher | Users who successfully find the required information | FR-06 |
+| M-04 | Usability rating | Average 4 out of 5 | Average Ease-of-Use score from feedback | FR-07, FR-08 |
+| M-05 | Feature usefulness rating | Average 4 out of 5 | Average Usefulness score from feedback | CampusLife Hub MVP Features |
+
+---
+
+## 2. Decision Rules
+
+| Result | Decision |
+|---|---|
+| All success metrics meet or exceed the target values | Continue to the implementation stage. |
+| One or more metrics do not meet the target values | Revise the prototype interface, navigation, or feature design before continuing development. |
+| Most success metrics fail to meet the target values | Re-evaluate the project requirements, user needs, and MVP scope before the next implementation stage. |
