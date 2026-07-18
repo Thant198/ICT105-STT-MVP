@@ -1,0 +1,32 @@
+flowchart TB
+    A["01 · Review Lab 07 MVP Experiment Plan"]
+    B["02 · Conduct CampusLife Hub Usability Testing"]
+    C["03 · Collect User Actions and Feedback"]
+    D["04 · Record Validation Results<br/>CSV or XLSX"]
+    E["05 · Calculate Success Metrics"]
+    F["06 · Identify Confusion Points<br/>and Affected Requirements"]
+    G["07 · Generate Analytics Insights Report"]
+    H{"08 · Make MVP Decision"}
+    I["09 · Create GitHub Improvement Issues"]
+    J["10 · Continue to Final Prototype Development"]
+
+    A --> B --> C --> D --> E --> F --> G --> H
+    H -->|Improve| I
+    H -->|Proceed| J
+    I --> J
+
+    classDef planning fill:#E8F0FE,stroke:#2563EB,stroke-width:2px,color:#0F172A;
+    classDef testing fill:#E6FFFB,stroke:#0891B2,stroke-width:2px,color:#0F172A;
+    classDef data fill:#ECFDF5,stroke:#16A34A,stroke-width:2px,color:#0F172A;
+    classDef analysis fill:#FFF7ED,stroke:#EA580C,stroke-width:2px,color:#0F172A;
+    classDef decision fill:#F5F3FF,stroke:#7C3AED,stroke-width:2px,color:#0F172A;
+    classDef improve fill:#FDF2F8,stroke:#DB2777,stroke-width:2px,color:#0F172A;
+    classDef final fill:#ECFEFF,stroke:#0F766E,stroke-width:2px,color:#0F172A;
+
+    class A planning;
+    class B,C testing;
+    class D,E data;
+    class F,G analysis;
+    class H decision;
+    class I improve;
+    class J final;
