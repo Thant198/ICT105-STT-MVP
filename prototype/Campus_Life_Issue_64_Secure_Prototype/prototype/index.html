@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Campus Life secure MVP prototype for ICT105 Lab 09">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Campus Life | Secure MVP</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="Campus Life home">Campus Life</a>
+    <nav aria-label="Primary navigation">
+      <a href="#assignments">Assignments</a>
+      <a href="#links">Pinned Links</a>
+      <a href="#privacy">Privacy</a>
+    </nav>
+    <div class="user-tools">
+      <label for="roleSelect" class="sr-only">Demo role</label>
+      <select id="roleSelect" aria-label="Select demo role">
+        <option value="student">Student</option>
+        <option value="admin">Admin</option>
+      </select>
+      <button id="logoutBtn" class="button secondary" type="button">Logout</button>
+    </div>
+  </header>
+
+  <main id="home" class="container">
+    <section class="hero" aria-labelledby="hero-title">
+      <div>
+        <p class="eyebrow">ICT105 • STT MVP</p>
+        <h1 id="hero-title">Organize campus work safely</h1>
+        <p>Track assignments and important links using minimum necessary data. This prototype is for educational testing only.</p>
+      </div>
+      <div class="security-card" role="note">
+        <strong>Privacy-first prototype</strong>
+        <span>No full names, phone numbers, home addresses, or sensitive personal data are requested.</span>
+      </div>
+    </section>
+
+    <section id="privacy" class="notice" aria-labelledby="privacy-title">
+      <div>
+        <h2 id="privacy-title">Privacy notice</h2>
+        <p>Data is stored only in this browser using localStorage for prototype demonstration. Use a nickname or anonymous ID. Do not enter sensitive information.</p>
+      </div>
+      <button id="clearDataBtn" class="button danger-outline" type="button">Clear My Prototype Data</button>
+    </section>
+
+    <section class="dashboard-grid" aria-label="Dashboard summary">
+      <article class="metric"><span id="totalAssignments">0</span><small>Total assignments</small></article>
+      <article class="metric"><span id="dueSoon">0</span><small>Due within 7 days</small></article>
+      <article class="metric"><span id="completedCount">0</span><small>Completed</small></article>
+      <article class="metric"><span id="linkCount">0</span><small>Pinned links</small></article>
+    </section>
+
+    <section id="assignments" class="panel" aria-labelledby="assignment-heading">
+      <div class="panel-header">
+        <div>
+          <p class="eyebrow">Assignment Tracker</p>
+          <h2 id="assignment-heading">Add an assignment</h2>
+        </div>
+        <span class="badge">Validated inputs</span>
+      </div>
+
+      <form id="assignmentForm" novalidate>
+        <div class="form-grid">
+          <label>
+            Anonymous ID / Nickname
+            <input id="owner" name="owner" type="text" minlength="2" maxlength="30" autocomplete="off" required placeholder="e.g. STT-01">
+            <small>Do not enter a full legal name.</small>
+          </label>
+          <label>
+            Assignment title
+            <input id="title" name="title" type="text" minlength="3" maxlength="80" required placeholder="e.g. Lab 09 documentation">
+          </label>
+          <label>
+            Course code
+            <input id="course" name="course" type="text" pattern="[A-Za-z]{2,6}[0-9]{2,4}" maxlength="10" required placeholder="ICT105">
+          </label>
+          <label>
+            Due date
+            <input id="dueDate" name="dueDate" type="date" required>
+          </label>
+          <label>
+            Priority
+            <select id="priority" name="priority" required>
+              <option value="">Select priority</option>
+              <option value="Low">Low</option>
+              <option value="Medium">Medium</option>
+              <option value="High">High</option>
+            </select>
+          </label>
+          <label>
+            Optional attachment
+            <input id="attachment" name="attachment" type="file" accept=".pdf,.png,.jpg,.jpeg">
+            <small>PDF, PNG or JPG only. Maximum 5 MB.</small>
+          </label>
+        </div>
+
+        <label class="full-width">
+          Notes (optional)
+          <textarea id="notes" name="notes" maxlength="300" rows="4" placeholder="Do not include passwords, phone numbers, addresses, health information, or other sensitive data."></textarea>
+          <small><span id="noteCount">0</span>/300 characters</small>
+        </label>
+
+        <label class="consent-row">
+          <input id="consent" name="consent" type="checkbox" required>
+          <span>I understand this is an educational prototype and I will not enter sensitive personal information.</span>
+        </label>
+
+        <div id="assignmentError" class="message error" role="alert" hidden></div>
+        <div class="actions">
+          <button id="assignmentSubmit" class="button primary" type="submit">Save Assignment</button>
+          <button class="button secondary" type="reset">Reset</button>
+        </div>
+      </form>
+
+      <div class="table-wrap">
+        <table>
+          <caption>Saved assignment records</caption>
+          <thead>
+            <tr>
+              <th>Title</th><th>Course</th><th>Due</th><th>Priority</th><th>Status</th><th>Owner</th><th>Actions</th>
+            </tr>
+          </thead>
+          <tbody id="assignmentRows"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="links" class="panel" aria-labelledby="links-heading">
+      <div class="panel-header">
+        <div>
+          <p class="eyebrow">Pinned Links Dashboard</p>
+          <h2 id="links-heading">Add a trusted resource</h2>
+        </div>
+        <span class="badge">HTTPS only</span>
+      </div>
+
+      <form id="linkForm" novalidate>
+        <div class="form-grid compact">
+          <label>
+            Link title
+            <input id="linkTitle" type="text" minlength="2" maxlength="50" required placeholder="e.g. RSU LMS">
+          </label>
+          <label>
+            Secure URL
+            <input id="linkUrl" type="url" maxlength="250" required placeholder="https://example.com">
+          </label>
+        </div>
+        <label class="consent-row">
+          <input id="linkConsent" type="checkbox" required>
+          <span>I confirm this link is appropriate for the project and does not expose private information.</span>
+        </label>
+        <div id="linkError" class="message error" role="alert" hidden></div>
+        <div class="actions">
+          <button id="linkSubmit" class="button primary" type="submit">Pin Link</button>
+        </div>
+      </form>
+      <div id="linkCards" class="link-grid" aria-live="polite"></div>
+    </section>
+
+    <section class="panel admin-panel" id="adminPanel" aria-labelledby="admin-heading" hidden>
+      <div class="panel-header">
+        <div>
+          <p class="eyebrow">Admin-only demonstration</p>
+          <h2 id="admin-heading">Security controls</h2>
+        </div>
+        <span class="badge warning">Restricted area</span>
+      </div>
+      <p>Admin mode permits status changes and deletion of prototype records. Student mode cannot perform these actions.</p>
+      <button id="exportBtn" class="button secondary" type="button">Export Masked Data</button>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <footer>
+    <p>Campus Life MVP • ICT105 • Educational prototype • No sensitive data</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
