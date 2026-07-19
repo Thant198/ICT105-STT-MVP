@@ -311,3 +311,46 @@ The group decided to **revise** the prototype before the next implementation sta
 - `/docs/mvp-decision.md`
 - `/screenshots/validation-test-screens.png`
 - `/docs/weekly-logbook.md`
+
+# Lab 09 - Responsible IT Check
+
+## Responsible Design Summary
+
+During Lab 09, the team reviewed the Campus Life Hub prototype to identify privacy, ethical, intellectual property, and basic security considerations.
+
+The privacy review confirmed that the prototype collects only the minimum information required to demonstrate the system workflow. Sensitive personal information such as passwords, financial records, medical information, biometric data, and home addresses are not collected. Mock data is used throughout the prototype to protect user privacy.
+
+The ethical review focused on responsible data handling, transparency, and the use of sample data during demonstrations. The team ensured that the prototype avoids misleading claims and displays only information necessary for its intended purpose.
+
+The intellectual property review identified third-party resources used within the prototype, including icons, fonts, CSS libraries, and JavaScript libraries. Appropriate attribution and licensing requirements were documented where necessary.
+
+The security review identified several potential risks including unauthorized access to administrative functions, insufficient input validation, and possible exposure of administrative features. Appropriate mitigation strategies were documented in the Risk Register and security review documentation.
+
+---
+
+## Files Added
+
+- docs/legal-ethical-checklist.md
+- docs/privacy-and-data-protection.md
+- docs/ip-and-third-party-assets.md
+- docs/security-risk-check.md
+- docs/risk-register.md
+- docs/updated-requirements-note.md
+- docs/weekly-logbook.md
+
+---
+
+## Requirement Update
+
+The `system-requirements.md` document was reviewed during Lab 09 as part of the Responsible IT assessment.
+
+No changes were made to the functional or non-functional requirements because the existing system requirements already matched the current Campus Life Hub prototype. The Lab 09 review focused on privacy, ethical, intellectual property, and security documentation rather than modifying the system requirements.
+---
+
+## Team Contributions
+
+| Member | Contribution |
+|---------|--------------|
+| **Thant Sithu Soe** | Created the Data Inventory and Privacy Review documentation, reviewed the prototype to extract data fields, updated the repository README, and completed the Weekly Logbook. |
+| **Tay Za Aung** | Prepared the Legal, Ethical, and Intellectual Property documentation and created the Updated Requirements Note. |
+| **Sutt** | Built the Security Risk Check, prepared the Risk Register, and implemented Privacy and Security Mitigations within the prototype. |
