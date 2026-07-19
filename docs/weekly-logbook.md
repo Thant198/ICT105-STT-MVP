@@ -384,3 +384,81 @@ No additional comments.
 - Refine the search experience and navigation.
 - Add more detailed announcement pages.
 - Continue improving the prototype for the final project demonstration.
+
+# Weekly Logbook - Lab 09
+
+## Group Name
+ICT105-STT-MVP (Campus Life Hub)
+
+## Date
+19 July 2026
+
+## Members Present
+- Thant Sithu Soe
+- Tay Za Aung
+- Sutt
+
+## Work Completed Today
+
+### Data Inventory
+Reviewed all prototype pages including Home, Announcements, Events, Projects, Dashboard, Search, and Admin pages. Extracted all data fields displayed or collected by the system and classified each field as personal, non-personal, or sensitive data for privacy analysis.
+
+### Privacy Review
+Completed the privacy review by identifying the minimum data required for the prototype. Documented the purpose of each collected data field and confirmed that unnecessary sensitive information such as passwords, financial information, medical records, biometric data, and home addresses are not collected. Prepared the Privacy and Data Protection documentation.
+
+### Ethical Review
+Reviewed the prototype to ensure ethical handling of user information. Confirmed that the prototype uses mock/sample data during demonstrations and usability testing. Verified that no misleading claims are presented and that only necessary user information is displayed.
+
+### IP Review
+Reviewed third-party resources used in the prototype including icons, fonts, JavaScript libraries, CSS frameworks, and other external assets. Verified that appropriate attribution and licensing information will be documented where required.
+
+### Security Review
+Reviewed prototype security from a functional perspective. Examined user input forms, search functions, admin pages, and public information pages to identify potential security risks such as unauthorized modification, invalid input, and exposure of administrative functions.
+
+### Risk Register
+Identified possible project risks including unauthorized access to admin functions, invalid user input, inconsistent documentation, missing asset attribution, and data privacy concerns. Proposed mitigation strategies for each identified risk.
+
+### Requirements Update Note
+Reviewed the current system requirements and updated documentation to ensure consistency with the Campus Life Hub prototype. Removed outdated assignment-management terminology and replaced it with project terminology related to announcements, events, student projects, dashboard features, search, and administration.
+
+---
+
+## Member Contributions
+
+| Member | Contribution | GitHub Evidence |
+|---------|--------------|-----------------|
+| **Thant Sithu Soe** | Created the Data Inventory and Privacy Review documentation, reviewed all prototype pages to extract data fields, updated repository documentation, README, and Weekly Logbook. | Issues **#59**, **#62**, **#63** |
+| **Tay Za Aung** | Prepared the Legal, Ethical, and Intellectual Property documentation and created the Updated Requirements Note. | Issues **#58**, **#61** |
+| **Sutt** | Built the Security Risk Check, prepared the Risk Register, and implemented Privacy and Security Mitigations in the prototype source code. | Issues **#60**, **#64** |
+
+---
+
+## Decisions Made
+
+- The prototype will collect only the minimum amount of information required for demonstration purposes.
+- Sensitive personal information such as passwords, financial records, health records, and biometric information will not be collected.
+- Mock/sample data will be used instead of real student records during demonstrations and usability testing.
+- Administrative functions will remain accessible only to authorized administrators.
+- Third-party assets will be properly documented and credited where required.
+- Documentation will remain consistent with the Campus Life Management System (CampusLife Hub) prototype.
+- Privacy, security, ethical, and intellectual property reviews will be completed before the final submission.
+
+---
+
+## Issues / Blockers
+
+- Some documents still contained wording from earlier assignment-management versions and required updating for consistency with Campus Life Hub.
+- Several prototype pages had to be reviewed manually to identify all displayed and collected data fields.
+- Third-party assets required verification to ensure appropriate attribution and licensing information.
+- Security risks needed to be documented before implementing mitigation strategies.
+
+---
+
+## Next Action Before Lab 10
+
+- Finalize all remaining Lab 09 documentation.
+- Verify Privacy, Ethical, IP, Security, and Risk Register documents.
+- Complete repository consistency review.
+- Ensure README and Weekly Logbook are fully updated.
+- Verify that all GitHub issues are completed and closed.
+- Perform a final review of the Campus Life Hub prototype before submission.
