@@ -1,0 +1,8 @@
+Metric,Value,Confusion_Category,Count,Interpretation
+Total test users,12,No confusion,4,The workflow was easy to follow.
+Completed tasks,10,Search/filter,2,Search/filter needs review.
+Task success rate,0.8333,Status tracking,1,Status visibility may need improvement.
+Average feedback score,4.1667,Form fields,1,Input form labels may need revision.
+Average interest level,4.25,Detail view,1,Detail screen needs clearer action.
+Users with confusion points,8,Admin dashboard,1,Admin-side controls need refinement.
+Evidence-based decision,Validated / Continue,Privacy note,1,Privacy/data display must be improved.
