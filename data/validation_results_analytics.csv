@@ -1,8 +1,19 @@
-Metric,Value,Confusion_Category,Count,Interpretation
-Total test users,12,No confusion,4,The workflow was easy to follow.
-Completed tasks,10,Search/filter,2,Search/filter needs review.
-Task success rate,0.8333,Status tracking,1,Status visibility may need improvement.
-Average feedback score,4.1667,Form fields,1,Input form labels may need revision.
-Average interest level,4.25,Detail view,1,Detail screen needs clearer action.
-Users with confusion points,8,Admin dashboard,1,Admin-side controls need refinement.
-Evidence-based decision,Validated / Continue,Privacy note,1,Privacy/data display must be improved.
+Lab 08 Customer Validation Analytics Dashboard,,,,,,
+,,,,,,
+Metric,Formula / Value,,Confusion Category,Count,Interpretation,
+Total test users,12,,No confusion,4,The workflow was easy to follow.,
+Completed tasks,10,,Search/filter,2,Search/filter needs review.,
+Task success rate,0.8333,,Status tracking,1,Status visibility may need improvement.,
+Average feedback score,4.1667,,Form fields,1,Input form labels may need revision.,
+Average interest level,4.25,,Detail view,1,Detail screen needs clearer action.,
+Users with confusion points,8,,Admin dashboard,1,Admin-side controls need refinement.,
+Evidence-based decision,Validated / Continue,,Privacy note,1,Privacy/data display must be improved.,
+,,,,,,
+,,,,,,
+Team Interpretation Checklist,,,,,,
+Question,Team Answer / Evidence,,,,,,
+Which main task had the lowest completion?,"Check claim status (TU-03) and Open item detail (TU-07) failed (No). Users spent up to 175 seconds due to unclear layouts.",,,,,,
+Which screen or feature confused users most?,"Search/Filter and Status Tracking screens. Users wanted clearer category dropdowns and building names.",,,,,,
+Which requirement needs improvement before implementation?,"FR-08 (Status Display) and FR-15 (Privacy Control). User TU-12 reported that personal phone numbers were exposed publicly.",,,,,,
+Which MVP feature should be kept as must-have?,"Lost Item Report Form (FR-03) and Form Validation Messages (FR-10). They received top 5/5 scores from students.",,,,,,
+"Decision: continue, revise, or pivot? Explain.","Continue with Revision. The prototype has a high 83.33% success rate, but data masking and claim UI clarity must be revised.",,,,,,
