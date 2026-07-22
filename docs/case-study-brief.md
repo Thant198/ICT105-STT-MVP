@@ -93,3 +93,14 @@ Use the group's own validation dataset:
 
 ## Student Group Task
 After completing the MVP usability testing, the group must analyze the collected validation data, summarize the findings, and produce the required validation documents based on the Campus Life Management System prototype.
+
+# Case Study Brief: Campus Life Management System
+
+## Problem Context
+University students often miss important announcements, project updates, campus events, and academic deadlines because information is scattered across different platforms such as LINE groups, Messenger, Facebook, Google Classroom, email, LMS, and social media.
+
+## Proposed Prototype
+A web-based Campus Life Hub prototype where users can view campus announcements, browse events, access student project information, search or filter records, check dashboard summaries, and allow an administrator to create, update, or delete announcement records.
+
+## Responsible IT Focus for Lab 09
+Students must check what data is collected or displayed, whether personal information is necessary, whether users understand how their data is used, whether third-party assets are properly credited, and whether basic admin and content-management functions are protected or clearly separated from normal user functions.
