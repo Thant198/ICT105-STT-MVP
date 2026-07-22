@@ -1,0 +1,7 @@
+record_id,report_type,item_name,category,location,date_reported,description,status,contact
+AT-001,Assignment,ICT105 Lab 09 Report,ICT / Programming,GitHub Classroom,2026-03-01,Submit security review checklist and analytics dashboard,Pending,student01@u.edu
+AT-002,Project,Web Design Prototype,UI/UX Design,Figma / Vercel,2026-03-02,Complete responsive wireframes and interactive user flows,In Progress,student02@u.edu
+AT-003,Assignment,Database Schema Design,Database Systems,Moodle Portal,2026-03-03,Normalize tables to 3NF and submit ER Diagram PDF,Submitted,student03@u.edu
+AT-004,Project,Campus Life Hub Sprint 1,Software Engineering,GitHub Repository,2026-03-04,Implement core prototype screens and dataset simulation,In Progress,student01@u.edu
+AT-005,Assignment,Java Programming Quiz 2,Object-Oriented Programming,LMS System,2026-03-05,Solve inheritance and static variable problems,Graded,student04@u.edu
+AT-006,Assignment,Network Architecture Essay,Computer Networks,Classroom Building 5,2026-03-06,Submit 5-page research paper on TCP/IP protocols,Overdue,student05@u.edu
