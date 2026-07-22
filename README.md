@@ -353,4 +353,59 @@ No changes were made to the functional or non-functional requirements because th
 |---------|--------------|
 | **Thant Sithu Soe** | Created the Data Inventory and Privacy Review documentation, reviewed the prototype to extract data fields, updated the repository README, and completed the Weekly Logbook. |
 | **Tay Za Aung** | Prepared the Legal, Ethical, and Intellectual Property documentation and created the Updated Requirements Note. |
-| **Sutt** | Built the Security Risk Check, prepared the Risk Register, and implemented Privacy and Security Mitigations within the prototype. |
+| **Sut Lat Shawng** | Built the Security Risk Check, prepared the Risk Register, and implemented Privacy and Security Mitigations within the prototype. |
+
+## Lab 10 - MVP Implementation Sprint 1
+
+### Sprint Goal
+
+Our goal in Lab 10 is to build the first working version of the Campus Life Hub prototype based on the approved system requirements, user stories, wireframes, technical architecture, and responsible IT design checks completed in previous labs. The prototype demonstrates the core workflow for browsing campus information, managing announcements, and providing a centralized platform for students.
+
+---
+
+### Implementation Approach
+
+- **Platform/tools:** HTML5, CSS3, JavaScript (ES6), Visual Studio Code, GitHub Pages
+- **Backend status:** Frontend-only prototype with simulated backend functionality
+- **Data storage/simulation:** JavaScript arrays, Local Storage, and mock JSON data
+- **Prototype link or folder:** `/prototype/`  
+  GitHub Pages: `https://thant198.github.io/ICT105-STT-MVP/prototype/`
+
+---
+
+### Features Implemented in Sprint 1
+
+| Feature | Requirement ID | Status | Evidence |
+|---|---|---|---|
+| Homepage | FR-01 | ✅ Complete | `/prototype/index.html` |
+| Announcement Input Form (Admin) | FR-03 | ✅ Complete | `/prototype/admin-page.html` |
+| Announcements Record List | FR-05 | ✅ Complete | `/prototype/announcements-page.html` |
+| Search / Filter | FR-06 | ✅ Complete | `/prototype/search-page.html` |
+| Project Detail View | FR-07 | ✅ Complete | `/prototype/projects-page.html` |
+| Status Tracking | FR-08 | ✅ Complete | `/prototype/projects-page.html` |
+| Admin Management | FR-09 | ✅ Complete | `/prototype/admin-page.html` |
+| Dashboard Summary | FR-12 | ✅ Complete | `/prototype/dashboard-page.html` |
+
+---
+
+### Screenshots
+
+- **Homepage:** `/screenshots/home.png`
+- **Input Form:** `/screenshots/Admin.png`
+- **Record List:** `/screenshots/Announcement.png`
+- **Detail View:** `/screenshots/Project.png`
+- **Dashboard:** `/screenshots/Dashboard.png`
+- **Search:** `/screenshots/Search.png`
+- **Admin View:** `/screenshots/Admin.png`
+
+---
+
+### Team Contribution
+
+All group members contributed to the same GitHub repository throughout Sprint 1.
+
+| Member | Contribution |
+|---|---|
+| **Thant Sithu Soe** | Implemented and reviewed the prototype core UI, verified the Homepage, Announcements, Events, Projects, Dashboard, Search, and Admin screens, updated the README and Weekly Logbook, and prepared implementation evidence. |
+| **Tay Za Aung**| Prepared the implementation sprint documentation, reviewed requirements, wireframes, and implementation planning. |
+| **Sut Lat Shawng** | Implemented data handling, interaction logic, admin functionality, validation, and basic security improvements for the prototype. |
