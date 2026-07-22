@@ -396,7 +396,7 @@ ICT105-STT-MVP (Campus Life Hub)
 ## Members Present
 - Thant Sithu Soe
 - Tay Za Aung
-- Sutt
+- Sut Lat Shawng
 
 ## Work Completed Today
 
@@ -429,7 +429,7 @@ Reviewed the current system requirements and updated documentation to ensure con
 |---------|--------------|-----------------|
 | **Thant Sithu Soe** | Created the Data Inventory and Privacy Review documentation, reviewed all prototype pages to extract data fields, updated repository documentation, README, and Weekly Logbook. | Issues **#59**, **#62**, **#63** |
 | **Tay Za Aung** | Prepared the Legal, Ethical, and Intellectual Property documentation and created the Updated Requirements Note. | Issues **#58**, **#61** |
-| **Sutt** | Built the Security Risk Check, prepared the Risk Register, and implemented Privacy and Security Mitigations in the prototype source code. | Issues **#60**, **#64** |
+| **Sut Lat Shawng** | Built the Security Risk Check, prepared the Risk Register, and implemented Privacy and Security Mitigations in the prototype source code. | Issues **#60**, **#64** |
 
 ---
 
@@ -499,7 +499,7 @@ MVP Implementation Sprint 1
 |---|---|---|
 | Thant Sithu Soe | Reviewed and finalized the prototype core UI, verified the Homepage, Announcements, Events, Projects, Dashboard, Search, and Admin screens, prepared screenshot evidence, updated the README, and completed the Lab 10 Weekly Logbook. | Issues #66 and #69 |
 | Tay Za Aung | Prepared the Sprint 1 implementation plan and supporting documentation, reviewed the requirements, user stories, wireframes, and team responsibilities. | Issue #65 |
-| Sutt | Implemented and reviewed data handling, interaction logic, admin functions, form validation, confirmation messages, and basic security improvements. | Issues #67 and #68 |
+|Sut Lat Shawng| Implemented and reviewed data handling, interaction logic, admin functions, form validation, confirmation messages, and basic security improvements. | Issues #67 and #68 |
 
 ## Screenshots Added
 
