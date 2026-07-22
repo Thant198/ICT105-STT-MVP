@@ -462,3 +462,70 @@ Reviewed the current system requirements and updated documentation to ensure con
 - Ensure README and Weekly Logbook are fully updated.
 - Verify that all GitHub issues are completed and closed.
 - Perform a final review of the Campus Life Hub prototype before submission.
+
+# Weekly Logbook - Lab 10
+
+## Lab Topic
+MVP Implementation Sprint 1
+
+## What We Built Today
+
+- Reviewed and verified the first working version of the Campus Life Hub prototype.
+- Confirmed that the Homepage, Announcements, Events, Projects, Dashboard, Search, and Admin pages are implemented and connected through working navigation.
+- Verified the announcement input form, record display, search function, dashboard summary, and admin management functions.
+- Reviewed the prototype screens against the approved system requirements, user stories, wireframes, and feature-requirement mapping.
+- Updated the project README and Lab 10 Weekly Logbook with implementation evidence and team contributions.
+
+## Requirement IDs Addressed
+
+- FR-01: Implemented a clear Campus Life Hub homepage that introduces the platform and provides access to the main features.
+- FR-02: Implemented the primary user pathway through navigation between the homepage, announcements, events, projects, dashboard, search, and admin pages.
+- FR-03: Implemented an announcement submission form on the Admin page.
+- FR-05: Implemented record-list views for campus announcements, events, and project information.
+- FR-06: Implemented search and category-based information browsing.
+- FR-07: Implemented detailed information views for announcements, events, and student projects.
+- FR-09: Implemented an Admin page for creating and managing announcement records.
+- FR-10: Added basic form validation to prevent incomplete announcement submissions.
+- FR-11: Added confirmation feedback after an announcement is successfully submitted.
+- FR-12: Implemented a dashboard summary showing important campus information and system statistics.
+- FR-13: Applied a consistent layout, navigation bar, typography, and interface design across prototype pages.
+- FR-14: Used a responsive web layout suitable for laptop and mobile screens.
+- FR-15: Used mock data and avoided collecting unnecessary sensitive personal information.
+- FR-16: Connected implemented prototype features to the approved requirements, user stories, wireframes, and feature mapping.
+
+## Contribution by Members
+
+| Member | Contribution | Evidence |
+|---|---|---|
+| Thant Sithu Soe | Reviewed and finalized the prototype core UI, verified the Homepage, Announcements, Events, Projects, Dashboard, Search, and Admin screens, prepared screenshot evidence, updated the README, and completed the Lab 10 Weekly Logbook. | Issues #66 and #69 |
+| Tay Za Aung | Prepared the Sprint 1 implementation plan and supporting documentation, reviewed the requirements, user stories, wireframes, and team responsibilities. | Issue #65 |
+| Sutt | Implemented and reviewed data handling, interaction logic, admin functions, form validation, confirmation messages, and basic security improvements. | Issues #67 and #68 |
+
+## Screenshots Added
+
+- `/screenshots/home.png`
+- `/screenshots/Announcement.png`
+- `/screenshots/Event.png`
+- `/screenshots/Project.png`
+- `/screenshots/Dashboard.png`
+- `/screenshots/Search.png`
+- `/screenshots/Admin.png`
+
+## Problems Faced
+
+- The lecturer's prototype template used generic screen names such as input form, record list, and detail view, so the team had to map those screens to the Campus Life Hub features.
+- Some earlier documents contained assignment and deadline-management wording that did not fully match the current Campus Life Hub prototype.
+- The existing wireframe filenames contain duplicated file extensions such as `.png.png`, so the exact repository paths had to be checked before adding them to the feature-requirement mapping.
+- The team had to confirm that the existing screenshots represented the latest prototype version and could be reused as Lab 10 implementation evidence.
+- Some planned requirements describe more advanced functions than the current Sprint 1 prototype, so the team focused on the minimum working implementation required for this lab.
+
+## Plan for Next Lab
+
+- Improve the search and filtering experience based on previous usability feedback.
+- Refine the dashboard layout and make status information easier to understand.
+- Improve form guidance, validation messages, and confirmation feedback.
+- Continue implementing any incomplete requirements from `system-requirements.md`.
+- Test all navigation links, forms, search functions, and admin actions.
+- Review the prototype on both laptop and mobile screen sizes.
+- Update feature implementation status and requirement traceability evidence.
+- Close the remaining Lab 10 GitHub issues after all work and evidence are verified.
