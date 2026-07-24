@@ -1,0 +1,27 @@
+{
+  "assignments": [
+    {
+      "id": "A-101",
+      "title": "MVP Prototype Review",
+      "course": "ICT105",
+      "studentId": "6612345678",
+      "dueDate": "2026-07-28",
+      "priority": "High",
+      "status": "In Progress"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Campus Life MVP",
+      "owner": "STT Team",
+      "progress": 68,
+      "status": "In Progress"
+    }
+  ],
+  "links": [
+    {
+      "name": "Rangsit University Portal",
+      "url": "https://www.rsu.ac.th"
+    }
+  ]
+}
