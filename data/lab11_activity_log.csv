@@ -1,0 +1,18 @@
+EventID,RecordID,EventDateTime,ActionType,UserRole,DeviceType,RequirementID,ProcessingTimeMinutes
+EVT001,REC001,2026-02-01 09:15:00,SubmitReport,Student,Desktop,FR-03,5
+EVT002,REC001,2026-02-01 10:20:00,SearchRecord,Student,Mobile,FR-06,2
+EVT003,REC002,2026-02-02 11:00:00,SubmitReport,Student,Desktop,FR-03,4
+EVT004,REC002,2026-02-02 14:15:00,SearchRecord,Student,Mobile,FR-06,1
+EVT005,REC002,2026-02-04 16:00:00,UpdateStatus,Admin,Desktop,FR-09,10
+EVT006,REC003,2026-02-03 08:45:00,SubmitReport,Student,Mobile,FR-03,6
+EVT007,REC003,2026-02-03 13:00:00,ViewDashboard,Student,Desktop,FR-12,3
+EVT008,REC004,2026-02-04 10:30:00,SubmitReport,Student,Desktop,FR-03,3
+EVT009,REC004,2026-02-05 09:10:00,Admin Review,Admin,Desktop,FR-09,8
+EVT010,REC005,2026-02-05 15:20:00,SubmitReport,Student,Mobile,FR-03,5
+EVT011,REC006,2026-02-06 12:00:00,SubmitReport,Student,Desktop,FR-03,4
+EVT012,REC007,2026-02-07 14:00:00,SubmitReport,Student,Mobile,FR-03,5
+EVT013,REC007,2026-02-09 11:30:00,UpdateStatus,Admin,Desktop,FR-09,12
+EVT014,REC008,2026-02-08 16:45:00,SubmitReport,Student,Desktop,FR-03,3
+EVT015,REC009,2026-02-09 09:30:00,SubmitReport,Student,Mobile,FR-03,4
+EVT016,REC010,2026-02-10 11:15:00,SubmitReport,Student,Desktop,FR-03,5
+EVT017,REC010,2026-02-12 15:00:00,UpdateStatus,Admin,Desktop,FR-09,9
