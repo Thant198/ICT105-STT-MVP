@@ -1,0 +1,11 @@
+RecordID,ItemCategory,Location,Priority,CurrentStatus,SubmittedDate,LastUpdatedDate,ResolutionDays,RequirementID,OwnerRole
+REC001,Programming,ICT105,High,Pending,2026-02-01,2026-02-02,3,FR-03,Student
+REC002,Web Dev,ICT102,Medium,Graded,2026-02-02,2026-02-04,2,FR-03,Student
+REC003,Database,ICT108,High,Pending,2026-02-03,2026-02-04,5,FR-03,Student
+REC004,Network,ICT104,Low,Graded,2026-02-04,2026-02-05,1,FR-03,Student
+REC005,UI/UX,ICT101,Medium,Submitted,2026-02-05,2026-02-06,2,FR-03,Student
+REC006,Programming,ICT105,High,Pending,2026-02-06,2026-02-07,4,FR-03,Student
+REC007,Web Dev,ICT102,High,Graded,2026-02-07,2026-02-09,2,FR-03,Student
+REC008,Database,ICT108,Low,Submitted,2026-02-08,2026-02-09,1,FR-03,Student
+REC009,Programming,ICT105,Medium,Pending,2026-02-09,2026-02-10,3,FR-03,Student
+REC010,Network,ICT104,Medium,Graded,2026-02-10,2026-02-12,2,FR-03,Student
