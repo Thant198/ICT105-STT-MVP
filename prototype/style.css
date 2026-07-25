@@ -918,5 +918,148 @@ tbody tr:last-child td {
     }
 }
 
+/* ===========================
+   LOGIN PAGE
+=========================== */
+
+.login-page {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.login-card {
+    width: 100%;
+    max-width: 420px;
+    background: rgba(255,255,255,0.15);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-radius: 20px;
+    padding: 40px 30px;
+    text-align: center;
+    color: white;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+}
+
+.login-logo i {
+    font-size: 60px;
+    color: #FFD54F;
+    margin-bottom: 10px;
+}
+
+.login-logo h1 {
+    margin: 10px 0 5px;
+    font-size: 2rem;
+}
+
+.login-logo p {
+    margin-bottom: 30px;
+    color: rgba(255,255,255,0.85);
+}
+
+.login-card h2 {
+    margin-bottom: 25px;
+}
+
+.input-group {
+    text-align: left;
+    margin-bottom: 18px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 13px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.login-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    margin: 20px 0;
+}
+
+.login-options a {
+    color: #FFD54F;
+    text-decoration: none;
+}
+
+.login-options a:hover {
+    text-decoration: underline;
+}
+
+.login-btn {
+    display: block;
+    width: 100%;
+    background: #4CAF50;
+    color: white;
+    text-decoration: none;
+    padding: 14px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    transition: .3s;
+    box-sizing: border-box;
+}
+
+.login-btn:hover {
+    background: #43a047;
+    transform: translateY(-2px);
+}
+
+.signup-text {
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.signup-text a {
+    color: #FFD54F;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.signup-text a:hover {
+    text-decoration: underline;
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+
+    .login-card {
+        padding: 30px 20px;
+    }
+
+    .login-logo h1 {
+        font-size: 1.7rem;
+    }
+
+    .login-options {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
 
 
