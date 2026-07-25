@@ -452,7 +452,6 @@ nav ul{
 
 }
 
-```css
 /* ===========================================
    Admin Form
 =========================================== */
@@ -544,5 +543,378 @@ nav ul{
 .manage-section .container {
     margin-bottom: 30px;
 }
-```
+
+/* ===========================================
+   Lab 11 - Improved Page Layout and Spacing
+=========================================== */
+
+main {
+    min-height: 70vh;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.section-title {
+    width: 90%;
+    max-width: 900px;
+    margin: 70px auto 40px;
+}
+
+.card-container,
+.dashboard-grid {
+    padding-bottom: 20px;
+}
+
+.card,
+.dashboard-card,
+.admin-form {
+    overflow: hidden;
+}
+
+/* ===========================================
+   Improved Cards and Dashboard
+=========================================== */
+
+.card,
+.dashboard-card {
+    transition:
+        transform 0.3s ease,
+        box-shadow 0.3s ease,
+        background-color 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.14);
+}
+
+.dashboard-card:hover {
+    transform: translateY(-6px);
+    background: #173b5e;
+    box-shadow: 0 10px 24px rgba(31, 78, 121, 0.25);
+}
+
+/* ===========================================
+   Improved Buttons
+=========================================== */
+
+.btn-primary,
+.btn-secondary,
+.admin-button,
+.clear-button,
+.card button {
+    display: inline-block;
+    transition:
+        transform 0.25s ease,
+        background-color 0.25s ease,
+        box-shadow 0.25s ease;
+}
+
+.btn-primary:hover,
+.btn-secondary:hover,
+.admin-button:hover,
+.clear-button:hover,
+.card button:hover {
+    transform: translateY(-2px);
+}
+
+.btn-primary:hover,
+.admin-button:hover {
+    box-shadow: 0 6px 14px rgba(31, 78, 121, 0.25);
+}
+
+.btn-secondary:hover {
+    box-shadow: 0 6px 14px rgba(76, 175, 80, 0.25);
+}
+
+button:focus,
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+    outline: 3px solid rgba(76, 175, 80, 0.25);
+    outline-offset: 2px;
+}
+
+/* ===========================================
+   Search Section
+=========================================== */
+
+.search-box {
+    width: 90%;
+    max-width: 650px;
+    margin: 0 auto 35px;
+}
+
+.search-box input,
+.search-box select {
+    width: 100%;
+    padding: 13px 16px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    background: #ffffff;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+}
+
+.search-box input:focus,
+.search-box select:focus {
+    border-color: #1f4e79;
+    box-shadow: 0 0 0 3px rgba(31, 78, 121, 0.12);
+}
+
+/* ===========================================
+   Record List Table
+=========================================== */
+
+.table-container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto 70px;
+    overflow-x: auto;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+table {
+    width: 100%;
+    min-width: 700px;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+th {
+    background: #1f4e79;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+tbody tr {
+    transition: background-color 0.2s ease;
+}
+
+tbody tr:hover {
+    background: #f1f5f9;
+}
+
+tbody tr:last-child td {
+    border-bottom: none;
+}
+
+/* ===========================================
+   Status Badges
+=========================================== */
+
+.status,
+.status-badge {
+    display: inline-block;
+    padding: 5px 11px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.status-active,
+.active {
+    background: #dcfce7;
+    color: #166534;
+}
+
+.status-pending,
+.pending {
+    background: #fef3c7;
+    color: #92400e;
+}
+
+.status-completed,
+.completed {
+    background: #dbeafe;
+    color: #1e40af;
+}
+
+.status-cancelled,
+.cancelled {
+    background: #fee2e2;
+    color: #991b1b;
+}
+
+/* ===========================================
+   Form Messages
+=========================================== */
+
+.message,
+.success-message,
+.error-message {
+    width: 100%;
+    margin-top: 18px;
+    padding: 12px 15px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.success-message {
+    background: #dcfce7;
+    color: #166534;
+    border: 1px solid #86efac;
+}
+
+.error-message {
+    background: #fee2e2;
+    color: #991b1b;
+    border: 1px solid #fca5a5;
+}
+
+/* ===========================================
+   Lab 11 - Improved Mobile Responsiveness
+=========================================== */
+
+@media (max-width: 768px) {
+
+    .container {
+        width: 92%;
+    }
+
+    header {
+        position: static;
+        padding: 15px 0;
+    }
+
+    header .container {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    nav {
+        width: 100%;
+    }
+
+    nav ul {
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        margin-top: 5px;
+    }
+
+    nav a {
+        display: block;
+        width: 100%;
+        padding: 8px;
+        text-align: center;
+    }
+
+    .hero {
+        padding: 55px 20px;
+    }
+
+    .hero h1 {
+        font-size: 32px;
+        line-height: 1.25;
+    }
+
+    .hero p {
+        font-size: 14px;
+    }
+
+    .hero-buttons {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .btn-primary,
+    .btn-secondary {
+        width: 100%;
+        text-align: center;
+    }
+
+    .card-container,
+    .dashboard-grid {
+        width: 92%;
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .admin-form {
+        width: 92%;
+        padding: 22px;
+    }
+
+    .form-buttons {
+        flex-direction: column;
+    }
+
+    .admin-button,
+    .clear-button {
+        width: 100%;
+    }
+
+    .section-title {
+        width: 92%;
+        margin: 50px auto 30px;
+    }
+
+    .section-title h2 {
+        font-size: 27px;
+    }
+
+    .table-container {
+        width: 92%;
+    }
+
+    footer {
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .logo h2 {
+        font-size: 23px;
+    }
+
+    .logo p {
+        font-size: 12px;
+    }
+
+    .hero {
+        padding: 45px 16px;
+    }
+
+    .hero h1 {
+        font-size: 27px;
+    }
+
+    .card {
+        padding: 20px;
+    }
+
+    .dashboard-card {
+        padding: 28px 18px;
+    }
+
+    .dashboard-card h3 {
+        font-size: 30px;
+    }
+
+    .admin-form {
+        padding: 18px;
+    }
+
+    th,
+    td {
+        padding: 11px;
+        font-size: 13px;
+    }
+}
 
