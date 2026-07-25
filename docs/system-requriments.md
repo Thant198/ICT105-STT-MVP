@@ -4,7 +4,7 @@ Use this file to demonstrate that every screen in the Campus Life Hub prototype 
 
 | Feature ID | Feature / Screen | Requirement ID | User Story ID | Purpose | Wireframe File | Final Prototype Module |
 |---|---|---|---|---|---|---|
-| F-01 | Homepage / Landing Dashboard | FR-01, FR-02 | US-01 | Introduce Campus Life Hub, target users, and provide access to campus information. | /wireframes/homepage.png.png | /prototype/index.html |
+| F-01 | Homepage / Landing Dashboard | FR-01, FR-02 | US-01 | Introduce Campus Life Hub, target users, and provide access to campus information. | /wireframes/homepage.png.png | /prototype/homepage.html |
 | F-02 | Announcement Management Form | FR-03, FR-10, FR-11 | US-02 | Allow administrators to create announcements with input validation and confirmation messages. | /wireframes/input-form.png.png | /prototype/admin-page.html |
 | F-03 | Announcements Page | FR-05, FR-06 | US-03 | Allow users to browse, search, and filter campus announcements. | /wireframes/record-list.png.png | /prototype/announcements-page.html |
 | F-04 | Project Information Detail | FR-07, FR-08 | US-04 | Display detailed project and announcement information with status. | /wireframes/detail-view.png.png | /prototype/projects-page.html |
