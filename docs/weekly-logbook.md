@@ -529,3 +529,59 @@ MVP Implementation Sprint 1
 - Review the prototype on both laptop and mobile screen sizes.
 - Update feature implementation status and requirement traceability evidence.
 - Close the remaining Lab 10 GitHub issues after all work and evidence are verified.
+
+# Weekly Logbook - Lab 11
+
+## Lab Topic
+MVP Implementation Sprint 2 and Startup Metrics
+
+## Group Case
+CampusLife Hub – Smart Campus Information System
+
+## Work Completed Today
+- Improved the prototype user interface and navigation flow.
+- Created a login page as the project entry screen.
+- Connected the login page to the homepage and updated all navigation links.
+- Improved screen layouts and mobile responsiveness.
+- Captured updated prototype screenshots.
+- Updated the project README with Sprint 2 progress and screenshots.
+- Reviewed Sprint 2 implementation status.
+- Documented startup metrics and created the Power BI dashboard.
+- Performed prototype testing and documented testing results.
+
+## Member Contributions
+
+| Member Name | Contribution | File/Feature Updated | GitHub Evidence |
+|---|---|---|---|
+| **Thant Sithu Soe** | Improved the prototype UI, created the login page, updated screen layouts and navigation flow, captured updated screenshots, and updated the project README. | `prototype/index.html`, `prototype/homepage.html`, `prototype/style.css`, `screenshots/`, `README.md` | Issue #72 |
+| **Tay Za Aung** | Reviewed Sprint 2 implementation status, updated feature implementation documentation, completed the weekly logbook, enhanced data persistence and testing, and documented prototype test cases. | `docs/feature-implementation-status.md`, `docs/weekly-logbook.md`, `prototype/script.js`, `docs/prototype-testing-notes.md` | Issues #70, #73 |
+| **Sutmarip (Sut Lat Shawn)** | Built the Power BI dashboard, prepared startup metrics, exported dashboard screenshots, and documented metric analysis. | `data/`, `Lab11_Group3_Startup_Metrics.pbix`, `screenshots/`, `docs/startup-metrics.md` | Issue #71 |
+
+## Requirements Addressed
+- FR-01: Homepage / Landing Dashboard
+- FR-02: Announcement Management Form
+- FR-03: Record List Page
+- FR-04: Project Information Detail
+- FR-05: Admin Management
+- FR-06: Dashboard Summary
+- FR-12: Dashboard Summary Information
+
+## Metrics Added
+- Startup metrics dashboard created using Power BI.
+- Prototype navigation flow verified.
+- Prototype screenshots updated.
+- Testing results documented.
+- Sprint 2 implementation progress recorded.
+
+## Problems Found
+- Navigation links required updating after introducing the new login page.
+- Homepage file had to be renamed and linked correctly across all prototype pages.
+- Minor UI inconsistencies were identified and adjusted.
+- Prototype testing found small navigation issues which were fixed before deployment.
+
+## Next Action Before Lab 12
+- Finalize remaining UI improvements.
+- Complete end-to-end prototype testing.
+- Verify all feature implementations against system requirements.
+- Review GitHub repository structure and documentation.
+- Prepare the final prototype for presentation and submission.
