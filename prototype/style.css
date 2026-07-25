@@ -1023,6 +1023,8 @@ tbody tr:last-child td {
     font-weight: bold;
     transition: .3s;
     box-sizing: border-box;
+    border: none;
+    cursor: pointer;
 }
 
 .login-btn:hover {
