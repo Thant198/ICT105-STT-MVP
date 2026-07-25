@@ -24,7 +24,7 @@ STT
 
 ## Initial Problem Area
 
-University students often struggle to manage group projects, assignment deadlines, project files, and task responsibilities. Important information is usually scattered across chat groups, documents, and personal notes, causing missed deadlines and poor coordination.
+University students often struggle to manage group projects, assignment deadlines, project files, and task responsibilities. Important information is often scattered across chat groups, documents, and personal notes, making it difficult to stay organized and collaborate effectively.
 
 ## Target Users
 
@@ -35,19 +35,19 @@ University students often struggle to manage group projects, assignment deadline
 
 ## Initial IT Venture Direction
 
-Develop a Student Project Management System that helps students organize projects, assign tasks, track deadlines, store files, and monitor project progress in one platform.
+Develop a web-based Student Project Management System that helps students organize projects, assign tasks, manage deadlines, store project resources, and improve team collaboration in one platform.
 
 ## Technology Possibility
 
 Possible technologies:
 
-- Web Application
-- Dashboard System
-- Cloud-Based System
-- SaaS Platform
-- Mobile-Friendly Interface
+- Web application
+- Dashboard system
+- SaaS platform
+- Mobile-friendly interface
+- Cloud-based system
 
-Technology Stack:
+Possible technology stack:
 
 - HTML
 - CSS
