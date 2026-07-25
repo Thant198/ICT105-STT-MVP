@@ -409,3 +409,61 @@ All group members contributed to the same GitHub repository throughout Sprint 1.
 | **Thant Sithu Soe** | Implemented and reviewed the prototype core UI, verified the Homepage, Announcements, Events, Projects, Dashboard, Search, and Admin screens, updated the README and Weekly Logbook, and prepared implementation evidence. |
 | **Tay Za Aung**| Prepared the implementation sprint documentation, reviewed requirements, wireframes, and implementation planning. |
 | **Sut Lat Shawng** | Implemented data handling, interaction logic, admin functionality, validation, and basic security improvements for the prototype. |
+
+# Lab 11: MVP Implementation Sprint 2 and Startup Metrics
+
+## Prototype Progress
+
+During Lab 11, the CampusLife Hub prototype was improved by refining the user interface, enhancing navigation, and documenting startup metrics. A dedicated login page was added as the entry point of the prototype, and the original homepage was updated to `homepage.html`. The team also improved responsive design, updated prototype screenshots, tested the implemented features, and updated the project documentation.
+
+## Implemented / Improved Features
+
+| Requirement ID | Feature | Status | Evidence |
+|---|---|---|---|
+| FR-03 | User input and login form validation | Completed | Login page (`index.html`) |
+| FR-06 | Search and filtering interface | In Progress | Search page prototype |
+| FR-08 | Status tracking and information updates | In Progress | Announcements and Events pages |
+| FR-12 | Dashboard and startup metrics | Completed | Dashboard page and Power BI dashboard |
+
+## Startup/Product Metrics
+
+The team documented startup metrics using Power BI to evaluate the MVP. The dashboard includes:
+
+- Total announcements
+- Total events
+- Total projects
+- User activity summary
+- Visual charts for prototype evaluation
+
+## Prototype Screenshots
+
+Updated screenshots are available in the `screenshots/` folder, including:
+
+- Login Page
+- Homepage
+- Announcements
+- Events
+- Projects
+- Search
+- Dashboard
+- Admin Page
+- Power BI Dashboard
+
+## Member Contributions
+
+| Member | Contribution |
+|---|---|
+| **Thant Sithu Soe** | Improved the prototype UI, created the login page, updated navigation flow, improved responsiveness, captured screenshots, and updated documentation. |
+| **Tay Za Aung** | Reviewed feature implementation, updated the weekly logbook, improved prototype testing, and documented testing results. |
+| **Sut Lat Shawn** | Developed the Power BI dashboard, prepared startup metrics, and documented the dashboard results. |
+
+## Remaining Work
+
+Before the final submission, the team will:
+
+- Complete the remaining prototype features.
+- Perform final prototype testing.
+- Review all functional requirements against the system requirements.
+- Update final screenshots and documentation.
+- Fix any remaining UI or navigation issues.
+- Prepare the final MVP presentation.
