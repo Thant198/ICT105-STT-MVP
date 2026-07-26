@@ -32,7 +32,7 @@ Students often miss important announcements, forget project deadlines, and exper
 | Missing announcements          | 7                  | Students did not see important updates      | High     |
 | Missing deadlines              | 6                  | Students forgot submission dates            | High     |
 | Communication confusion        | 5                  | Team members received different information | Medium   |
-| Difficulty finding information | 4                  | Information scattered across platforms      | Medium   |
+| Difficulty finding information | 3                  | Information scattered across platforms      | Medium   |
 
 ## Consequences
 
