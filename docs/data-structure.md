@@ -43,3 +43,4 @@ To protect student privacy, Campus Life Hub will strictly follow these data rule
 1. No Sensitive Data: The platform will NOT collect personal legal records, passwords, or personal financial details.
 2. Anonymization: All sample user accounts, emails, and names used in the prototype are completely fictional (dummy text) to prevent exposing real student details.
 3. Internal Scope: Access to assignment data and shared links is limited to verified university domain accounts only.
+.
