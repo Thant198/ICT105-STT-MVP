@@ -40,7 +40,7 @@ Explain how your prototype will be built.
 | Sutt | JavaScript data simulation (`script.js`), SPA interaction logic, search/filter implementation, and Admin status management features. | Commit / GitHub Issue #3 / Script logic |
 
 ## 5. Risks or Blockers
-Write technical problems your team faced and how you plan to solve them.
+Write technical problems your team faced and how you plan to solve them..
 
 1. Data Persistence across Page Refreshes:
    - Problem: Without a real database, dynamic form submissions reset upon page reload.
