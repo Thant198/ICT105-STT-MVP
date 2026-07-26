@@ -6,7 +6,7 @@ Student Project Management System
 
 ## Target User
 
-University students working on individual assignments and group projects.
+University students working on individual assignments and group projects..
 
 ## Problem Statement
 
