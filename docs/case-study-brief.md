@@ -104,3 +104,79 @@ A web-based Campus Life Hub prototype where users can view campus announcements,
 
 ## Responsible IT Focus for Lab 09
 Students must check what data is collected or displayed, whether personal information is necessary, whether users understand how their data is used, whether third-party assets are properly credited, and whether basic admin and content-management functions are protected or clearly separated from normal user functions.
+
+# Case Study Brief: CampusLife Hub
+
+## Practice Purpose
+
+This case is used for the implementation of the CampusLife Hub prototype. The project demonstrates how a centralized campus information platform can improve communication and access to important university resources.
+
+## Problem Context
+
+University students often miss important announcements, project updates, campus events, and academic deadlines because information is scattered across multiple communication channels such as Facebook groups, LINE, Messenger, email, and learning management systems. This makes it difficult for students to stay informed and manage their academic activities efficiently.
+
+## Target Users
+
+- University students
+- Student organizations
+- Academic staff and lecturers
+- Campus administrators
+
+## Minimum Prototype Idea
+
+CampusLife Hub is a web-based platform that provides a centralized location for students to access announcements, campus events, project information, dashboard summaries, and search functionality. The prototype also includes an admin interface for managing campus information and updates.
+
+## Practice Note
+
+The CampusLife Hub prototype is developed using HTML, CSS, and JavaScript with browser localStorage for demonstration purposes. No backend server is required. Future improvements may include Firebase, Supabase, PHP/MySQL, or another backend service to provide real-time data synchronization and user authentication.
+
+# Case Study Brief: CampusLife Hub
+
+## Practice Case Context
+
+University students often receive important announcements, project updates, campus events, and academic deadlines through multiple communication channels such as Facebook groups, LINE, Messenger, email, and learning management systems. Because the information is scattered across different platforms, students may miss important updates or spend unnecessary time searching for them.
+
+## Sprint 2 Practice Goal
+
+In Lab 11, the goal is to improve the CampusLife Hub prototype by enhancing the user interface, implementing additional functionality, improving data handling with browser localStorage, and displaying meaningful product metrics.
+
+## Required Practice Functions
+
+- User login interface.
+- View campus announcements.
+- Browse upcoming campus events.
+- Access project information and resources.
+- Search for announcements, events, and projects.
+- View dashboard summaries and statistics.
+- Admin page for managing campus information.
+- Display product metrics such as total announcements, events, projects, active users (simulated), and prototype usage.
+
+## Reminder
+
+This prototype is developed using HTML, CSS, and JavaScript with browser localStorage for demonstration purposes. It does not require a backend database. Future versions may integrate Firebase, Supabase, or another backend service for authentication and real-time data management.
+
+# Case Study Brief: CampusLife Hub
+
+## Case Context
+
+University students often receive important announcements, project updates, campus events, and academic deadlines through multiple communication channels such as Facebook groups, LINE, Messenger, email, and learning management systems. Because information is scattered across different platforms, students may miss important updates or spend unnecessary time searching for them.
+
+## Proposed Prototype
+
+CampusLife Hub is a centralized web-based platform that allows students to:
+
+- view campus announcements;
+- browse upcoming campus events;
+- access project information and shared resources;
+- search announcements, events, and projects;
+- view dashboard summaries and campus statistics;
+- log in through a prototype login page;
+- allow administrators to manage campus information.
+
+## Lab 12 Practice Focus
+
+Create a landing page that introduces CampusLife Hub, explains the problem and solution, highlights the key features, and encourages users to explore the working prototype through the **Try the Demo** call-to-action.
+
+## Reminder
+
+CampusLife Hub is developed using HTML, CSS, and JavaScript as a front-end prototype. The landing page links directly to the prototype login page (`prototype/index.html `), allowing users to experience the core features. Future versions may integrate a backend service such as Firebase, Supabase, or PHP/MySQL for authentication and real-time data management.
