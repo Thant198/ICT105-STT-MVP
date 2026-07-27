@@ -585,3 +585,52 @@ CampusLife Hub – Smart Campus Information System
 - Verify all feature implementations against system requirements.
 - Review GitHub repository structure and documentation.
 - Prepare the final prototype for presentation and submission.
+
+# Weekly Logbook - Lab 12
+
+## Group Name
+
+Team Yakuza
+
+## Project Title
+
+CampusLife Hub
+
+## Lab Date
+
+27 July 2026
+
+## Work Completed Today
+
+| Member Name | Contribution | File/Commit Evidence |
+| --- | --- | --- |
+| Thant Sithu Soe | Built the CampusLife Hub landing page interface, uploaded required screenshots, updated the README, and completed the weekly logbook documentation. | `landing-page/index.html`, `landing-page/style.css`, `README.md`, `docs/weekly-logbook.md`, `screenshots/` (Issues #76, #80) |
+| Tay Za Aung | Reviewed the prototype value proposition, prepared the go-to-market strategy, and defined acquisition metrics with the CSV template. | `docs/go-to-market-plan.md`, `docs/marketing-message.md`, `docs/acquisition-metrics.md`, `data/acquisition-metrics-template.csv` (Issues #74, #78, #79) |
+| Suttmarip | Wrote the landing page content and messaging, and connected the landing page CTA to the working prototype. | `docs/landing-page-content.md`, `landing-page/script.js` (Issues #75, #77) |
+
+## Landing Page Progress
+
+A responsive landing page for CampusLife Hub was developed using HTML, CSS, and JavaScript. The landing page introduces the project, explains the problem and solution, highlights the main features, displays acquisition metrics, and includes a **"Try the Demo"** button that directs users to the prototype login page.
+
+## Go-to-Market Progress
+
+The team identified university students as the primary target users, with lecturers and campus administrators as secondary users. Promotion channels include GitHub Pages, classroom demonstrations, and social media. A marketing message was created to emphasize centralized campus information and easy access to announcements, events, and project resources.
+
+## Metrics Plan
+
+The landing page measures CTA clicks and demo attempts using browser localStorage. These metrics help evaluate user interest, prototype engagement, and the effectiveness of the landing page in directing users to the CampusLife Hub prototype.
+
+## Problems Encountered
+
+- Updating project documentation to match the new landing page.
+- Ensuring all CTA buttons correctly linked to the prototype.
+- Organizing GitHub files according to the Lab 12 repository structure.
+- Maintaining consistency between the landing page and the prototype.
+
+## Next Action Before Lab 13
+
+- Collect user feedback from prototype demonstrations.
+- Improve the landing page based on feedback and usability testing.
+- Refine the CampusLife Hub prototype with additional functionality.
+- Prepare the final presentation and complete all remaining project documentation.
+```
