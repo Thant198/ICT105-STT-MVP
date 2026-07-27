@@ -467,3 +467,37 @@ Before the final submission, the team will:
 - Update final screenshots and documentation.
 - Fix any remaining UI or navigation issues.
 - Prepare the final MVP presentation.
+
+## Lab 12 - Landing Page and Digital Go-to-Market
+
+### Landing Page
+- Landing page folder/link: [`/landing-page/index.html`](https://thant198.github.io/ICT105-STT-MVP/landing-page/)
+- Main CTA: **Try the Demo**
+- Prototype/demo link: [(https://thant198.github.io/ICT105-STT-MVP/prototype/)]
+
+### Go-to-Market Plan
+- **Target early users:** University students, lecturers, and campus administrators.
+- **Selected channels:** GitHub Pages, classroom demonstrations, university social media, and student communities.
+- **Main marketing message:** *CampusLife Hub centralizes announcements, events, project resources, and campus information into one easy-to-use platform.*
+
+### Acquisition Metrics
+- **Metric 1:** CTA Clicks (Number of users who click **"Try the Demo"**)
+- **Metric 2:** Demo Attempts (Number of users who access the prototype)
+- **Metric 3:** Conversion Rate (Percentage of visitors who proceed from the landing page to the prototype)
+
+### Screenshots
+- Landing page screenshot: `/screenshots/landing-page.png`
+- CTA screenshot: `/screenshots/call-to-action.png`
+
+### Requirement Alignment
+
+The Lab 12 landing page introduces CampusLife Hub by clearly presenting the problem, solution, target users, and key prototype features. The **"Try the Demo"** call-to-action directs users to the prototype login page (`/prototype/index.html`), allowing them to access the homepage, announcements, events, projects, dashboard, search, and admin modules. This ensures that the landing page accurately represents the implemented prototype and aligns with the project requirements defined in `system-requirements.md`.
+
+### Member Contributions
+
+| Member | Contribution | Commit/Issue Evidence |
+| --- | --- | --- |
+| Thant Sithu Soe | Built the landing page interface, uploaded screenshots, updated the README, and completed the weekly logbook. | Issues **#76**, **#80** |
+| Tay Za Aung | Reviewed the prototype value proposition, prepared the go-to-market strategy, and defined acquisition metrics. | Issues **#74**, **#78**, **#79** |
+| Suttmarip | Wrote the landing page content and messaging, and connected the CTA to the working prototype. | Issues **#75**, **#77** |
+```
