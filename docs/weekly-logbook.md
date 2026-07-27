@@ -590,7 +590,7 @@ CampusLife Hub – Smart Campus Information System
 
 ## Group Name
 
-Team Yakuza
+ICT105-STT-MVP
 
 ## Project Title
 
