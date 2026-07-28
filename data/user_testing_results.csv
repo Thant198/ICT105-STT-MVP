@@ -1,0 +1,9 @@
+Tester_ID,Tester_Type,Task_ID,Task_Description,Completed,Completion_Time_Min,Confusion_Point,Feedback_Score_1_5,Comment,Related_Requirement
+U01,Student user,T01,Submit new assignment entry,Yes,1.2,,5,Form fields are clear and intuitive,FR-03
+U01,Student user,T02,Search/filter tasks by course code,Yes,0.5,,5,Instant search results rendered correctly,FR-06
+U02,Student user,T01,Submit new assignment entry,Yes,1.5,,4,Easy to navigate submission form,FR-03
+U02,Student user,T03,Update task status to Submitted,Partial,2.0,Action dropdown menu was slightly small,3,Dropdown button was slightly hidden on smaller screen,FR-08
+U03,Class Rep,T02,Search/filter tasks by course code,Yes,0.8,,5,Filters by course code work very well,FR-06
+U03,Class Rep,T04,Verify Student ID privacy masking,Yes,0.3,,5,Student ID correctly masked as 6601XXXX,FR-10
+U04,Student user,T03,Update task status to Submitted,Yes,1.2,,4,Status changed to Submitted properly,FR-08
+U05,Student user,T05,Read dashboard summary & KPIs,Yes,1.0,,4,Clean overview of assignment completion rates,FR-12
