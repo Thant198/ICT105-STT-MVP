@@ -254,12 +254,12 @@ This experiment uses a clickable web prototype because it allows users to intera
 
 ### Files Added in Lab 07
 
-- `/docs/mvp-experiment-plan.md`
-- `/docs/critical-assumptions.md`
-- `/docs/experiment-script.md`
-- `/docs/success-metrics.md`
-- `/docs/feedback-form.md`
-- `/docs/weekly-logbook.md`
+- [`/docs/mvp-experiment-plan.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/2e265e037e51d5da7f4635d425fa5c76e5ac39ce/docs/mvp-experiment-plan.md)
+- [`/docs/critical-assumptions.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/2e265e037e51d5da7f4635d425fa5c76e5ac39ce/docs/critical-assumptions.md)
+- [`/docs/experiment-script.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/2e265e037e51d5da7f4635d425fa5c76e5ac39ce/docs/experiment-script.md)
+- [`/docs/success-metrics.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/2e265e037e51d5da7f4635d425fa5c76e5ac39ce/docs/success-metrics.md)
+- [`/docs/feedback-form.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/cf45a683964b1f01e2d4478e673bdf35646cf2a4/docs/feedback-form.md)
+- [`/docs/weekly-logbook.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/cf45a683964b1f01e2d4478e673bdf35646cf2a4/docs/weekly-logbook.md)
 
 ---
 
@@ -281,8 +281,7 @@ The group tested the CampusLife Hub MVP prototype with target users to evaluate 
 
 - **Version:** MVP Prototype v1.0
 - **Link:** https://thant198.github.io/ICT105-STT-MVP/prototype/
-- **Screenshots:** `/screenshots/validation-test-screens.png`
-
+- **Screenshots:** 
 ---
 
 ### Analytics Summary
@@ -305,12 +304,10 @@ The group decided to **revise** the prototype before the next implementation sta
 
 ### Files Added
 
-- `/data/validation-results.csv`
-- `/docs/customer-validation-summary.md`
-- `/docs/analytics-insights.md`
-- `/docs/mvp-decision.md`
-- `/screenshots/validation-test-screens.png`
-- `/docs/weekly-logbook.md`
+- [`/data/validation-results.csv`](https://github.com/Thant198/ICT105-STT-MVP/blob/1fed61068254c3a91583b7e0ed1bb5a716962e17/data/lab08_validation_results.csv)
+- [`/docs/customer-validation-summary.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/5ae406c9015238749f93e65c0d87a01f6700bd61/docs/customer-validation-summary.md)
+- [`/docs/analytics-insights.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/5ae406c9015238749f93e65c0d87a01f6700bd61/docs/analytics-insights.md)
+- [`/docs/weekly-logbook.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/5ae406c9015238749f93e65c0d87a01f6700bd61/docs/weekly-logbook.md)
 
 # Lab 09 - Responsible IT Check
 
@@ -342,7 +339,7 @@ The security review identified several potential risks including unauthorized ac
 
 ## Requirement Update
 
-The `system-requirements.md` document was reviewed during Lab 09 as part of the Responsible IT assessment.
+The [`system-requirements.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/7dcc6a9166698b0b797929edf06d3052dfec2b9e/docs/system-requriments.md) document was reviewed during Lab 09 as part of the Responsible IT assessment.
 
 No changes were made to the functional or non-functional requirements because the existing system requirements already matched the current Campus Life Hub prototype. The Lab 09 review focused on privacy, ethical, intellectual property, and security documentation rather than modifying the system requirements.
 ---
@@ -368,8 +365,8 @@ Our goal in Lab 10 is to build the first working version of the Campus Life Hub 
 - **Platform/tools:** HTML5, CSS3, JavaScript (ES6), Visual Studio Code, GitHub Pages
 - **Backend status:** Frontend-only prototype with simulated backend functionality
 - **Data storage/simulation:** JavaScript arrays, Local Storage, and mock JSON data
-- **Prototype link or folder:** `/prototype/`  
-  GitHub Pages: `https://thant198.github.io/ICT105-STT-MVP/prototype/`
+- **Prototype link or folder:** [`/prototype/`](https://github.com/Thant198/ICT105-STT-MVP/tree/7dcc6a9166698b0b797929edf06d3052dfec2b9e/prototype)  
+  GitHub Pages: https://thant198.github.io/ICT105-STT-MVP/prototype/
 
 ---
 
@@ -377,27 +374,26 @@ Our goal in Lab 10 is to build the first working version of the Campus Life Hub 
 
 | Feature | Requirement ID | Status | Evidence |
 |---|---|---|---|
-| Homepage | FR-01 | ✅ Complete | `/prototype/index.html` |
-| Announcement Input Form (Admin) | FR-03 | ✅ Complete | `/prototype/admin-page.html` |
-| Announcements Record List | FR-05 | ✅ Complete | `/prototype/announcements-page.html` |
-| Search / Filter | FR-06 | ✅ Complete | `/prototype/search-page.html` |
-| Project Detail View | FR-07 | ✅ Complete | `/prototype/projects-page.html` |
-| Status Tracking | FR-08 | ✅ Complete | `/prototype/projects-page.html` |
-| Admin Management | FR-09 | ✅ Complete | `/prototype/admin-page.html` |
-| Dashboard Summary | FR-12 | ✅ Complete | `/prototype/dashboard-page.html` |
+| Homepage | FR-01 | ✅ Complete |[ `/prototype/homepage.html` ](https://github.com/Thant198/ICT105-STT-MVP/blob/d58c79df9dfe4b1072d37349039353a2068522b6/prototype/homepage.html)|
+| Announcement Input Form (Admin) | FR-03 | ✅ Complete | [`/prototype/admin-page.html`](https://github.com/Thant198/ICT105-STT-MVP/blob/d58c79df9dfe4b1072d37349039353a2068522b6/prototype/admin-page.html) |
+| Announcements Record List | FR-05 | ✅ Complete | [`/prototype/announcements-page.html` ](https://github.com/Thant198/ICT105-STT-MVP/blob/d58c79df9dfe4b1072d37349039353a2068522b6/prototype/announcements-page.html)|
+| Search / Filter | FR-06 | ✅ Complete | [`/prototype/search-page.html`](https://github.com/Thant198/ICT105-STT-MVP/blob/d58c79df9dfe4b1072d37349039353a2068522b6/prototype/search-page.html) |
+| Project Detail View | FR-07 | ✅ Complete | [`/prototype/projects-page.html`](https://github.com/Thant198/ICT105-STT-MVP/blob/d58c79df9dfe4b1072d37349039353a2068522b6/prototype/projects-page.html) |
+| Status Tracking | FR-08 | ✅ Complete | [`/prototype/projects-page.html`](https://github.com/Thant198/ICT105-STT-MVP/blob/d58c79df9dfe4b1072d37349039353a2068522b6/prototype/projects-page.html) |
+| Admin Management | FR-09 | ✅ Complete |[ `/prototype/admin-page.html`](https://github.com/Thant198/ICT105-STT-MVP/blob/dd200805809c6fe513bbd13a03741567beb8a3fa/prototype/admin-page.html) |
+| Dashboard Summary | FR-12 | ✅ Complete | [`/prototype/dashboard-page.html`](https://github.com/Thant198/ICT105-STT-MVP/blob/dd200805809c6fe513bbd13a03741567beb8a3fa/prototype/dashboard-page.html) |
 
 ---
 
 ### Screenshots
 
-- **Homepage:** `/screenshots/home.png`
-- **Input Form:** `/screenshots/Admin.png`
-- **Record List:** `/screenshots/Announcement.png`
-- **Detail View:** `/screenshots/Project.png`
-- **Dashboard:** `/screenshots/Dashboard.png`
-- **Search:** `/screenshots/Search.png`
-- **Admin View:** `/screenshots/Admin.png`
-
+- **Homepage:** [`/screenshots/home.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/home.png)
+- **Input Form:**  [`/screenshots/Admin.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/Admin.png)
+- **Record List:**[`/screenshots/Announcement.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/Announcement.png)
+- **Detail View:** [`/screenshots/Project.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/Project.png)
+- **Dashboard:**[`/screenshots/Dashboard.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/Dashboard.png)
+- **Search:** [`/screenshots/Search.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/Search.png)
+- **Admin View:**  [`/screenshots/Admin.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/Admin.png)
 ---
 
 ### Team Contribution
@@ -414,13 +410,13 @@ All group members contributed to the same GitHub repository throughout Sprint 1.
 
 ## Prototype Progress
 
-During Lab 11, the CampusLife Hub prototype was improved by refining the user interface, enhancing navigation, and documenting startup metrics. A dedicated login page was added as the entry point of the prototype, and the original homepage was updated to `homepage.html`. The team also improved responsive design, updated prototype screenshots, tested the implemented features, and updated the project documentation.
+During Lab 11, the CampusLife Hub prototype was improved by refining the user interface, enhancing navigation, and documenting startup metrics. A dedicated login page was added as the entry point of the prototype, and the original homepage was updated to [`homepage.html`](https://github.com/Thant198/ICT105-STT-MVP/blob/7dcc6a9166698b0b797929edf06d3052dfec2b9e/prototype/homepage.html). The team also improved responsive design, updated prototype screenshots, tested the implemented features, and updated the project documentation.
 
 ## Implemented / Improved Features
 
 | Requirement ID | Feature | Status | Evidence |
 |---|---|---|---|
-| FR-03 | User input and login form validation | Completed | Login page (`index.html`) |
+| FR-03 | User input and login form validation | Completed | Login page [`index.html`](https://github.com/Thant198/ICT105-STT-MVP/blob/7dcc6a9166698b0b797929edf06d3052dfec2b9e/prototype/index.html) |
 | FR-06 | Search and filtering interface | In Progress | Search page prototype |
 | FR-08 | Status tracking and information updates | In Progress | Announcements and Events pages |
 | FR-12 | Dashboard and startup metrics | Completed | Dashboard page and Power BI dashboard |
@@ -437,7 +433,7 @@ The team documented startup metrics using Power BI to evaluate the MVP. The dash
 
 ## Prototype Screenshots
 
-Updated screenshots are available in the `screenshots/` folder, including:
+Updated screenshots are available in the[ `screenshots/`](https://github.com/Thant198/ICT105-STT-MVP/tree/d58c79df9dfe4b1072d37349039353a2068522b6/screenshots) folder, including:
 
 - Login Page
 - Homepage
@@ -486,12 +482,13 @@ Before the final submission, the team will:
 - **Metric 3:** Conversion Rate (Percentage of visitors who proceed from the landing page to the prototype)
 
 ### Screenshots
-- Landing page screenshot: `/screenshots/landing-page.png`
-- CTA screenshot: `/screenshots/call-to-action.png`
+- Landing page screenshot:[ `/screenshots/landing-page.jpeg`](https://github.com/Thant198/ICT105-STT-MVP/blob/7dcc6a9166698b0b797929edf06d3052dfec2b9e/screenshots/landing-page.png)
+- CTA screenshot: [`/screenshots/call-to-action.png`
+](https://github.com/Thant198/ICT105-STT-MVP/blob/d58c79df9dfe4b1072d37349039353a2068522b6/screenshots/call-to-action.png)
 
 ### Requirement Alignment
 
-The Lab 12 landing page introduces CampusLife Hub by clearly presenting the problem, solution, target users, and key prototype features. The **"Try the Demo"** call-to-action directs users to the prototype login page (`/prototype/index.html`), allowing them to access the homepage, announcements, events, projects, dashboard, search, and admin modules. This ensures that the landing page accurately represents the implemented prototype and aligns with the project requirements defined in `system-requirements.md`.
+The Lab 12 landing page introduces CampusLife Hub by clearly presenting the problem, solution, target users, and key prototype features. The **"Try the Demo"** call-to-action directs users to the prototype login page [`/prototype/index.html`](https://github.com/Thant198/ICT105-STT-MVP/blob/1bdbdd04df59104f03eeed1ef0ed87ca525c58d3/prototype/index.html), allowing them to access the homepage, announcements, events, projects, dashboard, search, and admin modules. This ensures that the landing page accurately represents the implemented prototype and aligns with the project requirements defined in [`system-requirements.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/1bdbdd04df59104f03eeed1ef0ed87ca525c58d3/docs/system-requriments.md).
 
 ### Member Contributions
 
