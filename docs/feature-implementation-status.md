@@ -1,7 +1,7 @@
 # Lab 10 - Feature Implementation Status
 
 ## Purpose
-Use this file to prove that your prototype implementation is connected to system-requirements.md.
+Use this file to prove that your prototype implementation is connected to system-requirements.md..
 
 | Req ID | Required Functionality | Prototype Screen/Module | Current Status | Evidence | Next Fix Needed |
 |---|---|---|---|---|---|
