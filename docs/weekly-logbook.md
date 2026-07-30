@@ -503,13 +503,13 @@ MVP Implementation Sprint 1
 
 ## Screenshots Added
 
-- `/screenshots/home.png`
-- `/screenshots/Announcement.png`
-- `/screenshots/Event.png`
-- `/screenshots/Project.png`
-- `/screenshots/Dashboard.png`
-- `/screenshots/Search.png`
-- `/screenshots/Admin.png`
+- [`/screenshots/home.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/home.png)
+- [`/screenshots/Announcement.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/Announcement.png)
+- [`/screenshots/Event.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/Event.png)
+- [`/screenshots/Project.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/Project.png)
+- [`/screenshots/Dashboard.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/Dashboard.png)
+- [`/screenshots/Search.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/Search.png)
+- [`/screenshots/Admin.png`](https://github.com/Thant198/ICT105-STT-MVP/blob/688125950afb1b3561894c0ed3a1bc4772d12f55/screenshots/Admin.png)
 
 ## Problems Faced
 
@@ -551,11 +551,11 @@ CampusLife Hub – Smart Campus Information System
 
 ## Member Contributions
 
-| Member Name | Contribution | File/Feature Updated | GitHub Evidence |
+| Member Name | Contribution |GitHub Evidence |
 |---|---|---|---|
-| **Thant Sithu Soe** | Improved the prototype UI, created the login page, updated screen layouts and navigation flow, captured updated screenshots, and updated the project README. | `prototype/index.html`, `prototype/homepage.html`, `prototype/style.css`, `screenshots/`, `README.md` | Issue #72 |
-| **Tay Za Aung** | Reviewed Sprint 2 implementation status, updated feature implementation documentation, completed the weekly logbook, enhanced data persistence and testing, and documented prototype test cases. | `docs/feature-implementation-status.md`, `docs/weekly-logbook.md`, `prototype/script.js`, `docs/prototype-testing-notes.md` | Issues #70, #73 |
-| **Sutmarip (Sut Lat Shawn)** | Built the Power BI dashboard, prepared startup metrics, exported dashboard screenshots, and documented metric analysis. | `data/`, `Lab11_Group3_Startup_Metrics.pbix`, `screenshots/`, `docs/startup-metrics.md` | Issue #71 |
+| **Thant Sithu Soe** | Improved the prototype UI, created the login page, updated screen layouts and navigation flow, captured updated screenshots, and updated the project README. | Issue #72 |
+| **Tay Za Aung** | Reviewed Sprint 2 implementation status, updated feature implementation documentation, completed the weekly logbook, enhanced data persistence and testing, and documented prototype test cases. |  Issues #70, #73 |
+| **Sutmarip (Sut Lat Shawn)** | Built the Power BI dashboard, prepared startup metrics, exported dashboard screenshots, and documented metric analysis. |  Issue #71 |
 
 ## Requirements Addressed
 - FR-01: Homepage / Landing Dashboard
@@ -602,11 +602,11 @@ CampusLife Hub
 
 ## Work Completed Today
 
-| Member Name | Contribution | File/Commit Evidence |
+| Member Name | Contribution | GitHub issues |
 | --- | --- | --- |
-| Thant Sithu Soe | Built the CampusLife Hub landing page interface, uploaded required screenshots, updated the README, and completed the weekly logbook documentation. | `landing-page/index.html`, `landing-page/style.css`, `README.md`, `docs/weekly-logbook.md`, `screenshots/` (Issues #76, #80) |
-| Tay Za Aung | Reviewed the prototype value proposition, prepared the go-to-market strategy, and defined acquisition metrics with the CSV template. | `docs/go-to-market-plan.md`, `docs/marketing-message.md`, `docs/acquisition-metrics.md`, `data/acquisition-metrics-template.csv` (Issues #74, #78, #79) |
-| Suttmarip | Wrote the landing page content and messaging, and connected the landing page CTA to the working prototype. | `docs/landing-page-content.md`, `landing-page/script.js` (Issues #75, #77) |
+| Thant Sithu Soe | Built the CampusLife Hub landing page interface, uploaded required screenshots, updated the README, and completed the weekly logbook documentation. | (Issues #76, #80) |
+| Tay Za Aung | Reviewed the prototype value proposition, prepared the go-to-market strategy, and defined acquisition metrics with the CSV template. | (Issues #74, #78, #79) |
+| Suttmarip | Wrote the landing page content and messaging, and connected the landing page CTA to the working prototype. | (Issues #75, #77) |
 
 ## Landing Page Progress
 
