@@ -49,3 +49,20 @@ Use this file to prove that your prototype implementation is connected to system
 | FR-14 | Mobile/responsive consideration | All Screens | Pending | Completed | Thant Sithu Soe | /prototype/style.css | Responsive breakpoints verified |
 | FR-15 | Privacy/responsible data handling | Data Collection | Pending | Completed | Tay Za (Nico) | /prototype/script.js | Masking student IDs as 6601XXXX |
 | FR-16 | Final prototype traceability | Documentation | Pending | Completed | Tay Za (Nico) | /docs/ files | All requirements mapped & verified |
+
+  # Feature Implementation Status
+
+| Requirement ID | Requirement Summary | Prototype Screen/Module | Status | Evidence/Screenshot | Notes |
+|---|---|---|---|---|---|
+| FR-01 | Homepage or landing screen | Main Dashboard Header | Completed | final-homepage.png | Shows project title & core pitch |
+| FR-02 | Primary user pathway | Assignment Entry Flow | Completed | final-homepage.png | Seamless navigation from form to list |
+| FR-03 | User input or data submission | Submission Form Modal | Completed | final-input-form.png | Validates course, title, and date |
+| FR-04 | Data storage or simulated storage | LocalStorage Data Handler | Completed | final-input-form.png | Persists task entries in browser |
+| FR-05 | View records/list | Task List Dashboard | Completed | final-record-list.png | Lists pending & completed tasks |
+| FR-06 | Search/filter/category | Course Code Filter | Completed | final-record-list.png | Instant filter by course ID |
+| FR-07 | Detail view | Task Specification Modal | Completed | final-detail-view.png | Displays complete submission guidelines |
+| FR-08 | Status/progress tracking | Visual Status Badge | Completed | final-admin-view.png | Real-time Pending/Submitted toggle |
+| FR-09 | Admin/manager function | Class Rep Status Manager | Completed | final-admin-view.png | Allows Reps to approve submissions |
+| FR-10 | Validation and feedback | ID Masking & Validation | Completed | final-detail-view.png | ID masked as 6601XXXX for privacy |
+| FR-11 | Dashboard/summary/metrics | KPI Summary Header | Completed | final-dashboard.png | Shows total tasks and completion rates |
+| FR-12 | Final prototype traceability | Traceability Matrix | Completed | final-dashboard.png | 100% connected to system docs |
