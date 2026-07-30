@@ -1,0 +1,6 @@
+record_id,record_type,title,category,location,date_reported,status,submitted_by_role,last_updated,notes
+AS-001,Assignment,Lab 14 Final Release,ICT105,GitHub Repo,2026-03-20,Submitted,Student,2026-03-25,Student ID 6601XXXX masked for privacy
+AS-002,Assignment,Java OOP Quiz 2,ICT102,Online Portal,2026-03-21,Pending,Student,2026-03-22,Due on Friday 11:59 PM
+AS-003,Project,Database Design ERD,ICT108,Computer Lab 4,2026-03-22,Graded,Class Rep,2026-03-24,Score updated by Teaching Assistant
+AS-004,Assignment,UI UX Wireframe Report,ICT104,Figma Link,2026-03-23,Pending,Student,2026-03-24,Group submission pending member review
+AS-005,Assignment,Network Topology Simulation,ICT106,Cisco Packet Tracer,2026-03-24,Submitted,Student,2026-03-25,Successfully uploaded PKT file
