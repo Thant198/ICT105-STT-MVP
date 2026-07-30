@@ -1,0 +1,5 @@
+tester_id,target_user_type,task,completed,time_minutes,confusion_point,feedback_score_1_5,comment,improvement_needed
+T01,Student,Submit new assignment entry,Yes,1,No major issue,5,Form fields were very clear and intuitive,No
+T02,Student,Filter tasks by course code,Yes,1,Filter button label could be clearer,4,Search works fast but button label should be explicit,Yes
+T03,Class Rep,Update assignment status,Partial,2,Action dropdown menu was slightly small,3,Dropdown button was slightly hidden on mobile view,Yes
+T04,Student,Verify Student ID privacy masking,Yes,1,None,5,Student ID correctly masked as 6601XXXX,No
