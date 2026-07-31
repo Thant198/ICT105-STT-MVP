@@ -496,27 +496,27 @@ The Lab 12 landing page introduces CampusLife Hub by clearly presenting the prob
 | --- | --- | --- |
 | Thant Sithu Soe | Built the landing page interface, uploaded screenshots, updated the README, and completed the weekly logbook. | Issues **#76**, **#80** |
 | Tay Za Aung | Reviewed the prototype value proposition, prepared the go-to-market strategy, and defined acquisition metrics. | Issues **#74**, **#78**, **#79** |
-| Suttmarip | Wrote the landing page content and messaging, and connected the CTA to the working prototype. | Issues **#75**, **#77** |
-```
+| Sut Lat Shwan | Wrote the landing page content and messaging, and connected the CTA to the working prototype. | Issues **#75**, **#77** |
+
 ### Lab 13 Objective
 
 We prepared the final sales scenario, prototype demonstration script, user testing plan, testing results, and final improvement list for CampusLife Hub before the final MVP presentation in Lab 14.
 
 ### Files Completed
 
-- [x] `/docs/sales-scenario.md`
-- [x] `/docs/demo-script.md`
-- [x] `/docs/user-testing-plan.md`
-- [x] `/docs/user-testing-results.md`
-- [x] `/docs/final-improvement-list.md`
-- [x] `/docs/weekly-logbook.md`
+- [x] [`/docs/sales-scenario.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/cade6857a798c98480b34a18acecbb98e251659a/docs/sales-scenario.md)
+- [x] [`/docs/demo-script.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/cade6857a798c98480b34a18acecbb98e251659a/docs/demo-script.md)
+- [x] [`/docs/user-testing-plan.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/cade6857a798c98480b34a18acecbb98e251659a/docs/user-testing-plan.md)
+- [x] [`/docs/user-testing-results.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/cade6857a798c98480b34a18acecbb98e251659a/docs/user-testing-results.md)
+- [x] [`/docs/final-improvement-list.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/cade6857a798c98480b34a18acecbb98e251659a/docs/final-improvement-list.md)
+- [x] [`/docs/weekly-logbook.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/cade6857a798c98480b34a18acecbb98e251659a/docs/weekly-logbook.md)
 - [x] `/screenshots/demo-flow.png`
 - [x] `/screenshots/user-testing-evidence.png`
 
 ### Prototype / Demo Link
 
-- Landing Page: `https://thant198.github.io/ICT105-STT-MVP/landing-page/`
-- Prototype Demo: `https://thant198.github.io/ICT105-STT-MVP/prototype/`
+- Landing Page: [`https://thant198.github.io/ICT105-STT-MVP/landing-page/`](https://thant198.github.io/ICT105-STT-MVP/landing-page/)
+- Prototype Demo: [`https://thant198.github.io/ICT105-STT-MVP/prototype/`](https://thant198.github.io/ICT105-STT-MVP/prototype/)
 
 ### Final Preparation Status
 
