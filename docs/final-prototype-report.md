@@ -10,10 +10,9 @@ CampusLife Hub
 
 | Name | Role | Main Contribution | GitHub Evidence |
 |---|---|---|---|
-| Tay Za Aung | Business & Validation | Sales scenario, user testing results, CSV data | Issues #81, #84 |
-| Thant Sithu Soe | Documentation & Testing | User testing plan, screenshots, README, weekly logbook | Issues #83, #86 |
-| Sut Lat Shawn | Prototype Presentation | Demo script and final improvement list | Issues #82, #85 |
-
+| Tay Za Aung | Business & Product Validation | Requirement audit, feature status review, and final venture pitch preparation. | Issues #87, #88 |
+| Thant Sithu Soe | Repository & Documentation | Packaged the final prototype, updated the README, demo links, screenshots, and repository documentation. | Issues #89, #92 |
+| Suttmarip | Presentation & Final Report | Prepared the final demo script, final prototype report, and project reflection. | Issues #90, #91 |
 ---
 
 ## 3. Problem Background
