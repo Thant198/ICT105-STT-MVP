@@ -633,4 +633,70 @@ The landing page measures CTA clicks and demo attempts using browser localStorag
 - Improve the landing page based on feedback and usability testing.
 - Refine the CampusLife Hub prototype with additional functionality.
 - Prepare the final presentation and complete all remaining project documentation.
-```
+
+# Weekly Logbook - Lab 13
+
+## Group Name
+
+STT
+
+## Project Title
+
+CampusLife Hub
+
+## Date
+
+31 July 2026
+
+## Members and Contributions
+
+| Member | Contribution This Lab | GitHub Evidence |
+| --- | --- | --- |
+| Tay Za Aung | Drafted the sales scenario document and recorded the user testing results with CSV data. | Issues **#81**, **#84** |
+| Thant Sithu Soe | Defined the user testing plan and tasks, captured screenshots, and updated the README and weekly logbook. | Issues **#83**, **#86** |
+| Sut Lat Shawn | Wrote the screen-by-screen demo script and prepared the final improvement list. | Issues **#82**, **#85** |
+
+## Work Completed
+
+- **Sales scenario:** Completed and documented the CampusLife Hub sales scenario.
+- **Demo script:** Prepared a complete screen-by-screen demonstration script.
+- **User testing plan:** Defined tester profiles, testing tasks, success criteria, and testing procedure.
+- **User testing results:** Recorded testing outcomes, usability issues, user feedback, and evidence.
+- **Final improvement list:** Prioritized improvements into Critical, Important, Useful, and Future categories.
+- **Screenshots:** Uploaded the demo flow and user testing evidence screenshots.
+
+## Key Decisions
+
+- The demonstration will start from the Landing Page and continue through the Login page, Homepage, Announcements, Events, Projects, Search, Dashboard, and Admin page.
+- User feedback will be used to improve navigation labels, search usability, and dashboard descriptions before the final presentation.
+- Only minor usability improvements will be completed before Lab 14 without changing the system requirements.
+
+## Problems Encountered
+
+- Some navigation labels were not immediately clear to first-time users.
+- Search controls required clearer instructions.
+- Dashboard labels needed more descriptive text.
+- The admin page required a clearer explanation of its purpose.
+
+## Next Actions Before Lab 14
+
+- Improve navigation labels and dashboard descriptions.
+- Refine the search interface.
+- Update screenshots after the final improvements.
+- Verify all prototype links.
+- Prepare the final MVP presentation and venture pitch.
+
+## Requirement Traceability Notes
+
+Verify that the following requirements are fully implemented and demonstrated before Lab 14:
+
+- FR-01: Landing Page
+- FR-02: Login
+- FR-04: Announcements
+- FR-05: Events
+- FR-06: Projects
+- FR-07: Search
+- FR-08: Dashboard
+- FR-09: Admin
+
+Ensure every demo step is traceable to the corresponding requirement in[ `system-requirements.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/f5283844c474573263634f57709df1e6e35b9fd6/docs/system-requriments.md).
