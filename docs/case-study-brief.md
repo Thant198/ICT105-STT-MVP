@@ -89,7 +89,7 @@ The goal is to learn whether the proposed Campus Life Hub workflow is understand
 ## Practice Data
 Use the group's own validation dataset:
 - `/data/validation-results.csv`
-- `/data/validation-results-analytics.xlsx`
+- [`/data/validation-results-analytics.xlsx`](https://github.com/Thant198/ICT105-STT-MVP/blob/3c8cbf17040a9a047c046ee3c886c4ab40a75e67/data/validation_results_analytics.csv)
 
 ## Student Group Task
 After completing the MVP usability testing, the group must analyze the collected validation data, summarize the findings, and produce the required validation documents based on the Campus Life Management System prototype.
@@ -180,3 +180,42 @@ Create a landing page that introduces CampusLife Hub, explains the problem and s
 ## Reminder
 
 CampusLife Hub is developed using HTML, CSS, and JavaScript as a front-end prototype. The landing page links directly to the prototype login page (`prototype/index.html `), allowing users to experience the core features. Future versions may integrate a backend service such as Firebase, Supabase, or PHP/MySQL for authentication and real-time data management.
+
+# Case Study Brief: CampusLife Hub
+
+This case is used for the Lab 14 final-release process of the STT group project.
+
+## Problem
+
+University students often receive important announcements, campus events, project information, academic updates, and shared resources through different platforms such as LINE, Messenger, Facebook Groups, email, and learning management systems.
+
+Because the information is scattered across multiple platforms, students may miss important updates, lose useful project links, or spend unnecessary time searching for campus information.
+
+## Target Users
+
+- University students
+- Student project teams
+- Student organizations and club members
+- Lecturers and campus staff
+- Administrators who manage campus information
+
+## Final Prototype Workflow
+
+1. User opens the CampusLife Hub landing page.
+2. User reads the problem, solution, and key product features.
+3. User clicks the **Try the Demo** call-to-action.
+4. User opens the prototype login page.
+5. User logs in and accesses the homepage.
+6. User views campus announcements.
+7. User browses upcoming events.
+8. User accesses student project information and shared resources.
+9. User searches for announcements, events, or project information.
+10. User reviews the dashboard summary and campus metrics.
+11. The administrator opens the admin page to manage campus content.
+12. The final prototype demonstrates the complete flow from the landing page to the main user and administrator functions.
+
+## Final Value
+
+CampusLife Hub helps students access announcements, events, projects, and other campus information more quickly through one centralized platform.
+
+The prototype reduces information fragmentation, improves access to important updates, and helps administrators organize campus content more clearly and efficiently.
