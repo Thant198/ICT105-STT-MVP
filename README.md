@@ -525,3 +525,77 @@ The CampusLife Hub prototype is mostly ready for Lab 14. The main user flow from
 User testing was conducted to evaluate navigation, feature clarity, search usability, dashboard understanding, and the overall user experience. The team recorded the testing results and identified several improvements before the final presentation.
 
 The remaining work includes fixing usability issues, improving unclear buttons or labels, checking all page links, confirming mobile responsiveness, updating screenshots, and rehearsing the final demonstration. After these improvements are completed, the prototype will be ready for the final MVP release and venture pitch in Lab 14.
+
+# Project Title
+
+CampusLife Hub – Campus Information and Project Management System
+
+## Group Members
+
+| Name | Role | Main Contribution |
+|---|---|---|
+| Thant Sithu Soe | Repository & Documentation | Final prototype packaging, README update, prototype links, repository cleanup |
+| Tay Za Aung | Business & Product Validation | Requirement audit, feature implementation status, final venture pitch |
+| Sut Lat Shawng| Presentation & Documentation | Final demo script, final prototype report, final reflection |
+
+## Project Overview
+
+CampusLife Hub is a web-based campus management prototype designed to help students easily access announcements, events, projects, and campus information from one platform. It also provides an admin interface for managing campus content efficiently.
+
+## Target Users
+
+- University students
+- Student organizations
+- Campus administrators
+- Faculty and staff
+
+## Problem Solved
+
+Campus information is often scattered across multiple communication channels, making it difficult for students to find important announcements, events, and projects. CampusLife Hub centralizes this information into one easy-to-use platform with search and management features.
+
+## Final Prototype
+
+- Prototype folder/link:
+  `/prototype/`
+  https://thant198.github.io/ICT105-STT-MVP/prototype/
+
+- Landing page link:
+  https://thant198.github.io/ICT105-STT-MVP/landing-page/
+
+- Final demo link:
+  https://thant198.github.io/ICT105-STT-MVP/prototype/
+
+## Final Documentation
+
+- System requirements: `/docs/system-requirements.md`
+- User stories: `/docs/user-stories.md`
+- MVP feature list: `/docs/mvp-feature-list.md`
+- Feature implementation status: `/docs/feature-implementation-status.md`
+- Final prototype report: `/docs/final-prototype-report.md`
+- Final demo script: `/docs/final-demo-script.md`
+- Final reflection: `/docs/final-reflection.md`
+
+## Screenshots
+
+- Landing Page
+- Homepage Dashboard
+- Announcements Module
+- Events Module
+- Projects Module
+- Search Feature
+- Admin Dashboard
+- Demo Flow Diagram
+- User Testing Evidence
+
+## Pitch
+
+- Final pitch slides or outline: `/pitch/final-pitch-outline.md`
+
+## Data and Diagrams
+
+- Final sample data: `/data/`
+- Final diagrams: `/diagrams/`
+
+## Final Submission Notes
+
+The CampusLife Hub prototype has been completed together with its supporting documentation, screenshots, testing evidence, and GitHub repository updates. All major functional requirements have been implemented and verified against the system requirements. The repository has been organized according to the Lab 14 submission guidelines and is ready for final presentation and submission.
