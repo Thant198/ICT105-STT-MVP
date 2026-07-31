@@ -556,7 +556,7 @@ Campus information is often scattered across multiple communication channels, ma
 ## Final Prototype
 
 - Prototype folder/link:
-  `/prototype/`
+ [ `/prototype/`](https://github.com/Thant198/ICT105-STT-MVP/tree/1e6478ecb4a8b55fe090a8f48085d103c7f4fc38/prototype)
   https://thant198.github.io/ICT105-STT-MVP/prototype/
 
 - Landing page link:
@@ -567,14 +567,14 @@ Campus information is often scattered across multiple communication channels, ma
 
 ## Final Documentation
 
-- System requirements: `/docs/system-requirements.md`
-- User stories: `/docs/user-stories.md`
-- MVP feature list: `/docs/mvp-feature-list.md`
-- Feature implementation status: `/docs/feature-implementation-status.md`
-- Final prototype report: `/docs/final-prototype-report.md`
-- Final demo script: `/docs/final-demo-script.md`
-- Final reflection: `/docs/final-reflection.md`
-
+- System requirements: [`/docs/system-requirements.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/1e6478ecb4a8b55fe090a8f48085d103c7f4fc38/docs/system-requriments.md)
+- User stories: [`/docs/user-stories.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/1e6478ecb4a8b55fe090a8f48085d103c7f4fc38/docs/user-stories.md)
+- MVP feature list: [`/docs/mvp-feature-list.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/1e6478ecb4a8b55fe090a8f48085d103c7f4fc38/docs/mvp-feature-list.md)
+- Feature implementation status: [`/docs/feature-implementation-status.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/1e6478ecb4a8b55fe090a8f48085d103c7f4fc38/docs/feature-implementation-status.md)
+- Final prototype report: [`/docs/final-prototype-report.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/1e6478ecb4a8b55fe090a8f48085d103c7f4fc38/docs/final-prototype-report.md)
+- Final demo script: [`/docs/final-demo-script.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/1e6478ecb4a8b55fe090a8f48085d103c7f4fc38/docs/final-demo-script.md)
+- Final reflection: [`/docs/final-reflection.md`
+](https://github.com/Thant198/ICT105-STT-MVP/blob/1e6478ecb4a8b55fe090a8f48085d103c7f4fc38/docs/final-reflection.md)
 ## Screenshots
 
 - Landing Page
@@ -589,13 +589,13 @@ Campus information is often scattered across multiple communication channels, ma
 
 ## Pitch
 
-- Final pitch slides or outline: `/pitch/final-pitch-outline.md`
-
+- Final pitch slides or outline: [`/pitch/final-pitch-outline.md`
+](https://github.com/Thant198/ICT105-STT-MVP/blob/1e6478ecb4a8b55fe090a8f48085d103c7f4fc38/pitch/final-pitch-outline.md)
 ## Data and Diagrams
 
-- Final sample data: `/data/`
-- Final diagrams: `/diagrams/`
-
+- Final sample data:[ `/data/`](https://github.com/Thant198/ICT105-STT-MVP/tree/1e6478ecb4a8b55fe090a8f48085d103c7f4fc38/data)
+- Final diagrams:[ `/diagrams/`
+](https://github.com/Thant198/ICT105-STT-MVP/tree/1e6478ecb4a8b55fe090a8f48085d103c7f4fc38/diagrams)
 ## Final Submission Notes
 
 The CampusLife Hub prototype has been completed together with its supporting documentation, screenshots, testing evidence, and GitHub repository updates. All major functional requirements have been implemented and verified against the system requirements. The repository has been organized according to the Lab 14 submission guidelines and is ready for final presentation and submission.
