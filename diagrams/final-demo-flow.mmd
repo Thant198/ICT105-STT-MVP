@@ -1,0 +1,32 @@
+---
+config:
+  layout: elk
+---
+flowchart TD
+    A[Start Final Demo]
+    A --> B[Introduce CampusLife Hub Problem and Target Users]
+    B --> C[Open Landing Page]
+    C --> D[Click Try the Demo]
+    D --> E[Login]
+    E --> F[Open Homepage]
+    F --> G[View Announcements]
+    G --> H[Browse Events]
+    H --> I[View Projects]
+    I --> J[Search Campus Information]
+    J --> K[Open Dashboard]
+    K --> L[Open Admin Page]
+    L --> M[Explain Requirement Traceability]
+    M --> N[Present User Testing Results]
+    N --> O[Explain Business Value and Startup Metrics]
+    O --> P[Final Pitch Closing]
+    
+    classDef intro fill:#eef2ff,stroke:#818cf8
+    classDef demo fill:#f0fdfa,stroke:#2dd4bf
+    classDef feature fill:#f0f9ff,stroke:#38bdf8
+    classDef closing fill:#fff7ed,stroke:#fb923c
+    
+    class A intro
+    class B intro
+    class C,D,E,F demo
+    class G,H,I,J,K,L feature
+    class M,N,O,P closing
