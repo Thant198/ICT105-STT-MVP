@@ -498,3 +498,30 @@ The Lab 12 landing page introduces CampusLife Hub by clearly presenting the prob
 | Tay Za Aung | Reviewed the prototype value proposition, prepared the go-to-market strategy, and defined acquisition metrics. | Issues **#74**, **#78**, **#79** |
 | Suttmarip | Wrote the landing page content and messaging, and connected the CTA to the working prototype. | Issues **#75**, **#77** |
 ```
+### Lab 13 Objective
+
+We prepared the final sales scenario, prototype demonstration script, user testing plan, testing results, and final improvement list for CampusLife Hub before the final MVP presentation in Lab 14.
+
+### Files Completed
+
+- [x] `/docs/sales-scenario.md`
+- [x] `/docs/demo-script.md`
+- [x] `/docs/user-testing-plan.md`
+- [x] `/docs/user-testing-results.md`
+- [x] `/docs/final-improvement-list.md`
+- [x] `/docs/weekly-logbook.md`
+- [x] `/screenshots/demo-flow.png`
+- [x] `/screenshots/user-testing-evidence.png`
+
+### Prototype / Demo Link
+
+- Landing Page: `https://thant198.github.io/ICT105-STT-MVP/landing-page/`
+- Prototype Demo: `https://thant198.github.io/ICT105-STT-MVP/prototype/`
+
+### Final Preparation Status
+
+The CampusLife Hub prototype is mostly ready for Lab 14. The main user flow from the landing page to the prototype has been completed, including login, homepage, announcements, events, projects, search, dashboard, and admin pages.
+
+User testing was conducted to evaluate navigation, feature clarity, search usability, dashboard understanding, and the overall user experience. The team recorded the testing results and identified several improvements before the final presentation.
+
+The remaining work includes fixing usability issues, improving unclear buttons or labels, checking all page links, confirming mobile responsiveness, updating screenshots, and rehearsing the final demonstration. After these improvements are completed, the prototype will be ready for the final MVP release and venture pitch in Lab 14.
