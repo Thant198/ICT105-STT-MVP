@@ -555,7 +555,7 @@ CampusLife Hub – Smart Campus Information System
 |---|---|---|---|
 | **Thant Sithu Soe** | Improved the prototype UI, created the login page, updated screen layouts and navigation flow, captured updated screenshots, and updated the project README. | Issue #72 |
 | **Tay Za Aung** | Reviewed Sprint 2 implementation status, updated feature implementation documentation, completed the weekly logbook, enhanced data persistence and testing, and documented prototype test cases. |  Issues #70, #73 |
-| **Sutmarip (Sut Lat Shawn)** | Built the Power BI dashboard, prepared startup metrics, exported dashboard screenshots, and documented metric analysis. |  Issue #71 |
+| **Sut Lat Shawng** | Built the Power BI dashboard, prepared startup metrics, exported dashboard screenshots, and documented metric analysis. |  Issue #71 |
 
 ## Requirements Addressed
 - FR-01: Homepage / Landing Dashboard
@@ -606,7 +606,7 @@ CampusLife Hub
 | --- | --- | --- |
 | Thant Sithu Soe | Built the CampusLife Hub landing page interface, uploaded required screenshots, updated the README, and completed the weekly logbook documentation. | (Issues #76, #80) |
 | Tay Za Aung | Reviewed the prototype value proposition, prepared the go-to-market strategy, and defined acquisition metrics with the CSV template. | (Issues #74, #78, #79) |
-| Suttmarip | Wrote the landing page content and messaging, and connected the landing page CTA to the working prototype. | (Issues #75, #77) |
+| Sut Lat Shawng | Wrote the landing page content and messaging, and connected the landing page CTA to the working prototype. | (Issues #75, #77) |
 
 ## Landing Page Progress
 
@@ -700,3 +700,58 @@ Verify that the following requirements are fully implemented and demonstrated be
 - FR-09: Admin
 
 Ensure every demo step is traceable to the corresponding requirement in[ `system-requirements.md`](https://github.com/Thant198/ICT105-STT-MVP/blob/f5283844c474573263634f57709df1e6e35b9fd6/docs/system-requriments.md).
+
+# Weekly Logbook - Lab 14
+
+## Group Name
+STT
+
+## Date
+31 July 2026
+
+## Members Present
+- Thant Sithu Soe
+- Tay Za Aung
+- Sut Lat Shawng
+
+## What We Completed Today
+- Reviewed the final prototype and verified all implemented features.
+- Updated the feature implementation status and requirement traceability.
+- Prepared the final prototype report and project reflection.
+- Completed the final demo script for the presentation.
+- Updated the README with the final project information and prototype links.
+- Organized screenshots, documentation, and supporting files for submission.
+
+## Final Prototype Updates
+- Verified the CampusLife Hub prototype functionality.
+- Confirmed that the landing page and prototype links are working.
+- Reviewed the main user flow and updated screenshots where necessary.
+- Checked navigation, search, dashboard, and admin features before submission.
+
+## Final Documentation Updates
+- Completed the Final Prototype Report.
+- Completed the Final Demo Script.
+- Updated the README.
+- Updated the Feature Implementation Status document.
+- Added the final prototype link document.
+- Updated the Weekly Logbook.
+
+## GitHub Contributions Today
+
+| Member | File/Issue/Commit Updated | Evidence Link |
+|---|---|---|
+| Tay Za Aung | Requirement audit, feature status update, final venture pitch | Issues #87, #88 |
+| Thant Sithu Soe | Final prototype link, README update, repository cleanup | Issues #89, #92 |
+| Sut Lat Shawng| Final demo script, final prototype report and reflection | Issues #90, #91 |
+
+## Problems Found Before Submission
+- Minor UI improvements were identified during the final review.
+- Documentation formatting was checked and corrected where necessary.
+- Prototype links and screenshots were verified before submission.
+
+## Action Before Final Presentation
+- Perform one final repository review.
+- Verify that all prototype links work correctly.
+- Rehearse the final presentation and demo flow.
+- Confirm that all required documents are committed to GitHub.
+- Submit the repository link to the lecturer.
